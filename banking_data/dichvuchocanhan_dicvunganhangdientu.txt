@@ -1,0 +1,140 @@
+Dịch vụ ngân hàng điện tử dành cho cá nhân
+n--Internet Banking: Phương thức quản lý tài chính đa tiện ích, an toàn, hiện đại n--Mobile Banking: Giải pháp ngân hàng hiện đại trên di động n--Tiện ích thanh toán M- QR n--SMS Banking: Dịch vụ an toàn, đơn giản và thuận tiện n--Chuyển tiền nhanh liên ngân hàng: Mọi lúc, mọi nơi, nhận tiền trong vòng 10 giây n--Tiện ích thanh toán: An toàn bảo mật và hoàn toàn miễn phí n--Tiền gửi có kỳ hạn trực tuyến: Lãi suất cao, tiện dụng khi gửi góp n--Dịch vụ MSB Bankplus: Dịch vụ giao dịch trực tuyến dành riêng cho chủ thuê bao di động Viettel
+
+Dịch vụ ngân hàng điện tử dành cho cá nhân: Internet Banking
+Internet Banking là dịch vụ ngân hàng trực tuyến sử dụng trên máy tính có kết nối internet dành cho khách hàng cá nhân có tài khoản mở tại MSB. n--Tiện lợi: Phương thức sử dụng đơn giản, tính di động cao n--Tiết kiệm: Khách hàng chủ động quản lý tài chính, tiết kiệm chi phí, thời gian đi lại, thời gian giao dịch. n--Nhanh chóng: Thao tác giao dịch đơn giản, hiệu lực tức thời. n--An toàn: Cơ chế bảo mật 2 lớp, quy trình đóng cùng phương thức mã hóa dữ liệu, mã hóa đường truyền SSL giúp giao dịch an toàn, bảo mật tối đa. n-Bạn có thể xem chi tiết tại: https://www.msb.com.vn/Dich-vu-ngan-hang-dien-tu/343/3/Internet-Banking
+
+Dịch vụ ngân hàng điện tử dành cho cá nhân: Lợi ích của Internet Banking
+Internet Banking là dịch vụ ngân hàng trực tuyến sử dụng trên máy tính có kết nối internet dành cho khách hàng cá nhân có tài khoản mở tại MSB. n--Tiện lợi: Phương thức sử dụng đơn giản, tính di động cao n--Tiết kiệm: Khách hàng chủ động quản lý tài chính, tiết kiệm chi phí, thời gian đi lại, thời gian giao dịch. n--Nhanh chóng: Thao tác giao dịch đơn giản, hiệu lực tức thời. n--An toàn: Cơ chế bảo mật 2 lớp, quy trình đóng cùng phương thức mã hóa dữ liệu, mã hóa đường truyền SSL giúp giao dịch an toàn, bảo mật tối đa. 
+
+Dịch vụ ngân hàng điện tử dành cho cá nhân: Tính năng vượt trội của Internet Banking
+Quản lý và truy vấn thông tin tài khoản, lịch sử giao dịch n-Chuyển tiền: n--Chuyển khoản nội bộ với hạn mức lên tới 5 tỷ VNĐ/ngày n--Chuyển liên ngân hàng với hạn mức lên tới 1 tỷ VNĐ/ngày n--Chuyển tiền nhanh liên ngân hàng 24/7 qua thẻ hoặc tài khoản với hạn mức lên tới 300 triệu VNĐ/ngày và 100 triệu VNĐ/giao dịch. n-Gửi tiết kiệm trực tuyến, tối thiểu 1 triệu VNĐ/tài khoản tiết kiệm n-Thanh toán hóa đơn trả sau, thanh toán tự động hàng tháng với hạn mức lên tới 500 triệu VNĐ/ngày n-Nạp tiền điện thoại, game, nạp tiền điện thoại tự động vào ngày khuyến mại, với hạn mức lên tới 500 triệu VNĐ/ngày n-Quản lý thông tin thẻ và thanh toán dư nợ thẻ tín dụng n-Tra cứu mạng lưới ATM, chi nhánh, thế giới ưu đãi JOY n-Tra cứu điểm thưởng tích lũy và đổi quà
+
+Dịch vụ ngân hàng điện tử dành cho cá nhân: Điều kiện sử dụng Internet Banking
+Điều kiện cần: Khách hàng là chủ tài khoản thanh toán mở tại MSB và đã đăng ký sử dụng dịch vụ Internet Banking. n-Điều kiện đủ: Có máy tính (PC, Laptop, Tablet) kết nối Internet sử dụng trình duyệt: Internet Explorer, Mozilla FireFox…
+
+Dịch vụ ngân hàng điện tử dành cho cá nhân: Đăng ký Internet Banking
+Khách hàng đã có tài khoản thanh toán mở tại MSB và đã đăng ký số điện thoại di động với ngân hàng n-Khách hàng đã có tài khoản thanh toán mở tại MSB, đã đăng ký dịch vụ SMS Banking và có địa chỉ email hợp lệ, vui lòng đăng ký theo các bước sau: n--Bước 1: Đăng ký Internet Banking n-Gửi SMS tới 8049 theo cú pháp “MSB DKIB [Số CMND/Hộ Chiếu]” n-Ví dụ: Soạn “MSB DKIB 034185001708” gửi tới 8049 n--Bước 2: Xác thực yêu cầu n-Gửi SMS tới 8049 theo cú pháp “MSB XNDK OK” n-Khách hàng chưa mở tài khoản thanh toán tại MSB và chưa đăng ký số điện thoại di động với ngân hàng, vui lòng đến Phòng giao dịch của MSB gần nhất để đăng ký dịch vụ.
+
+Dịch vụ ngân hàng điện tử dành cho cá nhân: Đăng nhập Internet Banking
+Khách hàng nhận tin nhắn thông báo Mật khẩu truy cập Internet Banking qua số điện thoại di động đã đăng ký với MSB. n-Khách hàng sử dụng Tên truy cập đã đăng ký và mật khẩu truy cập vừa nhận được để đăng nhập Internet Banking kích hoạt dịch vụ. n-Thực hiện đổi mật khẩu ngay lập tức để đảm bảo an toàn.
+
+Dịch vụ ngân hàng điện tử dành cho cá nhân: Mobile Banking
+Với Mobile App phiên bản mới của MSB, việc quản lý tài chính và giao dịch ngân hàng thật an toàn, đơn giản, tiện lợi hơn bởi: n--An toàn với cơ chế bảo mật 2 lớp: Mật mã truy cập và mật mã xác nhận cho từng giao dịch. Điểm quan trọng khác biệt là mật mã giao dịch được thiết kế dành riêng cho khách hàng để thực hiện giao dịch ngân hàng trên điện thoại; n--Giao diện thân thiện, giản lược tối đa các bước thao tác để khách hàng dễ sử dụng n--Ứng dụng như một người trợ lý thông minh giúp bạn chủ động thanh toán và quản lý các giao dịch. n-Bạn có thể xem chi tiết tại: https://www.msb.com.vn/Dich-vu-ngan-hang-dien-tu/945/3/Mobile-Banking
+
+Dịch vụ ngân hàng điện tử dành cho cá nhân: Lợi ích của Mobile Banking
+Với Mobile App phiên bản mới của MSB, việc quản lý tài chính và giao dịch ngân hàng thật an toàn, đơn giản, tiện lợi hơn bởi: n--An toàn với cơ chế bảo mật 2 lớp: Mật mã truy cập và mật mã xác nhận cho từng giao dịch. Điểm quan trọng khác biệt là mật mã giao dịch được thiết kế dành riêng cho khách hàng để thực hiện giao dịch ngân hàng trên điện thoại; n--Giao diện thân thiện, giản lược tối đa các bước thao tác để khách hàng dễ sử dụng n--Ứng dụng như một người trợ lý thông minh giúp bạn chủ động thanh toán và quản lý các giao dịch. 
+
+Dịch vụ ngân hàng điện tử dành cho cá nhân: Tính năng của Mobile Banking
+n--Quản lý và truy vấn thông tin tài khoản, lịch sử giao dịch. n--Chuyển tiền n--Gửi tiết kiệm lãi suất ưu đãi, hình thức linh hoạt, tối thiểu 1 triệu VNĐ/thẻ tiết kiệm. n--Thanh toán hoá đơn trả sau, thanh toán tự động hàng tháng với hạn mức lên tới 90 triệu VND/ngày, 30 triệu VNĐ/giao dịch. n--Nạp tiền điện thoại/game, nạp tiền vào ngày khuyến mại với hạn mức lên 90 triệu VND/ngày, 30 triệu VNĐ/giao dịch. n--Quản lý thông tin thẻ, giao dịch Mobile App n--Đăng ký vay, đăng ký mở thẻ tín dụng. n--Tra cứu mạng lưới ATM/chi nhánh/cộng đồng ưu đãi, thông tin tỷ giá, lãi suất tiết kiệm, điểm thưởng tích luỹ và các thông tin khác… n-Bạn có thể xem chi tiết tại: https://www.msb.com.vn/Dich-vu-ngan-hang-dien-tu/945/3/Mobile-Banking
+
+Dịch vụ ngân hàng điện tử dành cho cá nhân: Điều kiện sử dụng Mobile Banking
+Điều kiện cần: Khách hàng là chủ tài khoản thanh toán mở tại MSB và đã đăng ký sử dụng dịch vụ Internet Banking. n-Điều kiện đủ: Có iPhone/iPad có hệ điều hành iOS từ 8.0 trở lên, hoặc điện thoại di động/máy tính bảng có hệ điều hành Android từ 4.1 trở lên máy tính kết nối Internet, cài đặt ứng dụng Mobile App.
+
+Dịch vụ ngân hàng điện tử dành cho cá nhân: Hướng dẫn cài đặt Mobile Banking
+Với khách hàng mới: (chưa cài đặt ứng dụng) n--Để sử dụng Mobile App, Khách hàng chỉ cần tải và cài ứng dụng trên điện thoại/máy tính bảng, sử dụng mã truy cập và mật khẩu Internet Banking để đăng nhập. n-+Tải ứng dụng Mobile App dành cho hệ điều hành iOS phiên bản 8.0 trở lên tại Appstore. n-+Tải ứng dụng Mobile App dành cho hệ điều hành Android phiên bản 4.1 trở lên tại Google Play. n-Với khách hàng cũ: (đã cài đặt ứng dụng từ 13/2/2017 trở về trước) n-+Khách hàng sử dụng thiết bị có hệ điều hành tương thích thì vào Appstore hoặc Google Play để cập nhật phiên bản mới. n-+Khách hàng sử dụng thiết bị có hệ điều hành không tương thích thì vẫn có thể sử dụng phiên bản cũ. n-Bạn có thể xem video hướng dẫn tải và kích hoạt Mobile Banking tại: https://youtu.be/KBAfa3RRiXw
+
+Dịch vụ ngân hàng điện tử dành cho cá nhân: Tiện ích thanh toán M - QR
+Tiện ích thanh toán M-QR cho phép khách hàng sử dụng chức năng thanh toán QR code (M-QR/QR Pay) trên ứng dụng Mobile Banking của MSB. Khách hàng thực hiện quét mã QR code tại các 34,000 điểm chấp nhận thanh toán QR trên toàn quốc để thanh toán tiền mua hàng hóa và dịch vụ cho bên cung cấp. n-Bạn có thể xem chi tiết tại: https://www.msb.com.vn/Dich-vu-ngan-hang-dien-tu/2001/3/Tien-ich-thanh-toan-M--QR
+
+Dịch vụ ngân hàng điện tử dành cho cá nhân: Giới thiệu Tiện ích thanh toán M - QR
+Tiện ích thanh toán M-QR cho phép khách hàng sử dụng chức năng thanh toán QR code (M-QR/QR Pay) trên ứng dụng Mobile Banking của MSB. Khách hàng thực hiện quét mã QR code tại các 34,000 điểm chấp nhận thanh toán QR trên toàn quốc để thanh toán tiền mua hàng hóa và dịch vụ cho bên cung cấp. n-Bạn có thể xem chi tiết tại: https://www.msb.com.vn/Dich-vu-ngan-hang-dien-tu/2001/3/Tien-ich-thanh-toan-M--QR
+
+Dịch vụ ngân hàng điện tử dành cho cá nhân: Tiện ích của thanh toán M - QR
+MSB cung cấp giải pháp thanh toán bằng mã QR trên Mobile App với những đặc điểm vượt trội hơn hẳn so với các phương thức thanh toán thông thường trên thị trường. n--Thanh toán đơn giản không cần tiền mặt hay thẻ tại hơn 34.000 điểm chấp nhận thanh toán trên toàn quốc, quét mã QR hoàn thành giao dịch chỉ vài giây. n--Giao dịch an toàn hơn với 3 lớp bảo mật trên điện thoại và ứng dụng. n--Liên tục cập nhật các ưu đãi hấp dẫn khi thanh toán qua M-QR của MSB
+
+Dịch vụ ngân hàng điện tử dành cho cá nhân: Điều kiện sử dụng thanh toán M - QR
+ĐIỀU KIỆN CẦN: n-Khách hàng là chủ tài khoản thanh toán mở tại MSB và đã đăng ký sử dụng dịch vụ Internet Banking. n-ĐIỀU KIỆN ĐỦ: n--Khách hàng sử dụng thiết bị di động chạy hệ điều hành iOS yêu cầu từ iOS 8.0 trở lên và khách hàng sử dụng thiết bị di động chạy hệ điều hành Android yêu cầu từ Android 4.1 trở lên. n--Thiết bị di dộng có cài đặt ứng dụng MSB mBanking trên 2 nền tảng iOS và Android. n--Khách hàng hoàn thành các bước kích hoạt dịch vụ Mobile Banking và đăng nhập thành công ứng dụng Mobile Banking của MSB.
+
+Dịch vụ ngân hàng điện tử dành cho cá nhân: Hướng dẫn sử dụng thanh toán M - QR
+BƯỚC 1: ĐĂNG NHẬP ỨNG DỤNG MSB mBank n-BƯỚC 2: KÍCH HOẠT TÍNH NĂNG THANH TOÁN M-QR n--Kích hoạt tính năng thanh toán M-QR bằng cách click vào biểu tượng Thanh toán QR ở màn hình trang chủ. n-BƯỚC 3: QUÉT MÃ QR n--Thực hiện quét mã QR tại hóa đơn thanh toán/ trên sản phẩm do điểm chấp nhận thanh toán cung cấp. n-BƯỚC 4: XÁC NHẬN GIAO DỊCH n--Hoàn thiện và kiểm tra thông tin thanh toán (VD: Tên sản phẩm, nhà hàng, cửa hàng..., thành tiền hoá đơn, thông tin người mua hàng, địa chỉ người nhận, số điện thoại, email đối với những hình thức mua hàng giao tại nhà). n--Nhập mật khẩu giao dịch 4 chữ số hoặc 6 chữ số (đối với hoá đơn trên 200.000 VND) để hoàn thành giao dịch thanh toán.
+
+Dịch vụ ngân hàng điện tử dành cho cá nhân: SMS Banking
+Với dịch vụ SMS Banking, Quý khách có thể thực hiện các giao dịch một cách an toàn, đơn giản và thuận tiện. n-Khách hàng chỉ cần nhắn tin và gửi tới đầu số 8049 là có thể: n--Tra cứu số dư tài khoản mặc định hoặc tài khoản khác của khách hàng n--Sao kê tài khoản n--Tra cứu tỉ giá, lãi suất n--Chuyển tiền giữa các tài khoản của Khách hàng n--Chuyển tiền tới các tài khoản của người khác mở tại MSB. n--Nạp tiền vào tài khoản dịch vụ trả trước (điện thoại, 3G, game…) n-Khách hàng có thể đăng ký dịch vụ tin nhắn thông báo biến động số dư để nhận được tin nhắn thông báo khi có giao dịch làm thay đổi số dư phát sinh trên tài khoản thanh toán (không áp dụng cho các giao dịch có giá trị và phí dưới 30.000VNĐ hoặc các giao dịch thu phí quản lý tài khoản, phí sử dụng dịch vụ). n-Bạn có thể xem chi tiết tại: https://www.msb.com.vn/Dich-vu-ngan-hang-dien-tu/301/3/SMS-Banking
+
+Dịch vụ ngân hàng điện tử dành cho cá nhân: Lợi ích của SMS Banking
+Với dịch vụ SMS Banking, Quý khách có thể thực hiện các giao dịch một cách an toàn, đơn giản và thuận tiện. n-Khách hàng chỉ cần nhắn tin và gửi tới đầu số 8049 là có thể: n--Tra cứu số dư tài khoản mặc định hoặc tài khoản khác của khách hàng n--Sao kê tài khoản n--Tra cứu tỉ giá, lãi suất n--Chuyển tiền giữa các tài khoản của Khách hàng n--Chuyển tiền tới các tài khoản của người khác mở tại MSB. n--Nạp tiền vào tài khoản dịch vụ trả trước (điện thoại, 3G, game…) n-Khách hàng có thể đăng ký dịch vụ tin nhắn thông báo biến động số dư để nhận được tin nhắn thông báo khi có giao dịch làm thay đổi số dư phát sinh trên tài khoản thanh toán (không áp dụng cho các giao dịch có giá trị và phí dưới 30.000VNĐ hoặc các giao dịch thu phí quản lý tài khoản, phí sử dụng dịch vụ). n-Bạn có thể xem chi tiết tại: https://www.msb.com.vn/Dich-vu-ngan-hang-dien-tu/301/3/SMS-Banking
+
+Dịch vụ ngân hàng điện tử dành cho cá nhân: Hướng dẫn đăng ký SMS Banking
+Để sử dụng dịch vụ SMS Banking, Quý khách vui lòng đến quầy giao dịch gần nhất của MSB để đăng ký dịch vụ hoặc có thể đăng ký trực tuyến bằng cách: n--Đăng ký gói Truy vấn bằng tin nhắn gửi tới đầu số 8049 theo cú pháp sau: MSB DK [Số CMT/Hộ chiếu] hoặc MSB DANGKY [Số CMT/Hộ chiếu]. n--Đăng ký Dịch vụ nhận biến động số dư bằng tin nhắn gửi tới đầu số 8049 theo cú pháp sau: MSB TB hoặc MSB THONGBAO. Khách hàng sẽ nhận được số dư của tất cả các tài khoản thanh toán hiện hữu vào số điện thoại đã đăng ký.
+
+Dịch vụ ngân hàng điện tử dành cho cá nhân: Chuyển tiền nhanh liên ngân hàng
+Chuyển tiền liên ngân hàng trên ngân hàng điện tử Internet Banking: Chuyển tiền tới số thẻ, số tài khoản tại NH khác n-Chuyển tiền nhanh mọi lúc, mọi nơi kể cả ngày nghỉ hoặc lễ tết n-Giao dịch nhanh chóng, nhận tiền trong vòng 10 giây n-Hạn mức chuyển lên tới 300 triệu VNĐ/ngày và 100 triệu VNĐ/giao dịch n-Phí ưu đãi: 0.02% số tiền giao dịch, tối thiểu: 10.000 đ/giao dịch, tối đa: 20.000 đ/giao dịch n-Giao dịch an toàn với công nghệ bảo mật hàng đầu thế giới. 
+
+Dịch vụ ngân hàng điện tử dành cho cá nhân: thanh toán hóa đơn
+Tiện ích: n--Thanh toán nhanh chóng, an toàn, bảo mật các loại hóa đơn dịch vụ hàng tháng, không còn nỗi lo bị cắt dịch vụ khi nộp trễ hạn. n--Hạn mức giao dịch lên đến 500 triệu đồng/ngày. n--Quản lý việc thanh toán hóa đơn dễ dàng, thuận tiện n--Hoàn toàn miễn phí giao dịch n-Hình thức thanh toán: n--Thanh toán chủ động: Đăng nhập M-Banking và thực hiện giao dịch thanh toán theo hóa đơn phát sinh n--Thanh toán tự động: Đăng ký trên M-Banking một lần duy nhất, hàng tháng hóa đơn sẽ được tự động trích nợ từ tài khoản để thanh toán (áp dụng với dịch vụ viễn thông: thuê bao di động trả sau, điện thoại cố định, internet).
+
+Dịch vụ ngân hàng điện tử dành cho cá nhân: tiện ích thanh toán hóa đơn
+n--Thanh toán nhanh chóng, an toàn, bảo mật các loại hóa đơn dịch vụ hàng tháng, không còn nỗi lo bị cắt dịch vụ khi nộp trễ hạn. n--Hạn mức giao dịch lên đến 500 triệu đồng/ngày. n--Quản lý việc thanh toán hóa đơn dễ dàng, thuận tiện n--Hoàn toàn miễn phí giao dịch 
+
+Dịch vụ ngân hàng điện tử dành cho cá nhân: Hình thức thanh toán hóa đơn
+n--Thanh toán chủ động: Đăng nhập M-Banking và thực hiện giao dịch thanh toán theo hóa đơn phát sinh n--Thanh toán tự động: Đăng ký trên M-Banking một lần duy nhất, hàng tháng hóa đơn sẽ được tự động trích nợ từ tài khoản để thanh toán (áp dụng với dịch vụ viễn thông: thuê bao di động trả sau, điện thoại cố định, internet).
+
+Dịch vụ ngân hàng điện tử dành cho cá nhân: Danh sách nhà cung cấp dịch vụ thanh toán hóa đơn
+Bạn có thể xem chi tiết tại: https://www.msb.com.vn/Dich-vu-ngan-hang-dien-tu/843/3/Tien-ich-thanh-toan
+
+Dịch vụ ngân hàng điện tử dành cho cá nhân: Mua hàng trực tuyến - Mpaynow
+Tiện ích: n--Thanh toán trực tuyến tiền mua hàng hóa, dịch vụ trên các website bán hàng một cách đơn giản, nhanh chóng, thuận tiện n--Đa dạng nhà cung cấp hàng hóa, dịch vụ như vé máy bay, trung tâm mua sắm, tạp chiếu phim, khách sạn… n--Hạn mức giao dịch lên đến 100 triệu đồng/ngày n--Hoàn toàn miễn phí giao dịch. n-Bạn có thể xem chi tiết tại: https://www.msb.com.vn/Dich-vu-ngan-hang-dien-tu/843/3/Tien-ich-thanh-toan
+
+Dịch vụ ngân hàng điện tử dành cho cá nhân: Lợi ích của Mua hàng trực tuyến - Mpaynow
+Tiện ích: n--Thanh toán trực tuyến tiền mua hàng hóa, dịch vụ trên các website bán hàng một cách đơn giản, nhanh chóng, thuận tiện n--Đa dạng nhà cung cấp hàng hóa, dịch vụ như vé máy bay, trung tâm mua sắm, tạp chiếu phim, khách sạn… n--Hạn mức giao dịch lên đến 100 triệu đồng/ngày n--Hoàn toàn miễn phí giao dịch. 
+
+Dịch vụ ngân hàng điện tử dành cho cá nhân: Danh sách nhà cung cấp dịch vụ Mua hàng trực tuyến - Mpaynow
+Bạn có thể xem chi tiết tại: https://www.msb.com.vn/Dich-vu-ngan-hang-dien-tu/843/3/Tien-ich-thanh-toan
+
+Dịch vụ ngân hàng điện tử dành cho cá nhân: Thanh toán tự động cước viễn thông
+Tiện ích: n-Với dịch vụ thanh toán tự động cước viễn thông, chỉ cần đăng ký 1 lần duy nhất tại quầy giao dịch, bạn sẽ dễ dàng chi trả hóa đơn trả sau hay nạp tiền trả trước của các nhà mạng một cách đơn giản, nhanh chóng, tự động hàng tháng! n--Không lo trễ hạn thanh toán hóa đơn cước trả sau n--Tự động nạp tiền khi có khuyến mại trả trước của nhà mạng n--Đa dạng các nhà cung cấp viễn thông: Vinaphone, Mobifone, Viettel n--Đăng ký cùng lúc cho nhiều số thuê bao di động khác nhau n--Hoàn toàn miễn phí đăng ký. n-Bạn có thể xem chi tiết tại: https://www.msb.com.vn/Dich-vu-ngan-hang-dien-tu/843/3/Tien-ich-thanh-toan
+
+Dịch vụ ngân hàng điện tử dành cho cá nhân: Tiện ích của Thanh toán tự động cước viễn thông
+Tiện ích: n-Với dịch vụ thanh toán tự động cước viễn thông, chỉ cần đăng ký 1 lần duy nhất tại quầy giao dịch, bạn sẽ dễ dàng chi trả hóa đơn trả sau hay nạp tiền trả trước của các nhà mạng một cách đơn giản, nhanh chóng, tự động hàng tháng! n--Không lo trễ hạn thanh toán hóa đơn cước trả sau n--Tự động nạp tiền khi có khuyến mại trả trước của nhà mạng n--Đa dạng các nhà cung cấp viễn thông: Vinaphone, Mobifone, Viettel n--Đăng ký cùng lúc cho nhiều số thuê bao di động khác nhau n--Hoàn toàn miễn phí đăng ký. 
+
+Dịch vụ ngân hàng điện tử dành cho cá nhân: Điều kiện Thanh toán tự động cước viễn thông
+Khách hàng sử dụng các dịch vụ viễn thông trả sau hoặc trả trước của các nhà mạng: VinaPhone, Mobifone, Viettel… n-Khách hàng có tài khoản hoạt động tại MSB n-Số dư của khách hàng phải có đủ số tài khoản để thanh toán hóa đơn hoặc bằng mệnh giá đăng ký trả trước khi có khuyến mại
+
+Dịch vụ ngân hàng điện tử dành cho cá nhân: Đăng ký Thanh toán tự động cước viễn thông
+Đăng ký 1 lần duy nhất: n--Trên M-Banking: Khách hàng truy cập Internet Banking, chọn tính năng “Thanh toán hóa đơn”/”Nạp tiền”; chọn “Thanh toán tự động” khi khởi tạo lệnh thanh toán hóa đơn/nạp tiền. Đọc và tích vào phần điều kiện & điều khoản dịch vụ. Với nạp tiền trả trước, khách hàng chọn số lần tối đa tự động nạp vào ngày khuyến mại trong tháng. Tham khảo hướng dẫn sử dụng tại đây. n--Tại quầy giao dịch: Khách hàng mang theo Chứng minh thư hoặc hộ chiếu đến quầy giao dịch đăng ký theo mẫu biểu của Ngân hàng. Vui lòng đến các điểm giao dịch MSB gần nhất để đăng ký dịch vụ
+
+Dịch vụ ngân hàng điện tử dành cho cá nhân: Nạp tiền
+Tiện ích: n--Nạp tiền cho các thuê bao di động trả trước/3G của các nhà mạng: Vinaphone, Mobifone, Viettel, Vietnammobile, Sfone, Beeline (Gmobile) n--Nạp tiền cho Game online, học trực tuyến n--Nạp tiền mọi lúc mọi nơi chỉ với vài click chuột n--Tiết kiệm thời gian, không mất công mua thẻ nạp n--Hạn mức giao dịch lên đến 500 triệu VNĐ/ngày n--Hoàn toàn miễn phí giao dịch. n-Bạn có thể xem chi tiết tại: https://www.msb.com.vn/Dich-vu-ngan-hang-dien-tu/843/3/Tien-ich-thanh-toan
+
+Dịch vụ ngân hàng điện tử dành cho cá nhân: Tiện ích Nạp tiền
+Tiện ích: n--Nạp tiền cho các thuê bao di động trả trước/3G của các nhà mạng: Vinaphone, Mobifone, Viettel, Vietnammobile, Sfone, Beeline (Gmobile) n--Nạp tiền cho Game online, học trực tuyến n--Nạp tiền mọi lúc mọi nơi chỉ với vài click chuột n--Tiết kiệm thời gian, không mất công mua thẻ nạp n--Hạn mức giao dịch lên đến 500 triệu VNĐ/ngày n--Hoàn toàn miễn phí giao dịch. n-Bạn có thể xem chi tiết tại: https://www.msb.com.vn/Dich-vu-ngan-hang-dien-tu/843/3/Tien-ich-thanh-toan
+
+Dịch vụ ngân hàng điện tử dành cho cá nhân: Danh sách nhà cung cấp dịch vụ Nạp tiền
+Bạn có thể xem chi tiết tại: https://www.msb.com.vn/Dich-vu-ngan-hang-dien-tu/843/3/Tien-ich-thanh-toan
+
+Dịch vụ ngân hàng điện tử dành cho cá nhân: Gửi tiền có kỳ hạn trực tuyến
+Lợi ích: n--Lãi suất cao hơn tới 0.5% so với tại quầy; n--Lựa chọn phong phú với 5 dòng sản phẩm Tiết kiệm trực tuyến; n--Công nghệ bảo mật hàng đầu thế giới; n--Tiện dụng khi gửi góp định kỳ hoặc gửi thêm. n-Bạn có thể xem chi tiết tại: https://www.msb.com.vn/Dich-vu-ngan-hang-dien-tu/843/3/Tien-ich-thanh-toan
+
+Dịch vụ ngân hàng điện tử dành cho cá nhân: Lợi ích của Gửi tiền có kỳ hạn trực tuyến
+Lợi ích: n--Lãi suất cao hơn tới 0.5% so với tại quầy; n--Lựa chọn phong phú với 5 dòng sản phẩm Tiết kiệm trực tuyến; n--Công nghệ bảo mật hàng đầu thế giới; n--Tiện dụng khi gửi góp định kỳ hoặc gửi thêm. n-Bạn có thể xem chi tiết tại: https://www.msb.com.vn/Dich-vu-ngan-hang-dien-tu/843/3/Tien-ich-thanh-toan
+
+Dịch vụ ngân hàng điện tử dành cho cá nhân: Tính năng của Gửi tiền có kỳ hạn trực tuyến
+Bạn có thể xem chi tiết tại: https://www.msb.com.vn/Dich-vu-ngan-hang-dien-tu/843/3/Tien-ich-thanh-toan
+
+Dịch vụ ngân hàng điện tử dành cho cá nhân: dịch vụ MSB Bankplus
+Dịch vụ Giao dịch trực tuyến MSB Bankplus là dịch vụ hợp tác giữa MSB và Viettel, cho phép Khách hàng là chủ thuê bao di động Viettel đã mở tài khoản tiền gửi thanh toán tại MSB có thể thực hiện được các giao dịch tài chính và phi tài chính ngay trên chiếc điện thoại di động một cách nhanh chóng, an toàn và tiện lợi ở bất cứ nơi đâu. n-Bạn có thể xem chi tiết tại: https://www.msb.com.vn/Dich-vu-ngan-hang-dien-tu/843/3/Tien-ich-thanh-toan
+
+Dịch vụ ngân hàng điện tử dành cho cá nhân: tiện ích của dịch vụ MSB Bankplus
+Tra cứu số dư và tra cứu thông tin tài khoản; n-Chuyển tiền nội bộ theo thuê bao hoặc theo tài khoản; n-Nạp tiền và thanh toán cước viễn thông Viettel: điện thoại di động trả trước/trả sau, Homephone, ADSL, PSTN…;
+
+Dịch vụ ngân hàng điện tử dành cho cá nhân: Cách thức sử dụng dịch vụ MSB Bankplus
+MSB Bankplus USSD: Thực hiện các giao dịch ngân hàng thông qua menu ảo (ứng dụng USSD). n-MSB Bankplus App: Thực hiện các giao dịch ngân hàng thông qua ứng dụng Bankplus tải trên Google Play hoặc App Store về điện thoại di động. n-Phí duy trì dịch vụ hàng tháng: 11.000 VNĐ/tháng (đã bao gồm VAT)
+
+Dịch vụ ngân hàng điện tử dành cho cá nhân: Thủ tục đăng ký dịch vụ MSB Bankplus
+Bạn có thể xem chi tiết tại: https://www.msb.com.vn/Dich-vu-ngan-hang-dien-tu/843/3/Tien-ich-thanh-toan
+
+Dịch vụ ngân hàng điện tử dành cho cá nhân: HƯỚNG DẪN GIAO DỊCH AN TOÀN TRÊN NGÂN HÀNG ĐIỆN TỬ - Bảo mật thông tin tài khoản
+Tuyệt đối không cung cấp thông tin bảo mật dịch vụ Ngân hàng điện tử (bao gồm: mã truy cập, mật khẩu, mã xác thực giao dịch OTP, mã PIN Soft Token) cho bất kỳ ai và qua bất kỳ hình thức nào như: điện thoại, email, mạng xã hội, ứng dụng chat, website, đường link lạ (không chứa tên miền của MSB), … n-MSB không bao giờ yêu cầu khách hàng cung cấp thông tin bảo mật tài khoản, đặc biệt là các mã OTP, PIN, mã kích hoạt, … n-Thông báo ngay cho MSB qua hotline 24/7 số (024) 39 44 55 66 hoặc 1800 59 9999 (miễn phí) khi: n--Bị mất hoặc lộ thông tin tài khoản (tên đăng nhập, mật khẩu, OTP, mã kích hoạt, PIN Soft Token, …); n--Thay đổi thông tin cá nhân như: Giấy tờ tùy thân, số điện thoại di động, địa chỉ email,…; n--Mất/thất lạc thiết bị di động có sử dụng sim điện thoại đã đăng ký với MSB để giao dịch hoăc có cài đặt ứng dụng MSB mBank, thiết bị Token; n--Phát hiện các đường website, ứng dụng giả mạo của MSB hoặc nhận các cuộc gọi mạo danh cán bộ ngân hàng hoặc nhận các tin nhắn hỏi về thông tin bảo mật ngân hàng điện tử từ bất cứ số điện thoại/nguồn nào n-Tuyệt đối không được mua/bán/thuê/cho thuê/đưa tài khoản thanh toán cho người khác sử dụng hoặc thực hiện bất kỳ hành vi bất hợp pháp khác. n-Thường xuyên cập nhật hướng dẫn giao dịch an toàn để đảm bảo sử dụng các dịch vụ Ngân hàng điện tử đúng cách, an toàn, bảo mật.
+
+Dịch vụ ngân hàng điện tử dành cho cá nhân: HƯỚNG DẪN GIAO DỊCH AN TOÀN TRÊN NGÂN HÀNG ĐIỆN TỬ - Lưu ý về tên đăng nhập và mật khẩu
+Mật khẩu phải có độ dài tối thiểu 6 ký tự, bao gồm các ký tự chữ và số, có chứa chữ hoa, chữ thường hoặc các ký tự đặc biệt (@#$%...). Không đặt mật khẩu dễ đoán như: ngày sinh, số điện thoại hoặc các dãy số, chữ cái liên tục hoặc trùng tên đăng nhập… n--Không viết tên đăng nhập và mật khẩu, mã PIN Soft token ra giấy hoặc lưu tự động trên trình duyệt web hoặc lưu dưới bất kỳ hình thức nào để tránh lộ thông tin. n--Tạo thói quen định kỳ thay đổi mật khẩu (tối thiểu mỗi năm một lần), hoặc khi nghi ngờ bị lộ thông tin, hoặc có yêu cầu từ phía MSB.
+
+Dịch vụ ngân hàng điện tử dành cho cá nhân: HƯỚNG DẪN GIAO DỊCH AN TOÀN TRÊN NGÂN HÀNG ĐIỆN TỬ - giao dịch an toàn
+Bạn có thể xem chi tiết tại: https://www.msb.com.vn/Dich-vu-ngan-hang-dien-tu/1198/3/Huong-dan-giao-dich-an-toan-tren-Ngan-hang-dien-tu
+
+Dịch vụ ngân hàng điện tử dành cho cá nhân: HƯỚNG DẪN GIAO DỊCH AN TOÀN TRÊN NGÂN HÀNG ĐIỆN TỬ - Lưu ý về trình duyệt và thiết bị sử dụng
+Bạn có thể xem chi tiết tại: https://www.msb.com.vn/Dich-vu-ngan-hang-dien-tu/1198/3/Huong-dan-giao-dich-an-toan-tren-Ngan-hang-dien-tu
+
+Dịch vụ ngân hàng điện tử dành cho cá nhân: HƯỚNG DẪN GIAO DỊCH AN TOÀN TRÊN NGÂN HÀNG ĐIỆN TỬ - Cảnh báo lừa đảo chiếm đoạt tiền
+Dưới đây là một số thủ đoạn lừa đảo và đánh cắp tài khoản Internet Banking đã ghi nhận tại Việt Nam: n--Lừa đảo để khách hàng chủ động chuyển tiền n--Lừa đảo khách hàng đăng nhập vào trang web giả mạo có giao diện hay địa chỉ gần giống của Ngân hàng n-Bạn có thể xem chi tiết tại: https://www.msb.com.vn/Dich-vu-ngan-hang-dien-tu/1198/3/Huong-dan-giao-dich-an-toan-tren-Ngan-hang-dien-tu

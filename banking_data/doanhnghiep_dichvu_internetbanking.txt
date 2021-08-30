@@ -1,0 +1,119 @@
+Trong lần đăng nhập đầu tiên tôi cần làm gì?
+Đối với lần đăng nhập đầu tiên, Quý khách được yêu cầu thay đổi Mật khẩu đăng nhập để bảo đảm an toàn thông tin.
+
+Tôi phải làm gì nếu quên tên truy cập và mật khẩu đăng nhập?
+- Quý khách vui lòng đến Chi nhánh/PGD gần nhất của MSB để được hỗ trợ n-- Mật khẩu mới sẽ được gửi đến số điện thoại Quý khách đã đăng ký.
+
+Tôi phải làm gì nếu Mã truy cập bị khóa do đăng nhập sai 5 lần liên tiếp?
+- Quý khách vui lòng đến Chi nhánh/PGD gần nhất của MSB để được hỗ trợ n-- Mật khẩu mới sẽ được gửi qua email kích hoạt tới địa chỉ e-mail của Quý Khách
+
+M-Banking có hoạt động xuyên suốt 24h?
+M-Banking hoạt động trực tuyến 24/7. Quý khách có thể sử dụng các dịch vụ truy vấn và thiết lập giao dịch mọi lúc, mọi nơi trên máy tính & các thiết bị di động. n-Giờ xử lý các giao dịch thiết lập thành công hiện nay được quy định đối với từng loại giao dịch. n-Cụ thể: n-- Chuyển khoản nội bộ: từ 6h-22h vào các ngày trong tuần kể cả T7, CN. n-- Chuyển khoản liên ngân hàng thông thường là từ 6h đến 15h30 (hoặc 16h30 nếu lựa chọn Giao dịch đến cuối ngày) hàng ngày từ thứ 2 đến thứ 6 trong tuần. n-- Lệnh chuyển tiền 247 là không giới hạn.
+
+Tôi đang làm giao dịch và quên không đăng xuất khỏi hệ thống, liệu thông tin của tôi có bị đánh cắp?
+- Để bảo mật thông tin cho người dùng, M-Banking của MSB sẽ tự động đăng xuất sau 15 phút nếu Quý Khách không có bất kỳ thao tác nào trên hệ thống. n-- Trong trường hợp Quý Khách thấy có dấu hiệu của việc bị đánh cắp thông tin Quý Khách vui lòng liên hệ trực tiếp đến Hotline 1800 599 99 hoặc (024) 3944 55 66 để yêu cầu được hỗ trợ xử lý.
+
+Tôi có thể đặt tên truy cập theo mong muốn?
+- M-Banking cho phép Quý khách được đăng ký tên truy cập theo mong muốn khi tên truy cập đó là duy nhất trên hệ thống. n-- Tên truy cập khi đã đăng ký thì không thể thay đổi.
+
+Tôi muốn biết thời gian hiệu lực của mã xác thực giao dịch (mã OTP)
+Thời gian hiệu lực của mã xác thực giao dịch (OTP) của Token key là 60 giây, của Soft Token là 180 giây tính từ khi mã được khởi tạo.
+
+Thời hạn sử dụng thiết bị bảo mật của MSB là bao nhiêu?
+Thời hạn sử dụng thiết bị bảo mật của MSB là 03 năm tính từ khi Quý Khách nhận được thiết bị.
+
+Tôi không hiểu vai trò của người Quản trị, người Nhập lệnh, người Duyệt lệnh?
+- Người quản trị (Admin): Là người được Doanh nghiệp chỉ định quản lý các thông tin của Doanh nghiệp, thông tin của những nguời nhập lệnh, người duyệt lệnh. Admin không được thực hiện các vai trò nhập lệnh, duyệt lệnh. n-- Người nhập lệnh (Maker): Là người được Doanh nghiệp chỉ định nhập các thông tin giao dịch lên hệ thống Internet banking. Các thông tin này chỉ được ghi nhận trên hệ thống và chưa được gửi tới MSB. n-- Người duyệt lệnh (Checker): Là người được Doanh nghiệp chỉ định phê duyệt các giao dịch do người nhập lệnh thực hiện.
+
+Người dùng nào của Doanh nghiệp cần dùng thiết bị bảo mật/phương thức xác thực giao dịch?
+Maker, Checker là người dùng cần sử dụng thiết bị/phương thức xác thực giao dịch (Ví dụ: Soft Token, RSAToken key hoặc Chữ ký số) để có thể thực hiện giao dịch.
+
+Doanh nghiệp của tôi có thể đăng ký dùng vai trò Nhập, Duyệt, Quản trị cho cùng 01 người?
+- Mỗi doanh nghiệp cần tối thiểu 3 người dùng tương ứng với 3 vai trò Quản trị, Nhập lệnh, Duyệt lệnh. n-- Quý khách không thể đăng ký thông tin trùng nhau cho người dùng Nhập lệnh và Duyệt lệnh.
+
+Có bao nhiêu loại hạn mức trong dịch vụ M-Banking?
+Có 2 loại hạn mức giao dịch là Hạn mức giao dịch trong ngày và Hạn mức 1 lần giao dịch. Các loại hạn mức này được áp dụng cho Doanh nghiệp và Người Nhập lệnh.
+
+Tôi có thể thay đổi hạn mức này?
+Admin có thể thay đổi các thiết lập về hạn mức giao dịch theo giá trị mong muốn và không vượt quá hạn mức tối đa theo gói dịch vụ Doanh nghiệp đã đăng ký.
+
+Nếu tôi sử dụng dịch vụ chuyển tiền định kỳ thì hạn mức giao dịch hàng ngày được tính như nào?
+Hạn mức giao dịch trong ngày của Quý khách được giảm một giá trị tương ứng với giá trị của giao dịch chuyển tiền định kỳ.
+
+Doanh nghiệp của tối đã ký hợp đồng sử dụng M-Banking với MSB, tiếp theo tôi cần làm gì để có thể truy cập và sử dụng dịch vụ?
+- Sau khi ký hợp đồng sử dụng dịch vụ M-Banking, MSB sẽ gửi thông tin; “Tên truy cập” và “Mật khẩu” của Quý khách đến email từng người dùng để thực hiện kích hoạt dịch vụ. Quý khách vui lòng kiểm tra hòm mail cả trong mục Inbox và Spam để không bỏ sót. n-- Quý khách nhán vào đường dẫn kích hoạt tại email kích hoạt.
+
+Bảng sao kê điện tử/ Thông báo điện tử là gì?
+Là sao kê tài khoản hoặc thông báo mà Quý khách có thể chủ động chiết xuất từ hệ thống ngân hàng điện tử, có gắn Chữ ký số của MSB đảm bảo tính xác thực của thông tin.
+
+Khi tôi thanh toán hóa đơn, việc thanh toán hóa đơn có được xử lý ngay không?
+Lệnh thanh toán hóa đơn được xử lý ngay sau khi lệnh được thiết lập thành công, tài khoản thanh toán của Quý khách được trừ tiền và Quý khách được gạch nợ với Hóa đơn đã thanh toán.
+
+M-Banking có chức năng hỗ trợ tôi khi tôi không nhớ chính xác thông tin của Ngân hàng hưởng, Chi nhánh Ngân hàng hưởng khi thực hiện lệnh chuyển tiền ngoài hệ thống MSB?
+M-Banking có tính năng gợi ý Tên Ngân hàng và Chi nhánh Ngân hàng hưởng
+
+Lý do trong một số trường hợp Checker không thể tìm thấy các giao dịch mà Maker đã nhập thông tin trên M-Banking?
+Có những lý do sau: n-- Lệnh cần duyệt đã quá thời hạn hiệu lực. Thời hạn duyệt được Maker thiết lập khi khởi tạo giao dịch, tối đa là 07 ngày theo lựa chọn của Maker. n-- Checker không được hoặc chưa được phân quyền duyệt với loại giao dịch đang cần duyệt. Để thực hiện phân quyền, Admin cần đăng nhập M-Banking và thực hiện các thao tác thiết lập Thông tin người dùng & Qui trình duyệt.
+
+Hiện Internet Banking cho khách hàng Doanh nghiệp của MSB ra mắt những tính năng mới nào?
+Hiện tại Internet Banking dành cho Khách hàng Doanh nghiệp của MSB vừa ra mắt phiên bản mới với giao diện mới cùng nhiều tính năng mới như: n-- Chuyển tiền quốc tế n-- Bán ngoại tệ online
+
+Tôi cần điều kiện gì để có thể sử dụng tính năng mới?
+- Khách hàng đăng ký Internet Banking gói tài chính n-- Khách hàng sử dụng phương thức xác thực Chữ ký số CA cho người dùng có vai trò duyệt lệnh. n-- Giai đoạn hiện tại đối với chuyển tiền quốc tế đang thí điểm cho một nhóm Khách Hàng đã đăng ký sử dụng dịch vụ với MSB.
+
+Tôi cần làm gì để có thể đăng ký phương thức xác thực Chữ ký số CA tại MSB?
+- Đối với Khách Hàng đăng ký mới: Sử dụng Đơn đăng ký sử dụng dịch vụ M-Banking dành cho KH tổ chức, điền thông tin tại mục 3. Thông tin vai trò và phương thức xác thực giao dịch để gửi Dịch Vụ Khách Hàng đăng ký. n-- Đối với Khách Hàng chuyển đổi phương thức xác thực: Điền thông tin tại Mục 5. Thay đổi phương thức xác thực Yêu cầu thay đổi thông tin dịch vụ M-Banking dành cho KH tổ chức gửi Dịch Vụ Khách Hàng để chuyển đổi phương thức xác thực của Checker sang Chữ ký số CA.
+
+Các loại ngoại tệ được áp dụng đối với Chuyển tiền quốc tế và Bán ngoại tệ?
+MSB cung cấp dịch vụ Chuyển tiền quốc tế, Bán ngoại tệ với 8 loại ngoại tệ sau: USD, EUR, AUD, GBP, SGD, JPY, CAD, CHF.
+
+Tôi muốn thực hiện các đồng ngoại tệ khác thì như thế nào?
+Khách hàng có nhu cầu thực hiện Chuyển tiền quốc tế, bán ngoại tệ đối với các đồng tiền khác ngoài 8 đồng tiền trên, vui lòng thực hiện tại các quầy Dịch Vụ Khách Hàng của MSB
+
+MSB áp dụng loại giao dịch ngoại tệ nào?
+MSB áp dụng cho giao dịch ngoại tệ Giao dịch giao ngay theo tỷ giá Today.
+
+MSB áp dụng tỷ giá nào cho Chuyển tiền quốc tế và Bán ngoại tệ online?
+MSB áp dụng 2 loại: Giao dịch chưa chốt tỷ giá và Giao dịch đã chốt tỷ giá n-- Với giao dịch chưa chốt tỷ giá: Khách hàng trực tiếp tạo yêu cầu mua/bán ngoại tệ và lấy thông tin tỷ giá trực tiếp từ hệ thống Internet Banking MSB. Tỷ giá thay đổi tại từng bước user Khách hàng thực hiện. n-- Với giao dịch đã chốt tỷ giá: Khách hàng trực tiếp thỏa thuận tỷ giá mua/bán ngoại tệ với các đơn vị MSB. Sau đó vào hệ thống Internet Banking lấy thông tin giao dịch để thực hiện hạch toán.
+
+Chuyển tiền quốc tế online áp dụng cho những mục đích nào?
+Chuyển tiền quốc tế online được áp dụng với các mục đích sau: n-- Áp dụng cho chuyển tiền quốc tế chiều đi trả trước và chuyển tiền quốc tế chiều đi trả sau; n-- T/T online không áp dụng cho các giao dịch vốn từ Việt Nam ra nước ngoài, các giao dịch chuyển khẩu, giao dịch chuyển tiền cho bên thứ 3, các giao dịch phải trình ngoại tệ
+
+MSB có thu phí tra soát Chuyển tiền quốc tế online?
+Có. MSB thực hiện thu phí tra soát như sau: n-- Phí xử lý tra soát của MSB: được MSB thu một lần tại thời điểm khách hàng phê duyệt thành công đề nghị tra soát. MSB không có trách nhiệm hoàn trả lại phí tra soát của MSB trong trường hợp hồ sơ tra soát của Khách Hàng không hợp lệ và/hoặc Khách hàng không bổ sung hồ sơ tra soát theo yêu cầu của MSB. n-- Phí xử lý tra soát của Ngân hàng nước ngoài (nếu có): được MSB thu sau khi có thông báo đòi tiền từ Ngân hàng nước ngoài. Khách hàng đồng ý cho phép MSB trích nợ TK thanh toán của Khách hàng tại MSB để thu phí xử lý tra soát của Ngân hàng nước ngoài (nếu có).
+
+Sau bao lâu Người hưởng nhận được tiền?
+MSB thực hiện chuyển lệnh sang hệ thống SWIFT trong ngày giao dịch thành công. Tuy nhiên, thời gian báo có vào tài khoản thụ hưởng tùy thuộc vào thời gian xử lý đối với từng Ngân hàng nước ngoài, từng loại ngoại tệ. Do vậy, một số giao dịch Khách Hàng có thể được báo có ngay, một số giao dịch có thể được báo có sau ngày MSB chuyển điện.
+
+Thời gian giao dịch MSB áp dụng cho Khách hàng thực hiện Bán ngoại tệ online?
+Giao dịch bán ngoại tệ được thực hiện trong thời gian từ 8h-16h các ngày làm việc. Thời gian chờ duyệt mặc định trong ngày làm việc và có hiệu lực trước giờ cutofftime được MSB quy định, sau thời gian này nếu không duyệt thì lệnh chờ duyệt sẽ tự động hết hiệu lực trên hệ thống.
+
+Hạn mức giao dịch được tính và áp dụng như thế nào?
+- Hạn mức giao dịch được tính tùy theo gói dịch vụ Khách Hàng đăng ký. n-- Hạn mức giao dịch được tính theo VND cho tất cả ngoại tệ theo tỷ giá quy đổi từ hệ thống MSB.
+
+Khách hàng có thể điều chỉnh thông tin trên lệnh Chuyển tiền quốc tế online?
+Khách hàng có thể điều chỉnh thông tin trên lệnh Chuyển tiền quốc tế bằng cách thực hiện giao dịch tra soát Chuyển tiền quốc tế
+
+Phí giao dịch Chuyển tiền quốc tế online chỉ thu 1 lần ngày khi giao dịch thành công phải không?
+- Phí phát sinh tại MSB theo biểu phí sẽ được thu một lần khi giao dịch thành công. n-- Phí trả cho ngân hàng nước ngoài trường hợp người chuyển tiền đề nghị thu phí Our: MSB thu phần phí cố định ngay khi giao dịch thành công. Phí trả ngân hàng nước ngoài phát sinh thêm (nếu có) ngoài các phí đã được thu ngay khi giao dịch thành công sẽ được MSB thu bổ sung phần chênh lệch sau khi có thông báo đòi tiền từ Ngân hàng nước ngoài.
+
+Tôi có được phép nợ hồ sơ chứng minh mục đích Chuyển tiền quốc tế online?
+Tùy từng mục đích Chuyển tiền, ví dụ như Chuyển tiền quốc tế online trả trước, Khách Hàng được phép nợ một số hồ sơ chứng minh mục đích. Trên hệ thống Internet Banking, những hồ sơ đánh dấu (*) là những hồ sơ bắt buộc cung cấp ngay khi thực hiện giao dịch, những hồ sơ không đánh dấu (*) là những hồ sơ được phép nợ.
+
+Thời gian tôi được phép nợ hồ sơ chứng minh mục đích Chuyển tiền quốc tế online là bao lâu?
+Khách Hàng được phép nợ hồ sơ tối đa 120 ngày.
+
+Khách Hàng phải ra quầy để hoàn chứng từ không?
+Không. Giao dịch thực hiện trên Internet Banking sẽ hoàn chứng từ từ hệ thống Internet Banking.
+
+Truy vấn thông tin Chuyển tiền quốc tế và Bán ngoại tệ online có giống các giao dịch thông thường không?
+Khác. Giao dịch liên quan đến ngoại tệ MSB tách riêng menu để Khách Hàng dễ truy vấn. Khách Hàng vào Menu Tài Khoản Truy vấn giao dịch ngoại tệ để truy vấn với giao dịch.
+
+Tôi có cần đến quầy MSB để ký các hợp đồng, chứng từ liên quan đến giao dịch Chuyển tiền quốc tế/Bán ngoại tệ online không?
+Không.Khách Hàng in hợp đồng mua, bán ngoại tệ, Chứng từ trên hệ thống Internet Banking có gắn chữ ký số của Khách Hàng và MSB.
+
+Tỷ giá tại thời điểm Maker Khách Hàng truy vấn có giống với tỷ giá tại thời điểm Checker Khách Hàng truy vấn không?
+Tùy từng loại giao dịch. n-- Đối với giao dịch chưa chốt tỷ giá: Hệ thống tự động cập nhật tỷ giá tại từng bước Khách Hàngtạo và phê duyệt giao dịch. Tỷ giá cuối cùng là tỷ giá được Checker Khách Hàng đồng ý xác thực và được hệ thống MSB chấp nhận thực hiện và hạch toán thành công. n-- Đối với giao dịch đã chốt tỷ giá: Khách hàng nhập thông tin tỷ giá theo thỏa thuận đã chốt giữa Khách Hàng và MSB trước đó, hệ thống MSB sẽ kiểm tra lại. Tỷ giá tại thời điểm Maker Khách Hàng truy vấn và tỷ giá tại thời điểm Checker Khách Hàng truy vấn khớp nhau và khớp với tỷ giá đã thỏa thuận giữa MSB và Khách Hàng. Trường hợp Khách Hàng kiểm tra không đúng tỷ giá đã thỏa thuận, vui lòng liên hệ Đơn vị MSB đã chốt tỷ giá với Khách Hàng để kiểm tra thông tin.
+
+Tỷ giá tính phí có giống tỷ giá giao dịch không?
+Không. Tỷ giá giao dịch là tỷ giá mua, bán ngoại tệ thỏa thuận giữa Khách Hàng và MSB. Tỷ giá tính phí tính tự động theo tỷ giá hệ thống MSB.

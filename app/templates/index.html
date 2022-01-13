@@ -117,14 +117,11 @@
         function botResponse(rawText) {
 
             // Bot Response
-            $.get("/get", {
+            $.get("/api/get-response", {
                 msg: rawText
             }).done(function(data) {
-                console.log(rawText);
-                console.log(data);
-                const msgText = data;
+                const msgText = data.result;
                 appendMessage(BOT_NAME, BOT_IMG, "left", msgText);
-
             });
 
         }

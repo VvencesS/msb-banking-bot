@@ -1,46 +1,109 @@
 Trong lần đăng nhập đầu tiên tôi cần làm gì?
 Đối với lần đăng nhập đầu tiên, Quý khách được yêu cầu thay đổi Mật khẩu đăng nhập để bảo đảm an toàn thông tin.
 
+Lần đầu tiên đăng nhập thì phải làm gì?
+Đối với lần đăng nhập đầu tiên, Quý khách được yêu cầu thay đổi Mật khẩu đăng nhập để bảo đảm an toàn thông tin.
+
 Tôi phải làm gì nếu quên tên truy cập và mật khẩu đăng nhập?
 - Quý khách vui lòng đến Chi nhánh/PGD gần nhất của MSB để được hỗ trợ n-- Mật khẩu mới sẽ được gửi đến số điện thoại Quý khách đã đăng ký.
 
-Tôi phải làm gì nếu Mã truy cập bị khóa do đăng nhập sai 5 lần liên tiếp?
+Quên tên truy cập và mật khẩu đăng nhập thì phải làm gì?
+- Quý khách vui lòng đến Chi nhánh/PGD gần nhất của MSB để được hỗ trợ n-- Mật khẩu mới sẽ được gửi đến số điện thoại Quý khách đã đăng ký.
+
+Cách xử lý khi mã truy cập bị khóa do đăng nhập sai 5 lần liên tiếp ?
+- Quý khách vui lòng đến Chi nhánh/PGD gần nhất của MSB để được hỗ trợ n-- Mật khẩu mới sẽ được gửi qua email kích hoạt tới địa chỉ e-mail của Quý Khách
+
+Cách xử lý khi mã truy cập bị khóa do đăng nhập sai nhiều lần liên tiếp ?
+- Quý khách vui lòng đến Chi nhánh/PGD gần nhất của MSB để được hỗ trợ n-- Mật khẩu mới sẽ được gửi qua email kích hoạt tới địa chỉ e-mail của Quý Khách
+
+Tôi phải làm gì khi mã truy cập bị khóa do đăng nhập sai 5 lần liên tiếp ?
 - Quý khách vui lòng đến Chi nhánh/PGD gần nhất của MSB để được hỗ trợ n-- Mật khẩu mới sẽ được gửi qua email kích hoạt tới địa chỉ e-mail của Quý Khách
 
 M-Banking có hoạt động xuyên suốt 24h?
 M-Banking hoạt động trực tuyến 24/7. Quý khách có thể sử dụng các dịch vụ truy vấn và thiết lập giao dịch mọi lúc, mọi nơi trên máy tính & các thiết bị di động. n-Giờ xử lý các giao dịch thiết lập thành công hiện nay được quy định đối với từng loại giao dịch. n-Cụ thể: n-- Chuyển khoản nội bộ: từ 6h-22h vào các ngày trong tuần kể cả T7, CN. n-- Chuyển khoản liên ngân hàng thông thường là từ 6h đến 15h30 (hoặc 16h30 nếu lựa chọn Giao dịch đến cuối ngày) hàng ngày từ thứ 2 đến thứ 6 trong tuần. n-- Lệnh chuyển tiền 247 là không giới hạn.
 
+M-Banking có hoạt động 24h không?
+M-Banking hoạt động trực tuyến 24/7. Quý khách có thể sử dụng các dịch vụ truy vấn và thiết lập giao dịch mọi lúc, mọi nơi trên máy tính & các thiết bị di động. n-Giờ xử lý các giao dịch thiết lập thành công hiện nay được quy định đối với từng loại giao dịch. n-Cụ thể: n-- Chuyển khoản nội bộ: từ 6h-22h vào các ngày trong tuần kể cả T7, CN. n-- Chuyển khoản liên ngân hàng thông thường là từ 6h đến 15h30 (hoặc 16h30 nếu lựa chọn Giao dịch đến cuối ngày) hàng ngày từ thứ 2 đến thứ 6 trong tuần. n-- Lệnh chuyển tiền 247 là không giới hạn.
+
 Tôi đang làm giao dịch và quên không đăng xuất khỏi hệ thống, liệu thông tin của tôi có bị đánh cắp?
+- Để bảo mật thông tin cho người dùng, M-Banking của MSB sẽ tự động đăng xuất sau 15 phút nếu Quý Khách không có bất kỳ thao tác nào trên hệ thống. n-- Trong trường hợp Quý Khách thấy có dấu hiệu của việc bị đánh cắp thông tin Quý Khách vui lòng liên hệ trực tiếp đến Hotline 1800 599 99 hoặc (024) 3944 55 66 để yêu cầu được hỗ trợ xử lý.
+
+Nếu quên không đăng xuất khỏi hệ thống, thông tin có bị đánh cắp không?
+- Để bảo mật thông tin cho người dùng, M-Banking của MSB sẽ tự động đăng xuất sau 15 phút nếu Quý Khách không có bất kỳ thao tác nào trên hệ thống. n-- Trong trường hợp Quý Khách thấy có dấu hiệu của việc bị đánh cắp thông tin Quý Khách vui lòng liên hệ trực tiếp đến Hotline 1800 599 99 hoặc (024) 3944 55 66 để yêu cầu được hỗ trợ xử lý.
+
+Hệ thống có tự động đăng xuất nếu quên không đăng xuất khỏi hệ thống không?
 - Để bảo mật thông tin cho người dùng, M-Banking của MSB sẽ tự động đăng xuất sau 15 phút nếu Quý Khách không có bất kỳ thao tác nào trên hệ thống. n-- Trong trường hợp Quý Khách thấy có dấu hiệu của việc bị đánh cắp thông tin Quý Khách vui lòng liên hệ trực tiếp đến Hotline 1800 599 99 hoặc (024) 3944 55 66 để yêu cầu được hỗ trợ xử lý.
 
 Tôi có thể đặt tên truy cập theo mong muốn?
 - M-Banking cho phép Quý khách được đăng ký tên truy cập theo mong muốn khi tên truy cập đó là duy nhất trên hệ thống. n-- Tên truy cập khi đã đăng ký thì không thể thay đổi.
 
-Tôi muốn biết thời gian hiệu lực của mã xác thực giao dịch (mã OTP)
+Tôi muốn đặt tên truy cập theo mong muốn có được không?
+- M-Banking cho phép Quý khách được đăng ký tên truy cập theo mong muốn khi tên truy cập đó là duy nhất trên hệ thống. n-- Tên truy cập khi đã đăng ký thì không thể thay đổi.
+
+Tôi muốn biết thời gian hiệu lực của mã xác thực giao dịch (mã OTP)?
+Thời gian hiệu lực của mã xác thực giao dịch (OTP) của Token key là 60 giây, của Soft Token là 180 giây tính từ khi mã được khởi tạo.
+
+Hiệu lực của mã xác thực giao dịch (mã OTP) trong bao lâu?
+Thời gian hiệu lực của mã xác thực giao dịch (OTP) của Token key là 60 giây, của Soft Token là 180 giây tính từ khi mã được khởi tạo.
+
+Hiệu lực của mã OTP trong bao lâu?
 Thời gian hiệu lực của mã xác thực giao dịch (OTP) của Token key là 60 giây, của Soft Token là 180 giây tính từ khi mã được khởi tạo.
 
 Thời hạn sử dụng thiết bị bảo mật của MSB là bao nhiêu?
 Thời hạn sử dụng thiết bị bảo mật của MSB là 03 năm tính từ khi Quý Khách nhận được thiết bị.
 
+MSB cho phép sử dụng thiết bị bảo mật của MSB trong bao lâu?
+Thời hạn sử dụng thiết bị bảo mật của MSB là 03 năm tính từ khi Quý Khách nhận được thiết bị.
+
 Tôi không hiểu vai trò của người Quản trị, người Nhập lệnh, người Duyệt lệnh?
+- Người quản trị (Admin): Là người được Doanh nghiệp chỉ định quản lý các thông tin của Doanh nghiệp, thông tin của những nguời nhập lệnh, người duyệt lệnh. Admin không được thực hiện các vai trò nhập lệnh, duyệt lệnh. n-- Người nhập lệnh (Maker): Là người được Doanh nghiệp chỉ định nhập các thông tin giao dịch lên hệ thống Internet banking. Các thông tin này chỉ được ghi nhận trên hệ thống và chưa được gửi tới MSB. n-- Người duyệt lệnh (Checker): Là người được Doanh nghiệp chỉ định phê duyệt các giao dịch do người nhập lệnh thực hiện.
+
+Người Quản trị, người Nhập lệnh, người Duyệt lệnh là như thế nào?
 - Người quản trị (Admin): Là người được Doanh nghiệp chỉ định quản lý các thông tin của Doanh nghiệp, thông tin của những nguời nhập lệnh, người duyệt lệnh. Admin không được thực hiện các vai trò nhập lệnh, duyệt lệnh. n-- Người nhập lệnh (Maker): Là người được Doanh nghiệp chỉ định nhập các thông tin giao dịch lên hệ thống Internet banking. Các thông tin này chỉ được ghi nhận trên hệ thống và chưa được gửi tới MSB. n-- Người duyệt lệnh (Checker): Là người được Doanh nghiệp chỉ định phê duyệt các giao dịch do người nhập lệnh thực hiện.
 
 Người dùng nào của Doanh nghiệp cần dùng thiết bị bảo mật/phương thức xác thực giao dịch?
 Maker, Checker là người dùng cần sử dụng thiết bị/phương thức xác thực giao dịch (Ví dụ: Soft Token, RSAToken key hoặc Chữ ký số) để có thể thực hiện giao dịch.
 
+Các thiết bị bảo mật/phương thức xác thực giao dịch phù hợp với Người dùng nào của Doanh nghiệp ?
+Maker, Checker là người dùng cần sử dụng thiết bị/phương thức xác thực giao dịch (Ví dụ: Soft Token, RSAToken key hoặc Chữ ký số) để có thể thực hiện giao dịch.
+
 Doanh nghiệp của tôi có thể đăng ký dùng vai trò Nhập, Duyệt, Quản trị cho cùng 01 người?
+- Mỗi doanh nghiệp cần tối thiểu 3 người dùng tương ứng với 3 vai trò Quản trị, Nhập lệnh, Duyệt lệnh. n-- Quý khách không thể đăng ký thông tin trùng nhau cho người dùng Nhập lệnh và Duyệt lệnh.
+
+Với cùng 01 người thì Doanh nghiệp có thể đăng ký dùng vai trò Nhập, Duyệt, Quản trị không ?
 - Mỗi doanh nghiệp cần tối thiểu 3 người dùng tương ứng với 3 vai trò Quản trị, Nhập lệnh, Duyệt lệnh. n-- Quý khách không thể đăng ký thông tin trùng nhau cho người dùng Nhập lệnh và Duyệt lệnh.
 
 Có bao nhiêu loại hạn mức trong dịch vụ M-Banking?
 Có 2 loại hạn mức giao dịch là Hạn mức giao dịch trong ngày và Hạn mức 1 lần giao dịch. Các loại hạn mức này được áp dụng cho Doanh nghiệp và Người Nhập lệnh.
 
-Tôi có thể thay đổi hạn mức này?
+Các loại hạn mức trong dịch vụ M-Banking?
+Có 2 loại hạn mức giao dịch là Hạn mức giao dịch trong ngày và Hạn mức 1 lần giao dịch. Các loại hạn mức này được áp dụng cho Doanh nghiệp và Người Nhập lệnh.
+
+Dịch vụ M-Banking có loại hạn mức nào?
+Có 2 loại hạn mức giao dịch là Hạn mức giao dịch trong ngày và Hạn mức 1 lần giao dịch. Các loại hạn mức này được áp dụng cho Doanh nghiệp và Người Nhập lệnh.
+
+Tôi có thể thay đổi hạn mức nào?
+Admin có thể thay đổi các thiết lập về hạn mức giao dịch theo giá trị mong muốn và không vượt quá hạn mức tối đa theo gói dịch vụ Doanh nghiệp đã đăng ký.
+
+Hạn mức nào cho phép thay đổi?
 Admin có thể thay đổi các thiết lập về hạn mức giao dịch theo giá trị mong muốn và không vượt quá hạn mức tối đa theo gói dịch vụ Doanh nghiệp đã đăng ký.
 
 Nếu tôi sử dụng dịch vụ chuyển tiền định kỳ thì hạn mức giao dịch hàng ngày được tính như nào?
 Hạn mức giao dịch trong ngày của Quý khách được giảm một giá trị tương ứng với giá trị của giao dịch chuyển tiền định kỳ.
 
+Hạn mức giao dịch hàng ngày đối với dịch vụ chuyển tiền định kỳ được tính như nào?
+Hạn mức giao dịch trong ngày của Quý khách được giảm một giá trị tương ứng với giá trị của giao dịch chuyển tiền định kỳ.
+
+Dịch vụ chuyển tiền định kỳ có hạn mức giao dịch hàng ngày như thế nào?
+Hạn mức giao dịch trong ngày của Quý khách được giảm một giá trị tương ứng với giá trị của giao dịch chuyển tiền định kỳ.
+
 Doanh nghiệp của tối đã ký hợp đồng sử dụng M-Banking với MSB, tiếp theo tôi cần làm gì để có thể truy cập và sử dụng dịch vụ?
+- Sau khi ký hợp đồng sử dụng dịch vụ M-Banking, MSB sẽ gửi thông tin; “Tên truy cập” và “Mật khẩu” của Quý khách đến email từng người dùng để thực hiện kích hoạt dịch vụ. Quý khách vui lòng kiểm tra hòm mail cả trong mục Inbox và Spam để không bỏ sót. n-- Quý khách nhán vào đường dẫn kích hoạt tại email kích hoạt.
+
+Cách để có thể truy cập và sử dụng dịch vụ M-Banking với MSB sau khi ký hợp đồng sử dụng  ?
+- Sau khi ký hợp đồng sử dụng dịch vụ M-Banking, MSB sẽ gửi thông tin; “Tên truy cập” và “Mật khẩu” của Quý khách đến email từng người dùng để thực hiện kích hoạt dịch vụ. Quý khách vui lòng kiểm tra hòm mail cả trong mục Inbox và Spam để không bỏ sót. n-- Quý khách nhán vào đường dẫn kích hoạt tại email kích hoạt.
+
+Cách để truy cập và sử dụng dịch vụ M-Banking với MSB ?
 - Sau khi ký hợp đồng sử dụng dịch vụ M-Banking, MSB sẽ gửi thông tin; “Tên truy cập” và “Mật khẩu” của Quý khách đến email từng người dùng để thực hiện kích hoạt dịch vụ. Quý khách vui lòng kiểm tra hòm mail cả trong mục Inbox và Spam để không bỏ sót. n-- Quý khách nhán vào đường dẫn kích hoạt tại email kích hoạt.
 
 Bảng sao kê điện tử/ Thông báo điện tử là gì?
@@ -49,10 +112,22 @@ Là sao kê tài khoản hoặc thông báo mà Quý khách có thể chủ đ�
 Khi tôi thanh toán hóa đơn, việc thanh toán hóa đơn có được xử lý ngay không?
 Lệnh thanh toán hóa đơn được xử lý ngay sau khi lệnh được thiết lập thành công, tài khoản thanh toán của Quý khách được trừ tiền và Quý khách được gạch nợ với Hóa đơn đã thanh toán.
 
+Khi thanh toán hóa đơn thì có được xử lý ngay không?
+Lệnh thanh toán hóa đơn được xử lý ngay sau khi lệnh được thiết lập thành công, tài khoản thanh toán của Quý khách được trừ tiền và Quý khách được gạch nợ với Hóa đơn đã thanh toán.
+
 M-Banking có chức năng hỗ trợ tôi khi tôi không nhớ chính xác thông tin của Ngân hàng hưởng, Chi nhánh Ngân hàng hưởng khi thực hiện lệnh chuyển tiền ngoài hệ thống MSB?
 M-Banking có tính năng gợi ý Tên Ngân hàng và Chi nhánh Ngân hàng hưởng
 
+Nếu không nhớ chính xác thông tin của Ngân hàng hưởng, Chi nhánh Ngân hàng hưởng khi chuyển tiền ngoài hệ thống thì MSB có chức năng hỗ trợ không?
+M-Banking có tính năng gợi ý Tên Ngân hàng và Chi nhánh Ngân hàng hưởng
+
 Lý do trong một số trường hợp Checker không thể tìm thấy các giao dịch mà Maker đã nhập thông tin trên M-Banking?
+Có những lý do sau: n-- Lệnh cần duyệt đã quá thời hạn hiệu lực. Thời hạn duyệt được Maker thiết lập khi khởi tạo giao dịch, tối đa là 07 ngày theo lựa chọn của Maker. n-- Checker không được hoặc chưa được phân quyền duyệt với loại giao dịch đang cần duyệt. Để thực hiện phân quyền, Admin cần đăng nhập M-Banking và thực hiện các thao tác thiết lập Thông tin người dùng & Qui trình duyệt.
+
+Trong một số trường hợp Checker không thể tìm thấy các giao dịch mà Maker đã nhập thông tin trên M-Banking là do lỗi gì?
+Có những lý do sau: n-- Lệnh cần duyệt đã quá thời hạn hiệu lực. Thời hạn duyệt được Maker thiết lập khi khởi tạo giao dịch, tối đa là 07 ngày theo lựa chọn của Maker. n-- Checker không được hoặc chưa được phân quyền duyệt với loại giao dịch đang cần duyệt. Để thực hiện phân quyền, Admin cần đăng nhập M-Banking và thực hiện các thao tác thiết lập Thông tin người dùng & Qui trình duyệt.
+
+Nếu Checker không thể tìm thấy các giao dịch mà Maker đã nhập thông tin trên M-Banking là do lỗi gì?
 Có những lý do sau: n-- Lệnh cần duyệt đã quá thời hạn hiệu lực. Thời hạn duyệt được Maker thiết lập khi khởi tạo giao dịch, tối đa là 07 ngày theo lựa chọn của Maker. n-- Checker không được hoặc chưa được phân quyền duyệt với loại giao dịch đang cần duyệt. Để thực hiện phân quyền, Admin cần đăng nhập M-Banking và thực hiện các thao tác thiết lập Thông tin người dùng & Qui trình duyệt.
 
 Hiện Internet Banking cho khách hàng Doanh nghiệp của MSB ra mắt những tính năng mới nào?

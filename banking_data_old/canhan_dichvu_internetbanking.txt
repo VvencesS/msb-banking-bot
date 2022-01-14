@@ -1,0 +1,276 @@
+Tôi có thể sử dụng dịch vụ MSB Bankplus bằng hình thức nào?
+MSB Bankplus cho phép Khách hàng lựa chọn 1 trong 2 hình thức sau để thực hiện giao dịch:n-- MSB Bankplus USSD: cho phép Khách hàng dễ dàng thực hiện các giao dịch ngân hàng thông qua ứng dụng USSD (bấm *123#). n-- MSB Bankplus Sim Tool Kit (STK): cho phép Khách hàng dễ dàng thực hiện các giao dịch ngân hàng thông qua ứng dụng được tích hợp sẵn trên SIM điện thoại Viettel.
+
+Các tính năng mà dịch vụ MSB Bankplus cung cấp cho Khách hàng?
+Sử dụng MSB Bankplus, Khách hàng hoàn toàn có thể: n-- Tra cứu tài khoản: tra cứu số dư và lịch sử giao dịch tài khoản; n-- Chuyển khoản nội ngân hàng: chuyển khoản theo số thuê bao hoặc theo số tài khoản; n-- Nạp tiền và thanh toán cước viễn thông Viettel: điện thoại di động trả trước/trả sau, Homephone, ADSL, PSTN…; n-- Kích hoạt dịch vụ; n-- Đổi PIN; n-- Hỗ trợ thông tin: tra cứu Danh mục Ngân hàng, Danh mục dịch vụ, Biểu phí và Hướng dẫn sử dụng.
+
+Điều kiện sử dụng dịch vụ MSB Bankplus?
+Để có thể sử dụng dịch vụ MSB Bankplus của MSB, Khách hàng cần thỏa mãn các điều kiện sau: n-- Là Khách hàng cá nhân đã mở tài khoản tiền gửi thanh toán bằng VND (M1, M-Money, FCB…) tại MSB; n-- Là chủ thuê bao điện thoại di động Viettel; n-- Đã đăng ký và kích hoạt sử dụng dịch vụ MSB Bankplus.
+
+Cách thức đăng ký sử dụng dịch vụ MSB Bankplus?
+Để đăng ký dịch sử dụng dịch vụ MSB Bankplus, Khách hàng cần mang Giấy tờ tùy thân (CMND, CMSQ, HC) đã đăng ký với MSB khi mở tài khoản đến CN/PGD Maritme Bank gần nhất và làm các thủ tục đăng ký theo đúng hướng dẫn của Nhân viên ngân hàng. n-Sau khi đăng ký dịch vụ thành công, Khách hàng sẽ nhận được tin nhắn xác nhận đăng ký thành công: n-“Quy khach dang ky thanh cong dich vu BankPlus MSB. PIN cua quy khach la XXXXXX. Phi giao dich 0 VND. Ngay dd/mm/yy. De kich hoat dich DV, su dung chuc nang tren SIM Viettelplus/Bankplus/Cai dat. Cam on quy khach!”
+
+Tôi có phải trả phí khi sử dụng MSB Bankplus không?
+Để sử dụng dịch vụ MSB Bankplus, Khách hàng phải trả phí duy trì dịch vụ hàng tháng là 11.000 VND (đã bao gồm VAT). Phí duy trì dịch vụ sẽ được MSB thu trực tiếp từ tài khoản đăng ký của Khách hàng. Trong trường hợp tài khoản Khách hàng không đủ để trả phí duy trì dịch vụ trong vòng 02 (hai) tháng liên tiếp, dịch vụ MSB Bankplus của Khách hàng sẽ bị khóa.
+
+Dịch vụ MSB Bankplus có thể sử dụng được trên những dòng điện thoại nào?
+Hiện tại, tất cả các dòng điện thoại di động có sử dụng SIM của Viettel đều có thể sử dụng dịch vụ MSB Bankplus.
+
+Hạn mức giao dịch dịch vụ MSB Bankplus được qui định như thế nào?
+Hiện tại, MSB qui định hạn mức giao dịch dịch vụ MSB Bankplus như sau: n-- Số tiền giao dịch tối thiểu/ lần: 30.000 VND. n-- Số tiền giao dịch tối đa/ lần: 2.000.000 VND đối với giao dịch nạp tiền cước viễn thông Viettel, 3.000.000 VND đối với giao dịch thanh toán hóa đơn cước viễn thông Viettel và giao dịch chuyển khoản nội ngân hàng. n-- Số tiền giao dịch tối đa/ngày: 10.000.000 VND.
+
+Thời gian giao dịch của dịch vụ MSB Bankplus?
+Các giao dịch Hỗ trợ của MSB Bankplus được thực hiện 24/24 các ngày trong tuần bao gồm cả thứ 7, chủ nhật, ngày nghỉ và ngày lễ. n-Các giao dịch khác (tra cứu tài khoản, chuyển khoản nội ngân hàng, nạp tiền và thanh toán cước viễn thông Viettel, kích hoạt dịch vụ, đối PIN), thời gian giao dịch được quy định từ 6h00 đến 22h00 các ngày từ thứ 2 đến thứ 6 và từ 6h00 đến 20h00 các ngày thứ 7, chủ nhật, ngày nghỉ và ngày lễ.
+
+Tôi có thể chuyển khoản qua MSB Bankplus theo hình thức nào?
+Dịch vụ MSB Bankplus cho phép Khách hàng thực hiện giao dịch chuyển khoản nội ngân hàng MSB qua 02 (hai) hình thức: n-- Chuyển khoản theo số tài khoản n-- Chuyển khoản theo số thuê bao điện thoại (số thuê bao điện thoại của người nhận đã đăng ký dịch vụ MSB Bankplus).
+
+Internet Banking (ngân hàng trực tuyến) của MSB là gì?
+Internet Banking (Ngân hàng trực tuyến) là một kênh giao dịch điện tử thông minh bảo mật và tiện ích mà MSB đưa vào sử dụng để phục vụ tối đa nhu cầu của khách hàng: n-Quản lý tài khoản n-Truy vấn thông tin n-Chuyển khoản trong ngân hàng và liên ngân hàng n-Gửi tiết kiệm trực tuyến, Nạp tiền và Thanh toán hóa đơn n-Thanh toán thẻ tín dụng, Kích hoạt thẻ, Nhận tiền kiếu hồi... mọi lúc mọi nơi bất cứ khi nào khách hàng cần và muốn.
+
+Sử dụng dịch vụ Internet Banking của MSB có ích lợi gì?
+Sử dụng dịch vụ Internet Banking của MSB khách hàng sẽ thấy: n-- Tiện lợi: Quý khách hàng có thể sử dụng dịch vụ Internet Banking mọi lúc mọi nơi, 24/7. n-- Tiết kiệm: Tiết kiệm cả về thời gian, chi phí, công sức thay vì phải ra quầy giao dịch, Quý khách chỉ việc thao tác trên máy vi tính. n-- Nhanh chóng: Mọi giao dịch được hệ thống thực hiện một cách nhanh nhất có thể, Quý khách không phải mất quá nhiều thời gian để hoàn thành 1 giao dịch. n-- An toàn: Hệ thống bảo mật của MSB luôn được kiểm tra, nâng cấp thường xuyên để đảm bảo an toàn cho Quý khách hàng sử dụng dịch vụ. n-- Chính xác: Hệ thống sẽ hướng dẫn Quý khách sử dụng dịch vụ một cách chi tiết và cụ thể, để hạn chế tối đa những sai sót mà Quý khách hàng có thể mắc phải.
+
+Tôi muốn sử dụng dịch vụ Internet Banking do MSB cung cấp thì phải làm thế nào?
+Đối với Quý khách hàng đã mở tài khoản thanh toán tại MSB, xin vui lòng tới Phòng giao dịch gần nhất để đăng ký hoặc thay đổi thông tin dịch vụ Internet Banking. n-Đối với Quý khách hàng chưa mở tài khoản thanh toán tại MSB, xin vui lòng đăng ký sử dụng dịch vụ bằng 2 cách: n-- Đến quầy giao dịch của MSB gần nhất để Mở tài khoản và Đăng ký sử dụng dịch vụ. n-- Đăng ký trực tuyến tại đây.
+
+Tôi cần đáp ứng điều kiện gì để có thể sử dụng dịch vụ Internet Banking?
+Mọi công dân của nước Việt Nam và nước ngoài không kể độ tuổi, giới tính, tôn giáo, dân tộc… đang sinh sống trên lãnh thổ Việt Nam chỉ cần có máy tính nối mạng internet, đã mở tài khoản tại MSB và đã đăng ký sử dụng dịch vụ Internet Banking là có thể sử dụng dịch vụ do MSB cung cấp.
+
+Mất bao nhiêu thời gian sau khi đăng ký sử dụng dịch vụ Internet Banking của MSB thì tôi có thể sử dụng dịch vụ?
+Sau khi Quý khách tiến hành đăng ký hoặc sửa đổi đăng ký sử dụng dịch vụ, chúng tôi sẽ kích hoạt dịch vụ ngay lập tức. Khi dịch vụ được kích hoạt thành công, hệ thống của MSB sẽ gửi thông tin đến email và số điện thoại di động mà Quý khách đã đăng ký thông báo và hướng dẫn Quý khách sử dụng dịch vụ.
+
+Tôi có được hướng dẫn hay trợ giúp khi sử dụng dịch vụ Internet Banking?
+MSB luôn sẵn sàng tư vấn, hỗ trợ Quý khách hàng từ khi Quý khách có nhu cầu đến khi đăng ký và trong suốt quá trình sử dụng dịch vụ. n-Khi đăng ký dịch vụ, Quý khách hàng được tư vấn viên giới thiệu các bước tiến hành đăng ký sử dụng. n-Khi dịch vụ được kích hoạt thành công hướng dẫn sử dụng dịch vụ ban đầu sẽ được gửi vào email cá nhân mà Quý khách đăng ký. Quý khách có thể tìm hiểu thêm thông tin từ website của ngân hàng www.msb.com.vn hoặc đăng nhập vào Internet Banking để xem hướng dẫn cụ thể (dưới dạng file .pdf). n-Ngoài ra nếu có bất kỳ thắc mắc gì cần trợ giúp, Quý khách vui lòng liên hệ với Trung tâm Dịch vụ khách hàng MSB theo số điện thoại 24/7: 1800- 59- 9999 (miễn phí)/ 02439.44.55.66 để được hỗ trợ kịp thời.
+
+Các dịch vụ mà tôi được sử dụng khi dùng Internet Banking?
+Hiện tại Ngân hàng đang cung cấp Dịch vụ Internet Banking theo 2 Gói: n-- Gói truy vấn: Gồm Quản lý thông tin tài khoản, Kích hoạt thẻ, Dịch vụ Khách hàng và Bảo mật. n-- Gói đầy đủ: Gồm Chuyển khoản (Chuyển khoản nội ngân hàng/Liên ngân hàng/Theo lô/Định kỳ/Chuyển tiền 24/7), Thanh toán trực tuyến (Thanh toán hóa đơn trả sau/Nạp tiền/Thanh toán nhanh/Thanh toán hóa đơn tự động), Tiết kiệm trực tuyến (mở và tất toán sổ Tiết kiệm thường/Tiết kiệm gửi góp), Dịch vụ Kiều hối, Dịch vụ thẻ (Đăng ký mở thẻ tín dụng/Kích hoạt thẻ/Sao kê và Thanh toán thè tín dụng), Dịch vụ khách hàng (Kích hoạt và thay đổi mật mã giao dịch Mobile Banking/Tra cứu điểm thưởng)…và các Giao dịch của Gói Truy vấn.
+
+Dịch vụ Internet Banking của MSB rất hấp dẫn, tôi có thể đăng ký giúp cho bạn tôi được không?
+MSB khuyến khích Khách hàng giới thiệu các tiện ích cho nhiều người cùng biết đến và sử dụng, song không cho phép việc đăng ký sử dụng dịch vụ thay cho người khác vì lý do đảm bảo an toàn và bảo mật. Vì thế khi có nhu cầu Quý khách vui lòng trực tiếp đến quầy giao dịch gần nhất làm thủ tục đăng ký dịch vụ để đội ngũ tư vấn viên được giới thiệu, tư vấn về dịch vụ một cách tốt nhất.
+
+Khi bị mất thẻ ATM tôi có thể tiếp tục sử dụng dịch vụ Internet Banking được không?
+Việc mất thẻ ATM không ảnh hưởng đến việc sử dụng dịch vụ Internet Banking: Quý khách vẫn sử dụng dịch vụ bình thường, nhưng để đảm bảo an toàn của tài khoản và quyền lợi của mình, Quý khách phải báo mất thẻ ngay cho ngân hàng để có biện pháp bảo vệ tài khoản của Quý khách kịp thời tránh rủi ro xảy ra.
+
+Khi quên Tên đăng nhập hoặc mật khẩu để đăng nhập Internet Banking tôi phải làm gì?
+Khi quên Tên đăng nhập hoặc Mật khẩu, Quý khách vui lòng liên hệ với ngân hàng để được cấp lại mật khẩu bằng cách: n-- Gọi điện thoại đến Trung tâm Dịch vụ khách hàng MSB theo số 1800- 59- 9999 (miễn phí)/ 02439.44.55.66 để nhận được sự trợ giúp và hướng dẫn chi tiết. n-- Ra quầy giao dịch gần nhất để xin cấp lại mật khẩu. n-Lưu ý: Việc cấp lại Tên đăng nhập và Mật khẩu của Internet Banking là hoàn toàn miễn phí.
+
+Các khoản phí phải trả khi sử dụng dịch vụ Internet Banking?
+Biểu phí sử dụng dịch vụ Internet Banking do MSB quy định và có thể thay đổi trong từng thời kỳ. Khi có thay đổi, Ngân hàng có trách nhiệm thông báo tới quý Khách hàng qua các kênh thông tin chính thức của Ngân hàng.
+
+Thời gian thực hiện giao dịch trên Internet Banking?
+Thời gian giao dịch Internet Banking do MSB quy định và có thể thay đổi trong từng thời kỳ. Khi có thay đổi, Ngân hàng có trách nhiệm thông báo tới Khách hàng qua các kênh thông tin chính thức của Ngân hàng.
+
+Email kích hoạt dịch vụ Internet Banking gửi tới cho khách hàng có hiệu lực trong bao lâu?
+Hiện tại thời gian hiệu lực của Email kích hoạt dịch vụ Internet Banking là 15 ngày tính từ ngày gửi và tính cả ngày nghỉ, ngày lễ.
+
+Hạn mức các giao dịch trên Internet Banking là bao nhiêu?
+Hạn mức giao dịch Internet Banking do MSB quy định và có thể thay đổi trong từng thời kỳ. Khi có thay đổi, Ngân hàng có trách nhiệm thông báo tới quý Khách hàng qua các kênh thông tin chính thức của Ngân hàng. n-Hiện tại, MSB đang áp dụng hạn mức giao dịch sau đối với Gói đầy đủ: n-Loại giao dịch Chuyển khoản cùng chủ tài khoản (đv: VNĐ) Chuyển khoản nội bộ MSB (đv: VNĐ) Chuyển khoản liên Ngân hàng (đv: VNĐ) Nạp tiền (đv: VNĐ) Thanh toán hoá đơn (đv: VNĐ) Tiết kiệm trực tuyến (đv: VNĐ) n-Hạn mức giao dịch ≥ 50.000 ≥ 50.000 ≥ 50.000 50.000; 100.000; 200.000; 300.000; 500.000 ≥ 30.000 ≥ 1.000.000 n-Hạn mức ngày ≤ 500.000.000 ≤ 500.000.000 ≤ 100.000.000 ≤ 500.000.000 ≤ 500.000.000 Không có hạn mức
+
+Tôi đã mở tài khoản tại MSB, tôi muốn đăng ký sử dụng dịch vụ Internet Banking của ngân hàng, tôi có phải đến đúng chi nhánh mà mình đã đăng ký mở tài khoản hay không?
+Khách hàng có thể đến bất kỳ quầy giao dịch nào của MSB để đăng ký sử dụng dịch vụ Internet Banking của ngân hàng mà không cần phải đến đúng chi nhánh đã mở tài khoản. (Đối với tài khoản M1 hoặc M-Money, Quý khách được mặc định sử dụng dịch vụ Internet Banking của MSB gói Truy vấn ngay khi mở thẻ).
+
+Cách thức đăng nhập vào Internet Banking?
+Chỉ cần có một máy tính nối mạng Internet bạn hoàn toàn có thể đăng nhập vào Internet Banking và thực hiện mọi giao dịch - thông qua trình duyệt web (Internet Explorer, Mozilla FireFox…) vào địa chỉ https://www.msb.com.vn. Ngay trên hộp đăng nhập góc trên bên phải trang chủ của MSB, quý khách nhập Tên đăng nhập và Mật khẩu để truy cập Internet Banking.
+Hoặc Quý khách có thể truy cập trực tiếp qua đường dẫn: https://ebank.msb.com.vn để đăng nhập vào hệ thống.
+
+Tôi phải làm gì khi gặp vấn đề đăng nhập vào Internet Banking?
+Quý khách vui lòng tạm thời thoát ra khỏi trình duyệt đang sử dụng và mở lại trình duyệt để đăng nhập lại. Quý khách vui lòng kiểm tra lại tên Mã truy cập và Mật khẩu thật chính xác.
+Nếu Quý khách vẫn không thể đăng nhập vào hệ thống xin vui lòng gọi đến đến Trung tâm Dịch vụ khách hàng Martime Bank theo số điện thoại hỗ trợ 24/7: 1800- 59- 9999 (miễn phí)/ 024 39.44.55.66 để được trợ giúp.
+
+Khi đăng nhập, Internet Banking cho phép Khách hàng nhập sai Tên đăng nhập hoặc Mật khẩu đăng nhập bao nhiêu lần?
+Trên Internet Banking, Khách hàng được nhập Tên đăng nhập hoặc Mật khẩu đến cho đến khi chính xác. Tài khoản Internet Banking lúc đó vẫn hoạt động bình thường.
+
+Tôi cần duy trì Số dư tài khoản tối thiểu là bao nhiêu khi thực hiện giao dịch tài chính trên Internet Banking?
+Quý khách không cần duy trì số dư trong tài khoản tối thiểu khi thực hiện giao dịch Internet Banking. chỉ cần Tài khoản của Quý khách có đủ số tiền giao dịch và phí giao dịch (nếu có) là giao dịch được thực hiện thành công.
+
+Thời gian cho phép Khách hàng thực hiện tra soát giao dịch?
+MSB chỉ chấp nhận xử lý nhưng yêu cầu tra soát và khiếu nại trong vòng 100 ngày kể từ ngày phát sinh giao dịch. n-Những yêu cầu tra soát và khiếu nại được tiếp nhận sau 16g30 sẽ được chuyển sang ngày làm việc tiếp theo.
+
+Để yêu cầu tra soát tôi cần cung cấp những thông tin gì?
+Để yêu cầu thực hiện tra soát trên Internet Banking, Quý khách cần cung cấp đầy đủ các thông tin sau: n-- Họ tên Khách hàng n-- Số Chứng minh thư nhân dân n-- Số điện thoại liên hệ n-- Số tài khoản n-- Ngày giờ thực hiện giao dịch n-- Số tiền giao dịch n-- Nội dung giao dịch n-- Kênh ngân hàng điện tử Khách hàng thực hiện giao dịch: Internet Banking
+
+Tôi có thể quản lý thông tin của những tài khoản nào trên Internet Banking?
+Trên Internet Banking, Quý khách có thể quản lý các tài khoản sau: n-- Tài khoản thanh toán n-- Tài khoản tiết kiệm trực tuyến n-- Tài khoản vay n-- Tài khoản thấu chi n-Ngoài ra Quý khách còn có thể quản lý: Thông tin giao dịch; Danh sách tài khoản thụ hưởng và Thiết lập tên gợi nhớ.
+
+Tôi có thể đóng tài khoản thông qua Internet Banking được không?
+Quý khách không thể đóng tài khoản thanh toán qua kênh Internet Banking. Tuy nhiên Internet Banking của MSB cung cấp cho khách hàng chức năng “Tạm dừng dịch vụ” để khách hàng có thể tạm dừng sử dụng Internet Banking trong một khoảng thời gian nhất định hoặc vĩnh viễn mà khách hàng mong muốn hoặc đóng vĩnh viễn dịch vụ Internet Banking của mình.
+
+Tôi có thể thay đổi thông tin tài khoản không?
+Khi muốn thay đổi thông tin về chủ tài khoản: số điện thoại, địa chỉ, email, Quý khách vui lòng đến quầy giao dịch gần nhất để xin mẫu phiếu đăng ký sử dụng dịch vụ, Quý khách điền lại đầy đủ thông tin cần thay đổi và tích vào mục: “Thay đổi thông tin” và nộp lại. Sau khi xác định thông tin, ngân hàng sẽ cập nhật lại thông tin vào báo lại kết quả cho Quý khách. n-Trên Internet Banking, Quý khách có thể thay đổi được: n-- Tài khoản Nguồn (Tài khoản mặc định) n-- Tên gợi nhớ n-- Mật khẩu đăng nhập Internet Banking và Mobile Banking n-- Mật mã giao dịch Mobile Banking.
+
+Tôi có thể xem lại các giao dịch mà tôi đã thực hiện trên mỗi loại tài khoản được không?
+Quý khách hoàn toàn có thể xem lại các giao dịch mà mình đã thực hiện trong quá khứ bằng cách: tra cứu vào mục “Lịch sử giao dịch” và chọn tài khoản Quý khách muốn kiểm tra.
+
+Tôi có thể xem lại lịch sử giao dịch là tối đa bao nhiêu lâu trong quá khứ?
+Quý khách có thể xem lại tất cả các giao dịch dã thực hiện trong quá khứ bằng cách lựa chọn mốc thời gian bắt đầu và kết thúc mà Quý khách cần xem lại. Hệ thống sẽ hiển thị mặc định tất cả các giao dịch của Khách hàng trong quá khứ.
+
+Tôi phải làm gì khi phát hiện ra một số vấn đề không thống nhất giữa các giao dịch trong tài khoản của mình?
+Khách hàng kiểm tra lại một cách chính xác các giao dịch mà mình đã thực hiện, ghi rõ những khoản mục nào không thống nhất và liên hệ với ngân hàng để đối chiếu bằng cách: n-Quý khách vào chức năng “Dịch vụ khách hàng” và chọn “Liên hệ góp ý", để lại lời nhắn chính là nội dung Quý khách thắc mắc và yêu cầu tra soát cho Ngân hàng. Ngân hàng sẽ phản hồi lại cho khách hàng ngay sau khi nhận được yêu cầu của Quý khách. n-Hoặc Gọi điện thoại đến Trung tâm Dịch vụ khách hàng MSB theo số 1800- 59- 9999 (miễn phí)/ 024 39.44.55.66 để yêu cầu đối chiếu thông tin, khách hàng sẽ nhận được hướng dẫn cụ thể và các điều khoản khi yêu cầu tra soát lại giao dịch.
+
+Tôi lưu thông tin về các giao dịch đã thực hiện bằng cách nào?
+Quý khách có thể tải xuống bản sao kê, lịch sử giao dịch… hệ thống sẽ xuất ra tập tin định dạng PDF cho Quý khách. Hoặc có thể xuất bản in lịch sử giao dịch lưu lại bản cứng.
+
+Tôi có nhờ người khác kiểm tra giúp thông tin tài khoản của mình khi tôi đang bận hoặc không thể truy cập vào Internet Banking không?
+Chúng tôi khuyến cáo Quý khách không nên nhờ người khác sử dụng tài khoản cá nhân của mình thông qua Internet Banking. Nếu quá bận hoặc không thể đăng nhập vào sử dụng dịch vụ Internet Banking Quý khách có thể dùng các kênh giao dịch khác như: SMS banking, Mobile Banking với các tính năng tương tự như Internet Banking.
+
+Chuyển khoản trực tuyến là gì?
+Chuyển khoản trực tuyến là giao dịch chuyển một khoản tiền từ một tài khoản nguồn (tài khoản người gửi) đến một tài khoản khác là tài khoản thụ hưởng (tài khoản người nhận) thông qua dịch vụ Internet Banking của MSB.
+
+Chuyển khoản nội bộ ngân hàng là gì?
+Chuyển khoản nội bộ là hình thức chuyển khoản từ tài khoản của khách hàng mở tại MSB cho 1 tài khoản khác cũng mở tại MSB trên lãnh thổ Việt Nam (có thể cùng chủ tài khoản hoặc không) thông qua giao dịch trực tuyến trên Interrnet Banking.
+
+Chuyển khoản liên ngân hàng là gì?
+Chuyển khoản liên ngân hàng là hình thức chuyển khoản từ tài khoản của khách hàng mở tại MSB cho 1 tài khoản khác được mở tại các ngân hàng khác cùng thuộc hệ thống liên minh ngân hàng trên lãnh thổ Việt Nam.
+
+Chuyển khoản theo lô là gì?
+Chuyển khoản theo lô là hình thức chuyển khoản cho phép Khách hàng thực hiện một lệnh chuyển khoản từ một hoặc nhiều tài khoản nguồn của mình cho một tập hợp các tài khoản khác mà không cần phải thực hiện từng lệnh chuyển khoản cho từng tài khoản riêng lẻ theo cách thông thường. 1 giao dịch chuyển khoản theo lô cho phép thực hiện tối đa 50 lệnh chuyển khoản (bao gồm cả nội bộ và liên ngân hàng).
+
+Chuyển khoản theo lô áp dụng cho những hình thức nào?
+Quý khách có thể chuyển khoản theo lô cho các tài khoản cùng thuộc Ngân hàng MSB hoặc chuyển khoản liên ngân hàng tới các tài khoản khác thuộc các Ngân hàng khác trên lãnh thổ Việt Nam.
+
+Phí tính cho giao dịch chuyển khoản theo lô?
+- Đối với tài khoản M1, FCB, Premier – miễn phí giao dịch chuyển khoản theo lô. n-- Đối với tài khoản M-Money và các loại tài khoản thanh toán khác phí được tính theo mỗi giao dịch thành công khi chuyển khoản liên ngân hàng. n-- Mức phí được áp dụng và thay đổi theo thời kỳ. Khi có thay đổi MSB sẽ thông báo tới khách hàng qua các kênh thông tin chính thức.
+
+Tôi phải làm thế nào để có thể chuyển khoản theo lô?
+Quý khách đăng nhập vào Internet Banking, vào “Chuyển khoản” chọn “Chuyển khoản theo lô” và làm theo hưỡng dẫn trên màn hình. n-Quý khách có thể xem hướng dẫn chi tiết Chuyển khoản theo lô tại đây
+
+Tôi có thể sử dụng mẫu danh sách nào để chuyển khoản theo lô?
+Mẫu danh sách tài khoản hợp lệ để thực hiện chuyển khoản theo lô Quý khách vui lòng tải về từ trên website trong chức năng “Chuyển khoản theo lô”. Quý khách vui lòng sử dụng chính xác theo mẫu đó để việc chuyển khoản được thực hiện thành công.
+
+Tôi có thể thay đổi hạn mức chuyển khoản được hay không?
+Quý khách hàng hoàn toàn có thể thay đổi hạn mức chuyển khoản lần và hạn mức chuyển khoản trong ngày của tài khoản trên Internet Banking trong giới hạn cho phép của ngân hàng.
+
+Tôi có thể chuyển khoản vào ngày nghỉ, ngày lễ hay không?
+Quý khách hàng có thể thực hiện chuyển khoản vào ngày nghỉ, ngày lễ song xin lưu ý:
+Đối với ngày nghỉ, ngày lễ: chỉ những giao dịch Chuyển khoản nội bộ trong khoảng thời gian từ 8h-20h mới được xử lý ngay trong ngày. Còn các giao dịch ngoài thời gian trên và các giao dịch Chuyển khoản liên ngân hàng sẽ không có hiệu lực ngay mà được ghi nhận và xử lý vào ngày làm việc tiếp theo.
+
+Tôi có thể xem lại lịch sử chuyển khoản của mình hay không?
+Khách hàng xem lại lịch sử chuyển khoản của mình bằng cách: đăng nhập vào tài khoản Internet Banking của mình và chọn mục: “Nhật ký chuyển khoản trực tuyến” trong phần “Chuyển khoản”.
+
+Tôi có thể kiểm tra các giao dịch đang chờ xử lý của mình được không?
+Các giao dịch chuyển khoản nội bộ và chuyển khoản liên ngân hàng được thực hiện ngoài thời gian giao dịch do MSB qui định sẽ được xử lý vào ngày làm việc tiếp theo. Quý khách có thể truy cập mục: “Nhật ký chuyển khoản trực tuyến” trong phần “Chuyển khoản” để kiểm tra các giao dịch của mình hoặc gọi Trung tâm Dịch vụ khách hàng MSB theo số điện thoại 24/7: 1800-59-9999 (miễn phí) / (04) 39.44.55.66 để được hỗ trợ.
+
+Làm sao để biết tôi đã chuyển khoản thành công?
+Sau khi chuyển khoản thành công hệ thống của MSB sẽ gửi tới khách hàng thông báo xác nhận giao dịch thành công và thông báo SMS tới số điện thoại mà Quý khách đăng ký với Ngân hàng.
+
+Khi chuyển khoản tôi có phải trả phí không?
+- Đối với tài khoản M1, FCB và Premier: Hiện nay, MSB miễn phí hoàn toàn dịch vụ chuyển khoản nội bộ và liên ngân hàng trên Internet Banking. n-- Đối với tài khoản M-Money và các loại tài khoản thanh toán khác: Phí chuyển khoản nội ngân hàng là 0 VNĐ; phí chuyển khoản liên ngân hàng là 11.000 VNĐ (đã tính VAT).
+Khi có chính sách thu phí chuyển khoản chúng tôi sẽ thông báo trên các trang thông tin chính thức của MSB.
+
+Tôi có thể chọn tài khoản nào để thực hiện giao dịch chuyển khoản?
+Quý khách chỉ thực hiện giao dịch chuyển khoản bằng tài khoản thanh toán và tài khoản thấu chi, không sử dụng tài khoản tiết kiệm trực tuyến và tài khoản vay để chuyển khoản.
+
+Trong khi đang chuyển khoản thì gặp sự cố tôi phải làm thế nào?
+Trong khi đang thực hiện giao dịch chuyển khoản mà gặp sự cố, Quý khách vui lòng chờ kết quả thông báo của hệ thống xem giao dịch đã được thực hiện hay chưa và kiểm tra lại số dư trong tài khoản của mình. Nếu giao dịch chưa được thực hiện khách hàng vui lòng thực hiện giao dịch lại, nếu vẫn gặp lỗi vui lòng thông báo cho MSB bằng cách gọi đến Trung tâm Dịch vụ khách hàng MSB theo số điện thoại 24/7: 1800-59-9999 (miễn phí) / (024) 39.44.55.66 để được hỗ trợ.
+
+Tôi có thể chuyển khoản tới 1 tài khoản được mở tại ngân hàng khác ngoài lãnh thổ Việt Nam được không?
+Hiện tại dịch vụ Internet Banking của MSB chưa cho phép Quý khách chuyển khoản cho tài khoản được mở tại ngân hàng khác ngoài lãnh thổ Việt Nam, song trong tương lai sẽ sớm đưa giao dịch này vào sử dụng.
+
+Thanh toán hóa đơn trực tuyến có phải đăng ký trước không?
+Khi đăng ký dịch vụ Internet Banking gói đầy đủ (giao dịch tài chính), Quý khách sẽ thực hiện được các giao dịch thanh toán hoá đơn trên Internet Banking.
+
+Tôi có thể sử dụng tài khoản nào để thanh toán hóa đơn?
+Quý khách chỉ có thể sử dụng tài khoản thanh toán và tài khoản thấu chi đang hoạt động để thực hiện giao dịch thanh toán hóa đơn trực tuyến.
+
+Các loại hoá đơn tôi thanh toán được?
+Sử dụng dịch vụ Thanh toán hóa đơn của MSB cho phép Khách hàng có thể thanh toán cước, phí trả sau của các nhà cung cấp dịch vụ: n-- Điện: EVN n-- Điện thoại di động trả sau: Viettel, MobiFone, Sfone, Vinaphone Hải Phòng, Vinaphone HCM n-- Điện thoại cố định: Viettel, VNPT Hải Phòng, VNPT HCM; Nam Sài Gòn – SST n-- ADSL: Viettel, VNPT Hải Phòng, VNPT HCM, Nam Sài Gòn – SST, FPT Telecom n-- Đường truyền Internet – Leased line/PSTN: Viettel n-- Vé máy bay điện tử: Jetstar, AirMekong, VNTicket
+
+Làm sao tôi có chứng minh với nhà cung cấp dịch vụ rằng tôi đã thanh toán hóa đơn trực tuyến?
+Sau khi thực hiện giao dịch “Thanh toán hóa đơn” hệ thống sẽ gửi đến Quý khách thông báo giao dịch đã được thực hiện thành công và trong lịch sử thanh toán hóa đơn có lưu lại giao dịch này của Quý khách. Tuy nhiên, ngay sau khi thực hiện giao dịch thanh toán hoá đơn, Quý khách vui lòng kiểm tra lại ngay tài khoản thanh toán của mình để biết mình đã bị trừ bao nhiêu tiền thanh toán dịch vụ và kiểm tra lại tài khoản dịch vụ tại nhà cung cấp để xem hóa đơn của Quý khách đã được thanh toán hay chưa và số tiền thanh toán có đúng với số tiền mà Quý khách đã bị trừ hay không. n-Khi gặp phải bất cứ vấn đề nào phát sinh khác, xin vui lòng gọi đến Trung tâm Dịch vụ khách hàng MSB theo số điện thoại 24/7: 1800-59-9999 (miễn phí) / (024) 39.44.55.66 để được hỗ trợ.
+
+Khi thanh toán hoá đơn trực tuyến tôi có nhận được hoá đơn mà mình đã thanh toán từ nhà cung cấp dịch vụ?
+Khi thanh toán hóa đơn trực tuyến, Quý khách sẽ nhận được hóa đơn dịch vụ mà mình đã thanh toán bằng 2 cách: Nhà cung cấp xuất hóa đơn trực tuyến và gửi vào email hoặc gửi hóa đơn giấy trực tiếp cho khách hàng. Hai hình thức này hoàn toàn hợp pháp và được công nhận.
+
+Tôi có thể thanh toán hoá đơn cho người khác không?
+Quý khách hoàn toàn có thể thanh toán cho bất kỳ Số điện thoại/Hóa đơn dịch vụ nào mà Quý khách mong muốn.
+
+Tôi có thể thanh toán hóa đơn vào bất kỳ thời gian nào trong ngày và tại địa điểm nào mà tôi muốn?
+Quý khách vui lòng thực hiện giao dịch thanh toán hóa đơn trực tuyến trong khoảng thời gian qui định của Ngân hàng để được xử lý ngay lập tức. Khi thực hiện ngoài thời gian trên, giao dịch sẽ được coi là không thành công và không được ghi nhận. Thời gian giao dịch của Thanh toán hoán đơn trực tuyến được qui định như sau: n-6h – 22h từ thứ 2 đến thứ 6 và 6h – 20h ngày nghỉ (thứ 7, Chủ nhật) và ngày lễ: Ngân hàng xử lý Yêu cầu trong ngày. n-Riêng thanh toán tiền điện, ngoài việc tuân theo quy định về thời gian trên, giao dịch trong thời gian từ 17h-18h30 các ngày trong tuần cũng sẽ không được xử lý và không được lưu lại để xử lý vào phiên làm việc sau đó.
+
+Nếu không may tôi thanh toán nhầm hóa đơn hoặc nhà cung cấp chưa nhận được khoản phí mà tôi đã thanh toán trực tuyến thì tôi phải làm gì?
+Trong trường hợp này, Quý khách vui lòng đến ngay quầy giao dịch gần nhất hoặc gọi đến gọi đến Trung tâm Dịch vụ khách hàng MSB theo số điện thoại 24/7: 1800-59-9999 (miễn phí) / (04) 39.44.55.66 để yêu cầu thực hiện tra soát trong vòng 100 ngày tính từ ngày thực hiện giao dịch.
+
+Tôi có thể yêu cầu thực hiện tra soát trong trường hợp nào?
+Quý khách có thể yêu cầu tra soát đối với các trường hợp sau: n-- Trường hợp tài khoản của Quý khách đã bị trừ tiền nhưng Tài khoản Game, Tài khoản điện thoại của thuê báo trả trước… chưa được nạp vào hoặc cước nợ hóa đơn trả sau chưa đươc thanh toán. n-- Trường hợp số tiền bị trừ trong tài khoản của Quý khách lớn hơn hoặc bé hơn số tiền đã thực hiện thanh toán. n-Lưu ý: Ngân hàng sẽ không chịu trách nhiệm trong trường hợp Khách hàng thực hiện nạp tiền, thanh toán cước nhầm sang cho người khác
+
+Tôi có thể thanh toán hoá đơn tự động qua các kênh nào?
+Quý khách có thể sử dụng dịch vụ thanh toán hoá đơn tự động trên kênh Internet Banking của MSB.
+
+Tôi có thể thanh toán hoá đơn tự động của các dịch vụ nào?
+Quý khách có thể sử dụng dịch vụ thanh toán hoá đơn tự động Điện thoại cố định, Điện thoại di động/3G trả sau, Internet, Truyền hình cáp của các nhà cung cấp dịch vụ có kết nối với MSB.
+
+Làm sao tôi biết ngày nào dịch vụ có cước nợ để đặt lệnh thanh toán?
+Hệ thống Internet Banking đã cài đặt sẵn ngày lên cước của từng dịch vụ cung cấp do vậy khách hàng không cần chọn ngày thanh toán khi đặt lệnh thanh toán hoá đơn tự động.
+
+Làm sao tôi biết lệnh thanh toán hoá đơn tự động đã đặt có thành công hay không?
+Các lệnh thanh toán hoá đơn tự động thành công sẽ được lưu vào Mục “Quản lý thanh toán hoá đơn tự động”. Để xem chi tiết các giao dịch thanh toán của từng lệnh đã đặt, Quý khách chọn lệnh thanh toán cần xem nhấn nút “Chi tiết”. n-Các giao dịch không thành công, hệ thống sẽ gửi thông báo kết quả tới email của Khách hàng.
+
+Làm thế nào để tôi huỷ lệnh thanh toán tự động đã đặt?
+Để huỷ lệnh thanh toán tự động, Quý khách vào Mục “Quản lý thanh toán hoá đơn tự động”, chọn lệnh thanh toán cần huỷ nhấn nút “Xoá”
+
+Sử dụng dịch vụ Thanh toán hoá đơn tự động của MSB có mất phí không?
+MSB MIỄN PHÍ hoàn toàn mọi giao dịch Thanh toán hoá đơn tự động của Khách hàng.
+
+Tôi muốn sử dụng dịch vụ nạp tiền trực tuyến của MSB thì phải làm thế nào?
+Chỉ cần đăng ký dịch vụ Internet Banking của MSB gói Đầy đủ Quý khách sẽ được sử dụng dịch vụ Nạp tiền trực tuyến bất cứ khi nào Quý khách có nhu cầu.
+
+Tôi có thể nạp tiền cho những dịch vụ gì?
+Quý khách có thể sử dụng dịch vụ nạp tiền trực tuyến để nạp tiền cho: n-- Thuê bao trả trước: Viettel, Sfone, Mobifone, Vinaphone, Gmobile (Beeline), Vietnamobile; n-- Thuê bao trả sau MobiFone n-- Tài khoản game: Vcoin-VTC; ZingXu-Vinagame; Bạc-FPT; Onecash-Net2E; MCash, Pointtq – Point Tam quốc chí, Pointpp – Point PlayPart; n-- Học trực tuyến Hocmai. n-- Dịch vụ DCOM 3G của Viettel/Mobifone hay ezCom-Vinaphone.
+
+Tôi có thể nạp tiền theo những mệnh giá nào?
+Mệnh giá nạp tiền mà Quý khách có thể nạp trên Internet Banking đã được Ngân hàng tạo lập và mặc định theo mệnh giá của nhà cung cấp dịch vụ: 50.000 VND; 100.000 VND; 200.000 VND; 300.000 VND; 500.000 VND. Quý khách chỉ cần đăng nhập vào Internet Banking, vào phần “Nạp tiền” và chọn mệnh giá mà mình mong muốn để thực hiện giao dịch.
+
+Sau bao lâu tôi sẽ nhận được tiền vào tài khoản dịch vụ khi tôi thực hiện giao dịch nạp tiền thành công?
+Ngay sau khi Quý khách thực hiện giao dịch thành công, tiền sẽ được chuyển và tài khoản dịch vụ của Quý khách (Tài khoản game, thuê bao điện thoại trả trước) bằng với mệnh giá mà Quý khách đã nạp. n-Nếu Quý khách không nhận được tiền vui lòng liên hệ với Trung tâm Dịch vụ khách hàng MSB theo số điện thoại 24/7: 1800-59-9999 (miễn phí) / (024) 39.44.55.66
+
+Tôi có thể nạp tiền bất cứ lúc nào trong ngày hay không?
+Quý khách vui lòng thực hiện giao dịch Nạp tiền trong khoảng thời gian giao dịch do MSB qui định như sau: n-6h – 22h từ thứ 2 đến thứ 6 và từ 6h – 20h ngày nghỉ (thứ 7, Chủ nhật) và ngày lễ: Ngân hàng xử lý Yêu cầu trong ngày. Ngoài thời gian trên: giao dịch không được xử lý và cũng không được lưu lại để xử lý vào phiên làm việc sau đó. n-Riêng thanh toán tiền điện, ngoài việc tuân theo quy định về thời gian trên, giao dịch trong thời gian từ 17h-18h30 các ngày trong tuần cũng sẽ không được xử lý và không được lưu lại để xử lý vào phiên làm việc sau đó.
+
+Tôi có thể nạp tiền cho số điện thoại hoặc tài khoản game cho người khác được không?
+Quý khách có thể nạp tiền cho Số điện thoại thuê bao trả trước hoặc Tài khoản game của bất kỳ ai mà Quý khách muốn. Chỉ cần Quý khách nhập chính xác thông tin Số điện thoại và Tài khoản game là giao dịch sẽ được thực hiện.
+
+Tôi có được hưởng các chương trình khuyến mại và ưu đãi của các nhà cung cấp dịch vụ khi tôi nạp tiền trực tuyến không?
+Quý khách hàng hoàn toàn được hưởng mọi sự ưu đãi cũng như khuyến mại của nhà cung cấp dịch vụ khi nạp tiền trực tuyến qua Internet Banking. n-Ngoài ra, MSB sẽ không ngừng nâng cấp dịch vụ và đưa ra các chương trình ưu đãi riêng dành cho khách hàng sử dụng dịch vụ nạp tiền trực tuyến trên Internet Banking.
+
+Tôi có thể xem lại lịch sử nạp tiền của mình hay không?
+Quý khách có thể xem lại lịch sử nạp tiền trực tuyến của mình bằng cách: n-Đăng nhập vào Internet Banking, vào mục “Thanh toán trực tuyến” và chọn “Nhật ký thanh toán trực tuyến”, hệ thống sẽ trả về cho Quý khách danh sách chi tiết các giao dịch mà Quý khách đã thực hiện trong quá khứ.
+
+Gửi tiết kiệm trực tuyến là gì?
+Gửi tiết kiệm trực tuyến là dịch vụ sử dụng Internet Banking để gửi tiết kiệm từ tài khoản thanh toán của mình. Hệ thống sẽ cung cấp cho khách hàng mọi thông tin cần thiết: lãi suất kỳ hạn, thời gian đáo hạn, tiền gốc và tiền lãi… để Quý khách có thể nắm bắt đầy đủ thông tin cần thiết mà không cần phải đến quầy giao dịch.
+
+Tôi có thể gửi tiết kiệm trực tuyến những kỳ hạn nào?
+Quý khách có thể gửi tiết kiệm trực tuyến theo những kỳ hạn do MSB qui định hiện hành từ 1 – 12 tháng.
+
+Tôi có thể tất toán tài khoản tiết kiệm của mình bằng cách nào?
+Đối với tài khoản tiết kiệm trực tuyến mà Quý khách gửi qua Internet Banking, khi đến hạn khách hàngcó thể chọn 1 trong 2 hình thức sau để tất toán: n-- Thực hiện tất toán trên Internet Banking để toàn bộ tiền gốc và tiền lãi chuyển vào tài khoản thanh toán được lựa chọn khi tất toán. n-- Thực hiện tất toán qua dịch vụ Mobile Banking để toàn bộ tiền gốc và tiền lãi chuyển vào tài khoản thanh toán được lựa chọn khi tất toán. n-Nếu Quý khách không thực hiện tất toán tài khoản tiết kiệm thì tiền lãi sẽ được nhập vào tiền gốc, cả tiền gốc và tiền lãi sẽ được chuyển sang kỳ hạn tiếp theo tương đương và lãi suất được tính theo lãi suất niêm yết của sản phẩm tại thời điểm chuyển kỳ hạn.
+
+Tôi có thể mở hoặc tất toán sổ tiết kiệm trực tuyến vào ngày nghỉ hay không?
+Quý khách có thể tạo hoặc tất toán sổ tiết kiệm trực tuyến vào ngày nghỉ nhưng lưu ý thời gian giao dịch do MSB qui định như sau: các giao dịch thực hiện từ 6h – 20h ngày nghỉ (thứ 7, Chủ nhật) và ngày lễ: Ngân hàng xử lý Yêu cầu trong ngày. Ngoài thời gian trên: giao dịch được lưu lại và xử lý vào phiên làm việc tiếp theo.
+
+Tôi có thể mở nhiều tài khoản tiết kiệm được không?
+Quý khách hoàn toàn có thể mở nhiều tài khoản tiết kiệm trực tuyến trên Internet Banking.
+
+Tôi muốn đóng tài khoản tiết kiệm của mình thì làm thế nào?
+Khi muốn đóng tài khoản tiết kiệm của mình, Quý khách hàng hoàn toàn có thể thực hiện trên Internet Banking hoặc Mobile Web bằng cách thực hiện giao dịch tất toán sổ tiết kiệm hoặc gọi đến Trung tâm Dịch vụ khách hàng MSB theo số điện thoại 24/7: 1800-59-9999 (miễn phí) / (024) 39.44.55.66 để được hướng dẫn cụ thể.
+
+Tôi có thể gửi thêm tiền vào tài khoản tiết kiệm đã có của mình hay không?
+- Đối với Tài khoản tiết kiệm có kỳ hạn: Quý khách không thể gửi thêm tiền vào tài khoản tiết kiệm có kỳ hạn bằng hình thức chuyển khoản trên Internet Banking. n-- Đối với Tài khoản tiết kiệm không kỳ hạn (ví dụ: Phú An Thuận), Tiết kiệm Gửi góp Ong Vàng: Quý khách có thể gửi thêm tiền từ Tài khoản thanh toán của mình vào tài khoản tiền gửi Tiết kiệm không kỳ hạn, Tiết kiệm Ong Vàng.
+
+Tôi có thể tất toán tài khoản tiết kiệm trực tuyến của mình trước thời hạn được không?
+Đối với tài khoản tiết kiệm mà Quý khách gửi qua Internet Banking hoặc Mobile Banking (Mobile App, Mobile Web) thì Quý khách có thể tất toán trước hạn và được hưởng lãi suất tiền gửi không kỳ hạn.Việc tất toán trước hạn chỉ được thực hiện trên Internet Banking hoặc Mobile Banking.
+
+Tôi có thể dùng tài khoản tiết kiệm để thanh toán hóa đơn hoặc chuyển khoản được không?
+Khách hàng không thể dùng “Tài khoản tiết kiệm trực tuyến có kỳ hạn” để thực hiện các giao dịch tài chính: chuyển khoản, nạp tiền và thanh toán hóa đơn trực tuyến.
+
+Nếu ngày đáo hạn của Sổ tiết kiệm trực tuyến trùng với ngày nghỉ, ngày lễ hoặc ngày tết thì tôi phải làm thế nào?
+Nếu Sổ tiết kiệm trực tuyến có ngày đáo hạn trùng với ngày nghỉ, ngày lễ hoặc ngày tết thì ngày đáo hạn sẽ được tự động chuyển sang ngày làm việc tiếp theo. Nếu Quý khách vẫn thực hiện đáo hạn hay tất toán trong ngày này thì lãi suất được hưởng sẽ được tính bằng lãi suất không kỳ hạn.
+
+Tiết kiệm Gửi góp - Ong Vàng là hình thức gửi tiết kiệm như thế nào?
+Tiết kiệm Gửi góp - Ong vàng là sản phẩm tiết kiệm gửi góp cho phép Quý khách được gửi tiền tiết kiệm nhiều lần trong suốt kỳ hạn gửi. Lãi suất được hưởng dựa trên kỳ hạn và số tiền thực gửi của Quý khách.
+
+Điều kiện để có thể sử dụng dịch vụ Tiết kiệm gửi góp - Ong vàng?
+Để sử dụng chức năng Gửi góp trực tuyến sản phẩm Ong Vàng trên Internet Banking, Quý khách chỉ cần đăng ký dịch vụ Internet Banking Gói Đầy đủ.
+
+Hạn mức của Tiết kiệm gửi góp – Ong vàng áp dụng cho lần mở sổ đầu tiên và những lần gửi góp tiếp theo?
+Hạn mức tối đa của Tiết kiệm gửi góp – Ong vàng là không giới hạn. n-Hạn mức tối thiểu cho lần mở sổ đầu tiên là 1.000.000 VNĐ, cho những lần gửi góp tiếp theo khi Đặt lịch gửi góp tiết kiệm hoặc Gửi góp tiết kiệm là 50.000 VNĐ.

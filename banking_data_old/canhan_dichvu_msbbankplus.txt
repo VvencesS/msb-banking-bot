@@ -1,0 +1,50 @@
+Tôi có thể sử dụng dịch vụ MSB Bankplus bằng hình thức nào?
+MSB Bankplus cho phép Khách hàng lựa chọn 1 trong 2 hình thức sau để thực hiện giao dịch: n-- MSB Bankplus USSD: cho phép Khách hàng dễ dàng thực hiện các giao dịch ngân hàng thông qua ứng dụng USSD (bấm *123#). n-- MSB Bankplus Sim Tool Kit (STK): cho phép Khách hàng dễ dàng thực hiện các giao dịch ngân hàng thông qua ứng dụng được tích hợp sẵn trên SIM điện thoại Viettel.
+
+Các tính năng mà dịch vụ MSB Bankplus cung cấp cho Khách hàng?
+Sử dụng MSB Bankplus, Khách hàng hoàn toàn có thể: n-- Tra cứu tài khoản: tra cứu số dư và lịch sử giao dịch tài khoản; n-- Chuyển khoản nội ngân hàng: chuyển khoản theo số thuê bao hoặc theo số tài khoản; n-- Nạp tiền và thanh toán cước viễn thông Viettel: điện thoại di động trả trước/trả sau, Homephone, ADSL, PSTN…; n-- Kích hoạt dịch vụ; n-- Đổi PIN; n-- Hỗ trợ thông tin: tra cứu Danh mục Ngân hàng, Danh mục dịch vụ, Biểu phí và Hướng dẫn sử dụng.
+
+Điều kiện sử dụng dịch vụ MSB Bankplus?
+Để có thể sử dụng dịch vụ MSB Bankplus của MSB, Khách hàng cần thỏa mãn các điều kiện sau: n-- Là Khách hàng cá nhân đã mở tài khoản tiền gửi thanh toán bằng VND (M1, M-Money, FCB…) tại MSB; n-- Là chủ thuê bao điện thoại di động Viettel; n-- Đã đăng ký và kích hoạt sử dụng dịch vụ MSB Bankplus.
+
+Cách thức đăng ký sử dụng dịch vụ MSB Bankplus?
+Để đăng ký dịch sử dụng dịch vụ MSB Bankplus, Khách hàng cần mang Giấy tờ tùy thân (CMND, CMSQ, HC) đã đăng ký với MSB khi mở tài khoản đến CN/PGD Maritme Bank gần nhất và làm các thủ tục đăng ký theo đúng hướng dẫn của Nhân viên ngân hàng. n-Sau khi đăng ký dịch vụ thành công, Khách hàng sẽ nhận được tin nhắn xác nhận đăng ký thành công: n-“Quy khach dang ky thanh cong dich vu BankPlus MSB. PIN cua quy khach la XXXXXX. Phi giao dich 0 VND. Ngay dd/mm/yy. De kich hoat dich DV, su dung chuc nang tren SIM Viettelplus/Bankplus/Cai dat. Cam on quy khach!”
+
+Tôi có phải trả phí khi sử dụng MSB Bankplus không?
+Để sử dụng dịch vụ MSB Bankplus, Khách hàng phải trả phí duy trì dịch vụ hàng tháng là 11.000 VND (đã bao gồm VAT). Phí duy trì dịch vụ sẽ được MSB thu trực tiếp từ tài khoản đăng ký của Khách hàng. Trong trường hợp tài khoản Khách hàng không đủ để trả phí duy trì dịch vụ trong vòng 02 (hai) tháng liên tiếp, dịch vụ MSB Bankplus của Khách hàng sẽ bị khóa.
+
+Dịch vụ MSB Bankplus có thể sử dụng được trên những dòng điện thoại nào?
+Hiện tại, tất cả các dòng điện thoại di động có sử dụng SIM của Viettel đều có thể sử dụng dịch vụ MSB Bankplus.
+
+Hạn mức giao dịch dịch vụ MSB Bankplus được qui định như thế nào?
+Hiện tại, MSB qui định hạn mức giao dịch dịch vụ MSB Bankplus như sau: n-- Số tiền giao dịch tối thiểu/ lần: 30.000 VND. n-- Số tiền giao dịch tối đa/ lần: 2.000.000 VND đối với giao dịch nạp tiền cước viễn thông Viettel, 3.000.000 VND đối với giao dịch thanh toán hóa đơn cước viễn thông Viettel và giao dịch chuyển khoản nội ngân hàng. n-- Số tiền giao dịch tối đa/ngày: 10.000.000 VND.
+
+Thời gian giao dịch của dịch vụ MSB Bankplus?
+Các giao dịch Hỗ trợ của MSB Bankplus được thực hiện 24/24 các ngày trong tuần bao gồm cả thứ 7, chủ nhật, ngày nghỉ và ngày lễ. n-Các giao dịch khác (tra cứu tài khoản, chuyển khoản nội ngân hàng, nạp tiền và thanh toán cước viễn thông Viettel, kích hoạt dịch vụ, đối PIN), thời gian giao dịch được quy định từ 6h00 đến 22h00 các ngày từ thứ 2 đến thứ 6 và từ 6h00 đến 20h00 các ngày thứ 7, chủ nhật, ngày nghỉ và ngày lễ.
+
+Tôi có thể chuyển khoản qua MSB Bankplus theo hình thức nào?
+Dịch vụ MSB Bankplus cho phép Khách hàng thực hiện giao dịch chuyển khoản nội ngân hàng MSB qua 02 (hai) hình thức: n-- Chuyển khoản theo số tài khoản n-- Chuyển khoản theo số thuê bao điện thoại (số thuê bao điện thoại của người nhận đã đăng ký dịch vụ MSB Bankplus).
+
+Dịch vụ MSB Bankplus là gì?
+Dịch vụ MSB Bankplus là dịch vụ hợp tác giữa Viettel và Ngân hàng TMCP Hàng Hải Việt Nam (MSB), cho phép Khách hàng là chủ thuê bao di động Viettel đã mở tài khoản tiền gửi thanh toán tại MSB có thể thực hiện được các giao dịch tài chính và phi tài chính ngay trên chiếc điện thoại di động một cách nhanh chóng, an toàn và tiện lợi ở bất cứ nơi đâu có sóng của Viettel.
+
+Tôi có thể thanh toán được những loại hoá đơn nào qua dịch vụ MSB Bankplus?
+Sử dụng dịch vụ MSB Bankplus, Khách hàng có thể thanh toán hóa đơn các loại cước viễn thông do Viettel cung cấp bao gồm: Điện thoại di động, Homephone, ADSL, PSTN và nhiều dịch vụ khác.
+
+Sau khi thanh toán xong tôi có nhận được hoá đơn từ Vietel không?
+Để nhận được hoá đơn từ Viettel, Khách hàng cần liên hệ với Viettel để được hỗ trợ.
+
+Sử dụng dịch vụ nạp tiền/thanh toán hóa đơn cước viễn thông Viettel trên MSB Bankplus tôi có được hưởng các khuyến mại không?
+Khách hàng khi nạp tiền hoặc thanh toán cước viễn thông Viettel qua MSB Bankplus sẽ được hưởng đầy đủ các khuyến mãi của Viettel. Ngoài ra, Khách hàng còn được hưởng những chương trình ưu đãi đặc biệt mà dịch vụ đem lại.
+
+Tôi có thể nạp tiền cước viễn thông Viettel theo những mệnh giá nào?
+Qua dịch vụ MSB Bankplus, Khách hàng có thể thực hiện nạp tiền cước viễn thông Viettel với số tiền bất kỳ từ 30.000 VND đến 2.000.000 VND/ giao dịch.
+
+Tôi phải làm gì nếu thực hiện nạp tiền hoặc thanh toán cước viễn thông mà tiền trong tài khoản ngân hàng đã bị trừ nhưng cước viễn thông chưa được nạp hoặc thanh toán?
+Khi khách hàng đã bị trừ tiền trong tài khoản nhưng dịch vụ chưa được nạp hoặc thanh toán cước, Khách hàng vui lòng liên hệ với CN/PGD của MSB hoặc Viettel hoặc liên hệ với Trung tâm Dịch vụ khách hàng của MSB hoặc Viettel để làm yêu cầu tra soát, khiếu nại.
+
+Tôi phải làm thế nào khi tôi bị mất điện thoại hoặc mất SIM?
+Trong trường hợp Khách hàng bị mất điện thoại hoặc mất SIM, Khách hàng cần liên hệ ngay với các CN/PGD của MSB hoặc Viettel hoặc gọi đến Trung tâm Dịch vụ khách hàng của MSB hoặc Viettel để yêu cầu tạm khóa dịch vụ MSB Bankplus. n-Trung tâm Dịch vụ khách hàng MSB: 1800-59-9999 (miễn phí)/(024) 39-44-55-66 Trung tâm Dịch vụ khách hàng Viettel: 18006868 - 18008198 (miễn phí) hoặc 19008099 (200 VND/phút)
+
+Tôi muốn thay đổi số điện thoại /số tài khoản sử dụng/ cấp lại PIN hoặc hủy dịch vụ MSB Bankplus thì phải làm thế nào?
+Khi có yêu cầu thay đổi số điện thoại; số tài khoản sử dụng dịch vụ MSB Bankplus; cấp lại PIN; hủy dịch vụ, Khách hàng phải trực tiếp tới CN/PGD của MSB để làm Đơn yêu cầu chỉnh sửa thông tin/ hủy đăng ký/cấp lại PIN dịch vụ MSB Bankplus.

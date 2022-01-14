@@ -1,49 +1,49 @@
-Định chế tài chính: Thị trường tài chính
+Định chế tài chính: Thị trường tài chính của MSB bao gồm những giao dịch gì?
 n--Giao dịch ngoại hối n--Giao dịch Trái phiếu n--Các sản phẩm cấu trúc n--Thu đổi ngoại tệ n--Giao dịch mua bán vàng giao ngay n--Giao dịch ngoại tệ mạnh G7 n-Bạn có thể xem chi tiết tại: https://www.msb.com.vn/Thi-truong-tai-chinh/542
 
-Giao dịch ngoại hối
+Giao dịch ngoại hối gồm những gì?
 n--Giao dịch ngoại hối giao ngay n--Giao dịch ngoại hối kỳ hạn n--Giao dịch hoán đổi ngoại tệ chéo n--Giao dịch quyền chọn tiền tệ n-Bạn có thể xem chi tiết tại: https://www.msb.com.vn/Thi-truong-tai-chinh/956/3/Giao-dich-ngoai-hoi
 
-Giao dịch ngoại hối giao ngay
+Giao dịch ngoại hối giao ngay của MSB là gì?
 Là giao dịch mà MSB thực hiện mua, bán một số lượng ngoại tệ nhất định với doanh nghiệp theo tỷ giá giao ngay tại thời điểm giao dịch và kết thúc thanh toán trong vòng 2 ngày làm việc tiếp theo kể từ ngày cam kết mua bán.
 
 Giao dịch ngoại hối giao ngay là gì?
 Là giao dịch mà MSB thực hiện mua, bán một số lượng ngoại tệ nhất định với doanh nghiệp theo tỷ giá giao ngay tại thời điểm giao dịch và kết thúc thanh toán trong vòng 2 ngày làm việc tiếp theo kể từ ngày cam kết mua bán.
 
-Lợi ích của Giao dịch ngoại hối giao ngay
+Lợi ích của Giao dịch ngoại hối giao ngay là gì?
 Lợi ích: Hình thức giao dịch đơn giản, đáp ứng ngay các nhu cầu giao dịch ngoại tệ của khách hàng. Áp dụng với tất cả các cặp ngoại tệ
 
-Giao dịch ngoại hối kỳ hạn
+Thế nào là giao dịch ngoại hối kỳ hạn của MSB?
 Là giao dịch trong đó MSB cam kết sẽ mua, bán với doanh nghiệp một số lượng ngoại tệ theo một mức tỷ giá xác đinh tại thời điểm thỏa thuận và việc thanh toán sẽ được thực hiện trong tương lai (từ tối thiểu là 3 ngày đến tối đa là 365 ngày). Khi muốn phòng ngừa rủi ro tỷ giá biến động, khách hàng có thể sử dụng sản phẩm giao dịch ngoại hối kỳ hạn.
 
 Giao dịch ngoại hối kỳ hạn là gì?
 Là giao dịch trong đó MSB cam kết sẽ mua, bán với doanh nghiệp một số lượng ngoại tệ theo một mức tỷ giá xác đinh tại thời điểm thỏa thuận và việc thanh toán sẽ được thực hiện trong tương lai (từ tối thiểu là 3 ngày đến tối đa là 365 ngày). Khi muốn phòng ngừa rủi ro tỷ giá biến động, khách hàng có thể sử dụng sản phẩm giao dịch ngoại hối kỳ hạn.
 
-Lợi ích của Giao dịch ngoại hối kỳ hạn
+Lợi ích của Giao dịch ngoại hối kỳ hạn?
 Lợi ích: n--Áp dụng cho các khách hàng có nhu cầu sử dụng ngoại tệ tại một thời điểm nhất định trong tương lai n--Giúp khách hàng kế hoạch hóa được việc sử dụng nguồn tiền, cố định được tỉ giá, tránh rủi ro biến động tỷ giá trong tương lai n--Điểm kỳ hạn/điểm swap: Là mức chênh lệch giữa tỷ giá giao ngay và tỷ giá kỳ hạn được xác định tại thời điểm hiện tại. Điểm kỳ hạn được tính toán trên cơ sở chênh lệch lãi suất của hai đồng tiền với công thức như sau: n-(Lãi suất VND – Lãi suất USD) * Tỷ giá spot * Số ngày kỳ hạn /360 ngày
 
-Giao dịch hoán đổi ngoại tệ chéo
+Thế nào là giao dịch hoán đổi ngoại tệ chéo?
 Là giao dịch mà khách hàng phải thực hiện đồng thời cả hai giao dịch: Giao dịch mua (bán) giao ngay 1 lượng ngoại tệ và giao dịch bán (mua) cùng một lượng ngoại tệ này trong tương lai (chỉ có hai đồng tiền được sử dụng trong giao dịch), trong đó kỳ hạn thanh toán của hai giao dịch khác nhau và tỷ giá của hai giao dịch được xác định tại thời điểm ký kết hợp đồng.
 
 Giao dịch hoán đổi ngoại tệ chéo là gì?
 Là giao dịch mà khách hàng phải thực hiện đồng thời cả hai giao dịch: Giao dịch mua (bán) giao ngay 1 lượng ngoại tệ và giao dịch bán (mua) cùng một lượng ngoại tệ này trong tương lai (chỉ có hai đồng tiền được sử dụng trong giao dịch), trong đó kỳ hạn thanh toán của hai giao dịch khác nhau và tỷ giá của hai giao dịch được xác định tại thời điểm ký kết hợp đồng.
 
-Lợi ích của Giao dịch hoán đổi ngoại tệ chéo
+Nêu lợi ích của Giao dịch hoán đổi ngoại tệ chéo của MSB?
 Lợi ích: n--Giúp khách hàng tối ưu hóa việc sử dụng các nguồn tiền hiện có với các mức chi phí huy động vốn khác nhau n--Khi khách hàng có dư một loại ngoại tệ và có có nhu cầu sử dụng một loại ngoại tệ khác sẵn có để trao đổi với MSB n--Khách hàng có thể quản lý tốt hơn dòng tiền của mình, tận dụng tối đa nguồn sẵn có đồng thời có cơ hội hưởng chênh lệch lãi suất tại từng thời kỳ
 
-Giao dịch quyền chọn tiền tệ
+Định nghĩa giao dịch quyền chọn tiền tệ?
 Là giao dịch mà giữa 2 bên mua quyền và bên bán quyền, trong đó bên mua quyền có quyền nhưng không có nghĩa vụ mua hoặc bán một lượng ngoại tệ nhất định ở một mức tỉ giá xác định trong một khoảng thời gian thỏa thuận trước sau khi đã trả 1 khoản phí quyền chọn tại thời điểm giao dịch.
 
 Giao dịch quyền chọn tiền tệ là gì?
 Là giao dịch mà giữa 2 bên mua quyền và bên bán quyền, trong đó bên mua quyền có quyền nhưng không có nghĩa vụ mua hoặc bán một lượng ngoại tệ nhất định ở một mức tỉ giá xác định trong một khoảng thời gian thỏa thuận trước sau khi đã trả 1 khoản phí quyền chọn tại thời điểm giao dịch.
 
-Lợi ích của Giao dịch quyền chọn tiền tệ
+Lợi ích của Giao dịch quyền chọn tiền tệ bao gồm những gì?
 Lợi ích: n--Giúp khách hàng phòng ngừa rủi ro trước sự biến động của tỉ giá. n--Khách hàng có thể tính toán chi phí và lựa chọn được mức tỷ giá mong muốn. n--Có cơ hội đầu tư hiệu quả dựa trên những phán đoán về xu hướng tỉ giá.
 
-Đặc điểm của Giao dịch quyền chọn tiền tệ
+Đặc điểm của Giao dịch quyền chọn tiền tệ của MSB?
 Đặc điểm: n--Quyền chọn mua (Call option): Là quyền được mua một lượng ngoại tệ tại tỉ giá thỏa thuận trong một khoảng thời gian hoặc thời điểm xác định. n--Quyền chọn bán (Put option): Là quyền được bán một lượng ngoại tệ với tỉ giá thỏa thuận trong một khoảng thời gian hoặc thời điểm xác định. n--Quyền chọn kiểu Châu âu, là loại quyền chọn mà bên mua chỉ được thực hiện quyền vào ngày đáo hạn của hợp đồng. n--Quyền chọn kiểu Mỹ, là loại quyền chọn mà bên mua có thể thực hiện quyền vào bất kỳ ngày nào trong thời gian hiệu lực của hợp đồng. n--Kỳ hạn của hợp đồng: từ 3 – 365 ngày n--Tỷ giá thực hiện: Tỷ giá mà người mua quyền được mua hoặc bán ngoại tệ. Tỷ giá này do khách hàng tự lựa chọn. n--Phí quyền chọn: là số tiền mà người mua phải trả cho người bán để có được quyền mua hoặc quyền bán ngoại tệ.
 
-Giao dịch Trái phiếu
+Giao dịch Trái phiếu gồm những gì?
 Năm 2014 MSB được Bộ Tài chính tặng Bằng khen cho Ngân hàng có đóng góp xuất sắc cho sự phát triển của thị trường chứng khoán Việt Nam giai đoạn 2009-2014. Sở Giao dịch Chứng khoán Hà Nội (HNX) bình chọn là thành viên tích cực nhất và có doanh số giao dịch trái phiếu lớn nhất trên thị trường thứ cấp. Và đến nay MSB cũng luôn được bình chọn chào giá tốt nhất trên thị trường thứ cấp với các sản phẩm và dịch vụ cung cấp như sau: n--Mua/bán Trái phiếu Chính phủ; TP Chính phủ Bảo Lãnh; TP Chính quyền Địa phương; TP Tổ chức Tín dụng n--Repos/Reverse repos n--Mua bán chứng chỉ tiền gửi ngắn hạn/dài hạn n--Đấu thầu hộ trái phiếu n-Bạn có thể xem chi tiết tại: https://www.msb.com.vn/Thi-truong-tai-chinh/884/1/Giao-dich-Trai-phieu-
 
 Mua/bán Trái phiếu Chính phủ; TP Chính phủ Bảo Lãnh; TP Chính quyền Địa phương; TP Tổ chức Tín dụng 
@@ -52,98 +52,98 @@ Là giao dịch trong đó một bên bán và chuyển giao quyền sở hữu 
 Mua/bán Trái phiếu Chính phủ; TP Chính phủ Bảo Lãnh; TP Chính quyền Địa phương; TP Tổ chức Tín dụng là gì?
 Là giao dịch trong đó một bên bán và chuyển giao quyền sở hữu trái phiếu cho một bên khác mà không kèm theo cam kết mua lại trái phiếu.
 
-Repos/Reverse repos 
+Repos/Reverse repos của MSB là gì?
 Là giao dịch trong đó một bên bán và chuyển giao quyền sở hữu trái phiếu cho một bên khác, đồng thời cam kết sẽ mua lại và nhận lại quyền sở hữu trái phiếu đó sau một thời gian xác định với một mức giá xác định. Thời hạn của giao dịch Repos/Reverse repos là 02 đến 182 ngày.
 
 Repos/Reverse repos là gì?
 Là giao dịch trong đó một bên bán và chuyển giao quyền sở hữu trái phiếu cho một bên khác, đồng thời cam kết sẽ mua lại và nhận lại quyền sở hữu trái phiếu đó sau một thời gian xác định với một mức giá xác định. Thời hạn của giao dịch Repos/Reverse repos là 02 đến 182 ngày.
 
-Mua bán chứng chỉ tiền gửi ngắn hạn/dài hạn 
+Thế nào là mua bán chứng chỉ tiền gửi ngắn hạn/dài hạn?
 Là giao dịch trong đó một bên bán và chuyển giao quyền sở hữu chứng chỉ tiền gửi cho một bên khác mà không kèm theo cam kết mua lại chứng chỉ tiền gửi
 
 Mua bán chứng chỉ tiền gửi ngắn hạn/dài hạn là gì?
 Là giao dịch trong đó một bên bán và chuyển giao quyền sở hữu chứng chỉ tiền gửi cho một bên khác mà không kèm theo cam kết mua lại chứng chỉ tiền gửi
 
-Đấu thầu hộ trái phiếu
+Đấu thầu hộ trái phiếu là dịch vụ như thế nào?
 Là dịch vụ trong đó một bên là thành viên đấu thầu Trái phiếu Chính phủ thực hiện đấu thầu hộ một bên khác và hưởng phí đấu thầu hộ
 
 Đấu thầu hộ trái phiếu là gì?
 Là dịch vụ trong đó một bên là thành viên đấu thầu Trái phiếu Chính phủ thực hiện đấu thầu hộ một bên khác và hưởng phí đấu thầu hộ
 
-Thị trường tài chính các sản phẩm cấu trúc
+Thị trường tài chính các sản phẩm cấu trúc là gì?
 n--Hoán đổi lãi suất n--Hoán đổi tiền tệ chéo n--Hoán đổi giá cả hàng hóa n--Hợp đồng lãi suất kỳ hạn n--Quyền chọn ngoại tệ n--Tiền vay Mflexi n-Bạn có thể xem chi tiết tại: https://www.msb.com.vn/Thi-truong-tai-chinh/371/3/%20%20%20%20%20%20%20%20%20%20%20%20%20%20Cac-san-pham-cau-truc-
 
 Hoán đổi lãi suất 
 Đặc điểm sản phẩm: n--Hai bên giao kết hợp đồng với nhau, trong đó 1 bên cam kết thanh toán cho bên kia khoản tiền tính trên mức lãi thả nổi; 1 bên cam kết thanh toán cho bên kia khoản tiền tính trên mức lãi suất cố định tính trên cùng 1 khoản nợ gốc trên cùng 1 khoảng thời gian. n--Thường không có chuyển giao vốn gốc. n--Đến hạn thanh toán, 2 bên chỉ thực hiện net off phần chênh lệch. n-Đối tượng khách hàng: n--Các Khách hàng có khoản tiền vay/tiền gửi dài hạn và có nhu cầu ngăn ngừa rủi ro lãi suất.
 
-Đặc điểm của Hoán đổi lãi suất 
+Đặc điểm của Hoán đổi lãi suất là gì?
 Đặc điểm sản phẩm: n--Hai bên giao kết hợp đồng với nhau, trong đó 1 bên cam kết thanh toán cho bên kia khoản tiền tính trên mức lãi thả nổi; 1 bên cam kết thanh toán cho bên kia khoản tiền tính trên mức lãi suất cố định tính trên cùng 1 khoản nợ gốc trên cùng 1 khoảng thời gian. n--Thường không có chuyển giao vốn gốc. n--Đến hạn thanh toán, 2 bên chỉ thực hiện net off phần chênh lệch.
 
-Đối tượng khách hàng của Hoán đổi lãi suất 
+Đối tượng khách hàng của Hoán đổi lãi suất bao gồm những đối tượng nào?
 Đối tượng khách hàng: n--Các Khách hàng có khoản tiền vay/tiền gửi dài hạn và có nhu cầu ngăn ngừa rủi ro lãi suất.
 
-Hoán đổi tiền tệ chéo 
+Đặc điểm của hoán đổi tiền tệ chéo? 
 Đặc điểm sản phẩm: n--2 bên giao kết hợp đồng với nhau, trong đó 1 bên cam kết thanh toán cho bên kia 1 loại tiền và nhận về 1 loại tiền khác cùng kỳ hạn, phương thức tính lãi của từng đồng tiền được các bên xác định trước và duy trì trong suốt thời hạn hợp đồng. n--Vốn gốc có thể chuyển giao hoặc không chuyển giao tại thời điểm ban đầu nhưng bắt buộc phải chuyển giao vào ngày đến hạn thanh toán. n-Đối tượng khách hàng: n--Các Khách hàng có khoản tiền vay/tiền gửi dài hạn và có nhu cầu ngăn ngừa rủi ro lãi suất và tỷ giá. n--Các Khách hàng thiếu một loại ngoại tệ cụ thể nào đó để phục vụ cho thanh toán.
 
-Đặc điểm tiền tệ chéo 
+Đặc điểm tiền tệ chéo là gì?
 Đặc điểm sản phẩm: n--2 bên giao kết hợp đồng với nhau, trong đó 1 bên cam kết thanh toán cho bên kia 1 loại tiền và nhận về 1 loại tiền khác cùng kỳ hạn, phương thức tính lãi của từng đồng tiền được các bên xác định trước và duy trì trong suốt thời hạn hợp đồng. n--Vốn gốc có thể chuyển giao hoặc không chuyển giao tại thời điểm ban đầu nhưng bắt buộc phải chuyển giao vào ngày đến hạn thanh toán.
 
-Đối tượng khách hàng của Hoán đổi tiền tệ chéo 
+Đối tượng khách hàng của Hoán đổi tiền tệ chéo gồm những ai?
 Đối tượng khách hàng: n--Các Khách hàng có khoản tiền vay/tiền gửi dài hạn và có nhu cầu ngăn ngừa rủi ro lãi suất và tỷ giá. n--Các Khách hàng thiếu một loại ngoại tệ cụ thể nào đó để phục vụ cho thanh toán.
 
-Hoán đổi giá cả hàng hóa 
+Hoán đổi giá cả hàng hóa có đặc điểm gì?
 Đặc điểm sản phẩm: n--Hợp đồng hoán đổi giá cả hàng hóa là thỏa thuận giữa các bên trong đó một bên cam kết sẽ thanh toán cho bên kia mức giá cố định của một loại hàng hóa xác định, ngược lại bên nhận giá cố định cam kết sẽ thanh toán cho bên còn lại mức giá thả nổi của cùng loại hàng hóa đó trong một khoảng thời gian xác định. n--Thường không có chuyển giao hàng hóa. n--Đến hạn thanh toán, 2 bên chỉ thực hiện net off phần chênh lệch. n-Đối tượng khách hàng: n--Khách hàng kinh doanh hàng hóa, xuất nhập khẩu và doanh thu phụ thuộc vào biến động về giá cả trên thị trường. n--Phù hợp với các công ty dầu và các công ty xuất nhập khẩu sản phẩm nông nghiệp.
 
-Đặc điểm của Hoán đổi giá cả hàng hóa 
+Đặc điểm của Hoán đổi giá cả hàng hóa?
 Đặc điểm sản phẩm: n--Hợp đồng hoán đổi giá cả hàng hóa là thỏa thuận giữa các bên trong đó một bên cam kết sẽ thanh toán cho bên kia mức giá cố định của một loại hàng hóa xác định, ngược lại bên nhận giá cố định cam kết sẽ thanh toán cho bên còn lại mức giá thả nổi của cùng loại hàng hóa đó trong một khoảng thời gian xác định. n--Thường không có chuyển giao hàng hóa. n--Đến hạn thanh toán, 2 bên chỉ thực hiện net off phần chênh lệch.
 
-Đối tượng khách hàng của Hoán đổi giá cả hàng hóa 
+Đối tượng khách hàng của Hoán đổi giá cả hàng hóa MSB là gì?
 Đối tượng khách hàng: n--Khách hàng kinh doanh hàng hóa, xuất nhập khẩu và doanh thu phụ thuộc vào biến động về giá cả trên thị trường. n--Phù hợp với các công ty dầu và các công ty xuất nhập khẩu sản phẩm nông nghiệp.
 
-Hợp đồng lãi suất kỳ hạn 
+Hợp đồng lãi suất kỳ hạn có đặc điểm gì?
 Đặc điểm sản phẩm: n--Là thoả thuận giữa hai bên về việc cố định mức lãi suất cho một khoản vay hay một khoản tiền gửi bắt đầu từ 1 thời điểm trong tương lai với số vốn gốc và kỳ hạn được xác định trước. n--Vốn gốc có thể chuyển giao hoặc không chuyển giao n--MSB cung cấp hợp đồng lãi suất kỳ hạn với kỳ hạn tối đa là 1 năm. n-Đối tượng khách hàng: n--Các Khách hàng có nhu cầu vay/gửi trong khoảng thời gian không quá một năm. n--Khách hàng có nhu cầu về vay/gửi trung hoặc dài hạn muốn hạn chế rủi ro bằng lãi suất cố định.
 
-Đặc điểm của Hợp đồng lãi suất kỳ hạn 
+Đặc điểm của Hợp đồng lãi suất kỳ hạn?
 Đặc điểm sản phẩm: n--Là thoả thuận giữa hai bên về việc cố định mức lãi suất cho một khoản vay hay một khoản tiền gửi bắt đầu từ 1 thời điểm trong tương lai với số vốn gốc và kỳ hạn được xác định trước. n--Vốn gốc có thể chuyển giao hoặc không chuyển giao n--MSB cung cấp hợp đồng lãi suất kỳ hạn với kỳ hạn tối đa là 1 năm.
 
-Đối tượng khách hàng của Hợp đồng lãi suất kỳ hạn 
+Đối tượng khách hàng của Hợp đồng lãi suất kỳ hạn là gì?
 Đối tượng khách hàng: n--Các Khách hàng có nhu cầu vay/gửi trong khoảng thời gian không quá một năm. n--Khách hàng có nhu cầu về vay/gửi trung hoặc dài hạn muốn hạn chế rủi ro bằng lãi suất cố định.
 
-Quyền chọn ngoại tệ 
+Đặc điểm của quyền chọn ngoại tệ?
 Đặc điểm sản phẩm: n--Là một hợp đồng được ký kết giữa hai bên theo đó hai bên cùng thỏa thuận và áp dụng thống nhất các nguyên tắc chung, trong đó có quy định về xuất trình chứng từ thanh toán, việc thanh toán phí mua Quyền chọn, cách thức thực hiện Quyền chọn, quyền và nghĩa vụ của các bên, cách thức xử lý tranh chấp và một số quy định khác. Hợp đồng nguyên tắc này được ký một lần trước khi Bên mua quyền chọn bắt đầu thực hiện giao dịch quyền chọn tiền tệ đầu tiên và được sử dụng cho các lần giao dịch kế tiếp. n-Đối tượng khách hàng: n--Các Khách hàng có nhu cầu mua/bán ngoại tệ trong tương laivà có nhu cầu ngăn ngừa rủi ro tỷ giá.
 
-Đặc điểm của Quyền chọn ngoại tệ 
+Đặc điểm của Quyền chọn ngoại tệ MSB?
 Đặc điểm sản phẩm: n--Là một hợp đồng được ký kết giữa hai bên theo đó hai bên cùng thỏa thuận và áp dụng thống nhất các nguyên tắc chung, trong đó có quy định về xuất trình chứng từ thanh toán, việc thanh toán phí mua Quyền chọn, cách thức thực hiện Quyền chọn, quyền và nghĩa vụ của các bên, cách thức xử lý tranh chấp và một số quy định khác. Hợp đồng nguyên tắc này được ký một lần trước khi Bên mua quyền chọn bắt đầu thực hiện giao dịch quyền chọn tiền tệ đầu tiên và được sử dụng cho các lần giao dịch kế tiếp.
 
-Đối tượng khách hàng của Quyền chọn ngoại tệ 
+Đối tượng khách hàng của Quyền chọn ngoại tệ là ai?
 Đối tượng khách hàng: n--Các Khách hàng có nhu cầu mua/bán ngoại tệ trong tương laivà có nhu cầu ngăn ngừa rủi ro tỷ giá.
 
-Tiền vay Mflexi
+Tiền vay Mflexi có đặc điểm gì?
 Đặc điểm sản phẩm: n--Là một sản phẩm cho vay do MSB cung cấp cho các Khách hàng, trong đó: n-+Khách hàng chỉ phải chịu rủi ro về mặt tỷ giá (USD/VND) ở mức nhất định và n-+Khách hàng được hưởng mức lãi suất cơ sở linh hoạt thùy theo sự lựa chọn của mình về kỳ điều chỉnh lãi suất. n-Đối tượng khách hàng: n--Các Khách hàng có nhu cầu vay VND ở mức lãi suất thấp và có USD để thanh toán khi đến hạn hoặc n--Khách hàng có nhu cầu vay và có view tỷ giá sẽ không tăng nhiều trong tương lai.
 
-Đặc điểm của Tiền vay Mflexi
+Đặc điểm của Tiền vay Mflexi là gì?
 Đặc điểm sản phẩm: n--Là một sản phẩm cho vay do MSB cung cấp cho các Khách hàng, trong đó: n-+Khách hàng chỉ phải chịu rủi ro về mặt tỷ giá (USD/VND) ở mức nhất định và n-+Khách hàng được hưởng mức lãi suất cơ sở linh hoạt thùy theo sự lựa chọn của mình về kỳ điều chỉnh lãi suất.
 
-Đối tượng khách hàng của Tiền vay Mflexi
+Đối tượng khách hàng của Tiền vay Mflexi là những đối tượng nào?
 Đối tượng khách hàng: n--Các Khách hàng có nhu cầu vay VND ở mức lãi suất thấp và có USD để thanh toán khi đến hạn hoặc n--Khách hàng có nhu cầu vay và có view tỷ giá sẽ không tăng nhiều trong tương lai.
 
-Thu hồi ngoại tệ
+Thu hồi ngoại tệ có đặc điểm gì?
 Đặc điểm: Là dịch vụ MSB cung cấp cho khách hàng có nhu cầu đổi ngoại tệ mặt để lấy VND với các đặc tính sau: n--MSB thu đổi ngoại tệ cho khách hàng (USD, EUR, AUD, SGD, CAD, JPY) để lấy VND theo tỷ giá quy đổi do MSB công bố tại thời điểm thu đổi. n--Với công cụ mua bán ngoại tệ online, chúng tôi luôn bám sát những biến động về tỷ giá của thị trường trong và ngoài nước để cung cấp cho khách hàng mức tỷ giá hợp lý và cạnh tranh. n-Bạn có thể xem chi tiết tại: https://www.msb.com.vn/Thi-truong-tai-chinh/428/3/Thu-doi-ngoai-te
 
-Đặc điểm của Thu hồi ngoại tệ
+Đặc điểm của Thu hồi ngoại tệ?
 Đặc điểm: Là dịch vụ MSB cung cấp cho khách hàng có nhu cầu đổi ngoại tệ mặt để lấy VND với các đặc tính sau: n--MSB thu đổi ngoại tệ cho khách hàng (USD, EUR, AUD, SGD, CAD, JPY) để lấy VND theo tỷ giá quy đổi do MSB công bố tại thời điểm thu đổi. n--Với công cụ mua bán ngoại tệ online, chúng tôi luôn bám sát những biến động về tỷ giá của thị trường trong và ngoài nước để cung cấp cho khách hàng mức tỷ giá hợp lý và cạnh tranh. n-Bạn có thể xem chi tiết tại: https://www.msb.com.vn/Thi-truong-tai-chinh/428/3/Thu-doi-ngoai-te
 
-Tiện ích của Thu hồi ngoại tệ
+Tiện ích của Thu hồi ngoại tệ MSB là gì?
 n--Ngoại tệ sẽ được thu đổi với tỷ giá quy đổi hợp lý trong thời gian nhanh nhất. n--Không cần chứng minh nguồn gốc ngoại tệ. n--Không bị hạn chế số lượng ngoại tệ tối đa.
 
-Giao dịch mua bán vàng giao ngay
+Giao dịch mua bán vàng giao ngay có đặc điểm gì?
 Đặc điểm: n--Đối tượng áp dụng: Cá nhân có đủ năng lực hành vi dân sự. n--Giao dịch mua bán vàng giao ngay là hình thức giao dịch mua bán vàng vật chất với tỷ giá xác định, có hiệu lực thanh toán trong vòng 2 ngày làm việc kể từ ngày Quý khách hàng chốt giá mua bán với MSB. n-Bạn có thể xem chi tiết tại: https://www.msb.com.vn/Thi-truong-tai-chinh/342/1/Giao-dich-mua-ban-vang-giao-ngay
 
-Đặc điểm của Giao dịch mua bán vàng giao ngay
+Đặc điểm của Giao dịch mua bán vàng giao ngay?
 Đặc điểm: n--Đối tượng áp dụng: Cá nhân có đủ năng lực hành vi dân sự. n--Giao dịch mua bán vàng giao ngay là hình thức giao dịch mua bán vàng vật chất với tỷ giá xác định, có hiệu lực thanh toán trong vòng 2 ngày làm việc kể từ ngày Quý khách hàng chốt giá mua bán với MSB. n-Bạn có thể xem chi tiết tại: https://www.msb.com.vn/Thi-truong-tai-chinh/342/1/Giao-dich-mua-ban-vang-giao-ngay
 
-Tiện ích của Giao dịch mua bán vàng giao ngay
+Tiện ích của Giao dịch mua bán vàng giao ngay bao gồm những gì?
 Tiện ích: n--Là dịch vụ MSB cung cấp cho khách hàng có nhu cầu mua bán vàng vật chất. n--Giao dịch vàng được thực hiện trong thời gian nhanh nhất với tỷ giá mua bán hợp lý.
 
-Giao dịch ngoại tệ mạnh G7
+Giao dịch ngoại tệ mạnh G7 của MSB là gì?
 MSB là một trong những ngân hàng cung cấp dịch vụ giao dịch ngoại tệ mạnh (G7) lớn nhất tại Việt Nam. Chúng tôi là những người dẫn đầu trong việc cung cấp thanh khoản hầu hết các cặp ngoại tệ chính như: EUR, AUD, GBP, JPY, CAD, CHF, SGD... thông qua các sản phẩm: giao dịch giao ngay, giao dịch kỳ hạn, giao dịch hoán đổi.

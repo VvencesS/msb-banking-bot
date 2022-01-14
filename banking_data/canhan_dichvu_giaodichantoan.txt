@@ -4,16 +4,49 @@ Chỉ thực hiện đăng nhập dịch vụ Ngân hàng điện tử của MSB
 Làm thế nào để đảm bảo tôi đang truy cập đúng trang web của Internet Banking của Maritime Bank?
 Chỉ thực hiện đăng nhập dịch vụ Ngân hàng điện tử của MSB có tên miền là msb.com.vn tại hai địa chỉ duy nhất: https://www.msb.com.vn/ và https://ebank.msb.com.vn/. Tất cả các trang web khác yêu cầu Quý khách nhập thông tin tài khoản Ngân hàng điện tử ngoài 2 đường link trên đều là giả mạo.
 
+Để đảm bảo truy cập đúng trang web của Internet Banking của Maritime Bank thì làm thế nào ?
+Chỉ thực hiện đăng nhập dịch vụ Ngân hàng điện tử của MSB có tên miền là msb.com.vn tại hai địa chỉ duy nhất: https://www.msb.com.vn/ và https://ebank.msb.com.vn/. Tất cả các trang web khác yêu cầu Quý khách nhập thông tin tài khoản Ngân hàng điện tử ngoài 2 đường link trên đều là giả mạo.
+
+Cách để đảm bảo truy cập đúng trang web của Internet Banking của Maritime Bank?
+Chỉ thực hiện đăng nhập dịch vụ Ngân hàng điện tử của MSB có tên miền là msb.com.vn tại hai địa chỉ duy nhất: https://www.msb.com.vn/ và https://ebank.msb.com.vn/. Tất cả các trang web khác yêu cầu Quý khách nhập thông tin tài khoản Ngân hàng điện tử ngoài 2 đường link trên đều là giả mạo.
+
 Tôi nên làm thế nào nếu lỡ cung cấp thông tin sử dụng Internet Banking/Mobile Banking (tên đăng nhập, mật khẩu, mã OTP,…) cho người lạ và nghi ngờ bị lừa đảo?
+Gọi ngay số (024) 39 44 55 66 hoặc 1800 59 9999 yêu cầu khóa thẻ và/hoặc tạm dừng dịch vụ tài khoản, dịch vụ Internet Banking, Mobile Banking để được hướng dẫn và hỗ trợ kịp thời. n-Trong trường hợp Quý khách đã cung cấp thông tin cho đối tượng và bị trừ tiền trong tài khoản, ngoài việc thông báo đến MSB để được hỗ trợ, Quý khách nên đến cơ quan Công An để trình báo.
+
+Nếu lỡ cung cấp thông tin sử dụng Internet Banking/Mobile Banking (tên đăng nhập, mật khẩu, mã OTP,…) cho người lạ,có dấu hiệu lừa đảo thì phải làm thế nào ?
+Gọi ngay số (024) 39 44 55 66 hoặc 1800 59 9999 yêu cầu khóa thẻ và/hoặc tạm dừng dịch vụ tài khoản, dịch vụ Internet Banking, Mobile Banking để được hướng dẫn và hỗ trợ kịp thời. n-Trong trường hợp Quý khách đã cung cấp thông tin cho đối tượng và bị trừ tiền trong tài khoản, ngoài việc thông báo đến MSB để được hỗ trợ, Quý khách nên đến cơ quan Công An để trình báo.
+
+Cách để xử lý khi lỡ cung cấp thông tin sử dụng Internet Banking/Mobile Banking (tên đăng nhập, mật khẩu, mã OTP,…) cho người lạ và nghi ngờ bị lừa đảo?
+Gọi ngay số (024) 39 44 55 66 hoặc 1800 59 9999 yêu cầu khóa thẻ và/hoặc tạm dừng dịch vụ tài khoản, dịch vụ Internet Banking, Mobile Banking để được hướng dẫn và hỗ trợ kịp thời. n-Trong trường hợp Quý khách đã cung cấp thông tin cho đối tượng và bị trừ tiền trong tài khoản, ngoài việc thông báo đến MSB để được hỗ trợ, Quý khách nên đến cơ quan Công An để trình báo.
+
+Thông tin sử dụng Internet Banking/Mobile Banking (tên đăng nhập, mật khẩu, mã OTP,…) lỡ đưa cho người lạ và nghi ngờ bị lừa đảo thì phải xử lý thế nào?
 Gọi ngay số (024) 39 44 55 66 hoặc 1800 59 9999 yêu cầu khóa thẻ và/hoặc tạm dừng dịch vụ tài khoản, dịch vụ Internet Banking, Mobile Banking để được hướng dẫn và hỗ trợ kịp thời. n-Trong trường hợp Quý khách đã cung cấp thông tin cho đối tượng và bị trừ tiền trong tài khoản, ngoài việc thông báo đến MSB để được hỗ trợ, Quý khách nên đến cơ quan Công An để trình báo.
 
 Khi nhận được email nghi ngờ thông tin lừa đảo, tôi nên làm gì?
 Nếu Quý khách nhận được email đáng ngờ và được thông báo là do MSB gửi, xin vui lòng liên hệ với Call Center của MSB qua số điện thoại (024) 39.44.55.66 hoặc 1800.599.999 (miễn phí) để xác nhận lại thông tin và chuyển tiếp email đó tới địa chỉ qlrr_cardrisk@msb.com.vn. n-Quý khách vui lòng không trả lời hay cung cấp bất cứ thông tin nào theo yêu cầu trong email trước khi xác thực được người gửi và nội dung email. n-Quý khách không được truy cập vào bất cứ kết nối (link) và không được mở file đính kèm được gửi trong email đáng ngờ (nếu có).
 
+Tôi nhận được email nghi ngờ lừa đảo, thì phải làm gì?
+Nếu Quý khách nhận được email đáng ngờ và được thông báo là do MSB gửi, xin vui lòng liên hệ với Call Center của MSB qua số điện thoại (024) 39.44.55.66 hoặc 1800.599.999 (miễn phí) để xác nhận lại thông tin và chuyển tiếp email đó tới địa chỉ qlrr_cardrisk@msb.com.vn. n-Quý khách vui lòng không trả lời hay cung cấp bất cứ thông tin nào theo yêu cầu trong email trước khi xác thực được người gửi và nội dung email. n-Quý khách không được truy cập vào bất cứ kết nối (link) và không được mở file đính kèm được gửi trong email đáng ngờ (nếu có).
+
 Nếu tôi nhận được cuộc gọi, tin nhắn hoặc email thông báo trúng thưởng hoặc nhờ nạp tiền điện thoại và yêu cầu tôi chuyển tiền lệ phí nhận thưởng đến tài khoản của một người khác. Tôi có nên chuyển tiền không và phải làm gì tiếp theo?
 Quý khách lưu ý không chuyển tiền cho người khác nếu không biết người liên hệ với mình là ai hoặc không biết/không có mối quan hệ nào với người thụ hưởng. Đồng thời, Quý khách nên gọi đến MSB (024) 39.44.55.66 hoặc 1800.599.999 để được tư vấn và hỗ trợ tốt nhất.
 
+Tôi có nên chuyển tiền không nếu nhận được cuộc gọi, tin nhắn hoặc email thông báo trúng thưởng hoặc nhờ nạp tiền điện thoại và yêu cầu chuyển tiền lệ phí nhận thưởng đến tài khoản của một người khác? Tôi nên làm gì để đảm bảo an toàn?
+Quý khách lưu ý không chuyển tiền cho người khác nếu không biết người liên hệ với mình là ai hoặc không biết/không có mối quan hệ nào với người thụ hưởng. Đồng thời, Quý khách nên gọi đến MSB (024) 39.44.55.66 hoặc 1800.599.999 để được tư vấn và hỗ trợ tốt nhất.
+
+Khi tôi nhận được cuộc gọi, tin nhắn hoặc email thông báo trúng thưởng hoặc nhờ nạp tiền điện thoại và yêu cầu chuyển tiền lệ phí nhận thưởng đến tài khoản của một người khác thì tôi phải làm gì tiếp theo?
+Quý khách lưu ý không chuyển tiền cho người khác nếu không biết người liên hệ với mình là ai hoặc không biết/không có mối quan hệ nào với người thụ hưởng. Đồng thời, Quý khách nên gọi đến MSB (024) 39.44.55.66 hoặc 1800.599.999 để được tư vấn và hỗ trợ tốt nhất.
+
 Tôi nên xử lý như thế nào nếu lỡ cài đặt 1 phần mềm/chương trình nghi ngờ là virus, malware hoặc truy cập liên kết không rõ nguồn gốc?
+Quý khách nên: n-- Sử dụng một thiết bị máy tính/điện thoại an toàn khác để thay đổi mật khẩu truy cập dịch vụ tài khoản. n-- Cài đặt/cập nhật phần mềm chống virus và tường lửa trên thiết bị nghi ngờ bị virus, malware, trojan,…; n-- Cập nhật các bản vá/bản cập nhật chống virus mới nhất và quét toàn bộ thiết bị máy tính/điện thoại.
+
+Nếu lỡ cài đặt 1 phần mềm/chương trình nghi ngờ là virus, malware hoặc truy cập liên kết không rõ nguồn gốc thì tôi phải làm thế nào?
+Quý khách nên: n-- Sử dụng một thiết bị máy tính/điện thoại an toàn khác để thay đổi mật khẩu truy cập dịch vụ tài khoản. n-- Cài đặt/cập nhật phần mềm chống virus và tường lửa trên thiết bị nghi ngờ bị virus, malware, trojan,…; n-- Cập nhật các bản vá/bản cập nhật chống virus mới nhất và quét toàn bộ thiết bị máy tính/điện thoại.
+
+Tôi lỡ cài đặt 1 phần mềm/chương trình nghi ngờ là virus, malware hoặc truy cập liên kết không rõ nguồn gốc thì phải làm gì để đảm bảo an toàn ?
+Quý khách nên: n-- Sử dụng một thiết bị máy tính/điện thoại an toàn khác để thay đổi mật khẩu truy cập dịch vụ tài khoản. n-- Cài đặt/cập nhật phần mềm chống virus và tường lửa trên thiết bị nghi ngờ bị virus, malware, trojan,…; n-- Cập nhật các bản vá/bản cập nhật chống virus mới nhất và quét toàn bộ thiết bị máy tính/điện thoại.
+
+Để đảm bảo an toàn khi lỡ cài đặt 1 phần mềm/chương trình nghi ngờ là virus, malware hoặc truy cập liên kết không rõ nguồn gốc thì phải làm thế nào ?
 Quý khách nên: n-- Sử dụng một thiết bị máy tính/điện thoại an toàn khác để thay đổi mật khẩu truy cập dịch vụ tài khoản. n-- Cài đặt/cập nhật phần mềm chống virus và tường lửa trên thiết bị nghi ngờ bị virus, malware, trojan,…; n-- Cập nhật các bản vá/bản cập nhật chống virus mới nhất và quét toàn bộ thiết bị máy tính/điện thoại.
 
 Thế nào là một trang web thanh toán an toàn?
@@ -22,6 +55,23 @@ Những trang web uy tín, an toàn thường có biểu tượng ổ khóa ở 
 Trang web thanh toán an toàn là thế nào?
 Những trang web uy tín, an toàn thường có biểu tượng ổ khóa ở thanh địa chỉ trên trình duyệt và địa chỉ truy cập trang web được bắt đầu với "https:" và được cung cấp bởi các tổ chức lớn và uy tín.
 
+Cách nhận biết một trang web thanh toán an toàn ?
+Những trang web uy tín, an toàn thường có biểu tượng ổ khóa ở thanh địa chỉ trên trình duyệt và địa chỉ truy cập trang web được bắt đầu với "https:" và được cung cấp bởi các tổ chức lớn và uy tín.
+
+Trang web thanh toán an toàn có những dấu hiệu nào để nhận biết ?
+Những trang web uy tín, an toàn thường có biểu tượng ổ khóa ở thanh địa chỉ trên trình duyệt và địa chỉ truy cập trang web được bắt đầu với "https:" và được cung cấp bởi các tổ chức lớn và uy tín.
+
 Mật khẩu 1 lần (OTP) là gì và giúp đảm bảo an toàn như thế nào?
 OTP hay còn gọi là mật khẩu sử dụng 01 lần là chuỗi ký tự do hệ thống cung cấp dịch vụ khởi tạo một cách ngẫu nhiên và duy nhất, được cung cấp tới Quý khách thông qua một số hình thức: ứng dụng token cài đặt trên thiết bị của Quý khách, token cứng mà MSB cung cấp, thẻ ma trận, SMS gửi tới số điện thoại đăng ký dịch vụ của Quý khách… n-Lưu ý: OTP cũng là mật khẩu mà Quý khách cần phải bảo mật. MSB sẽ KHÔNG BAO GIỜ yêu cầu Quý khách cung cấp mã OTP. Do vậy, Quý khách lưu ý không trả lời bất cứ yêu cầu nào liên quan đến mã OTP.
+
+Mật khẩu cung cấp 1 lần (OTP) là gì và cách thức hoạt động để đảm bảo an toàn ?
+OTP hay còn gọi là mật khẩu sử dụng 01 lần là chuỗi ký tự do hệ thống cung cấp dịch vụ khởi tạo một cách ngẫu nhiên và duy nhất, được cung cấp tới Quý khách thông qua một số hình thức: ứng dụng token cài đặt trên thiết bị của Quý khách, token cứng mà MSB cung cấp, thẻ ma trận, SMS gửi tới số điện thoại đăng ký dịch vụ của Quý khách… n-Lưu ý: OTP cũng là mật khẩu mà Quý khách cần phải bảo mật. MSB sẽ KHÔNG BAO GIỜ yêu cầu Quý khách cung cấp mã OTP. Do vậy, Quý khách lưu ý không trả lời bất cứ yêu cầu nào liên quan đến mã OTP.
+
+Mật khẩu OTP là gì và đảm bảo an toàn như thế nào?
+OTP hay còn gọi là mật khẩu sử dụng 01 lần là chuỗi ký tự do hệ thống cung cấp dịch vụ khởi tạo một cách ngẫu nhiên và duy nhất, được cung cấp tới Quý khách thông qua một số hình thức: ứng dụng token cài đặt trên thiết bị của Quý khách, token cứng mà MSB cung cấp, thẻ ma trận, SMS gửi tới số điện thoại đăng ký dịch vụ của Quý khách… n-Lưu ý: OTP cũng là mật khẩu mà Quý khách cần phải bảo mật. MSB sẽ KHÔNG BAO GIỜ yêu cầu Quý khách cung cấp mã OTP. Do vậy, Quý khách lưu ý không trả lời bất cứ yêu cầu nào liên quan đến mã OTP.
+
+Mật khẩu OTP là gì ?
+OTP hay còn gọi là mật khẩu sử dụng 01 lần là chuỗi ký tự do hệ thống cung cấp dịch vụ khởi tạo một cách ngẫu nhiên và duy nhất, được cung cấp tới Quý khách thông qua một số hình thức: ứng dụng token cài đặt trên thiết bị của Quý khách, token cứng mà MSB cung cấp, thẻ ma trận, SMS gửi tới số điện thoại đăng ký dịch vụ của Quý khách… n-Lưu ý: OTP cũng là mật khẩu mà Quý khách cần phải bảo mật. MSB sẽ KHÔNG BAO GIỜ yêu cầu Quý khách cung cấp mã OTP. Do vậy, Quý khách lưu ý không trả lời bất cứ yêu cầu nào liên quan đến mã OTP.
+
+
 

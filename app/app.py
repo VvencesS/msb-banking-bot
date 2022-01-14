@@ -1,3 +1,4 @@
+import json
 from flask import Flask, render_template, request, jsonify
 from chatterbot import ChatBot
 from chatterbot.trainers import ListTrainer
@@ -62,15 +63,40 @@ def home():
 @app.route("/api/get-response", methods=['GET'])
 def get_bot_response():
     userText = request.args.get('msg')
-    print(userText)
     result = str(bot.get_response(userText))
     return jsonify({'result': result})
+
 
 @app.route("/api/delete-learned-data", methods=['GET'])
 def delete_learned_data():
     # delete learned data
     bot.storage.drop()
     return jsonify({'result': 'Đã xóa dữ liệu!'})
+
+
+@app.route("/api/write-data-to-file", methods=['POST'])
+def writeDataToFile():
+    data = json.loads(request.data)
+
+    for duLieu in data:
+        directory = './banking_data_test/'
+        tenFileCuaNhan = 'cauhoichung'
+        locationFile = ''
+        list_CH_TL_Str=''
+
+        if duLieu.get('tenFile') != None:
+            tenFileCuaNhan = duLieu.get('tenFile')
+        locationFile = directory + tenFileCuaNhan + '.txt'
+
+        for ch_tl in duLieu.get('dsCH_TL'):
+            list_CH_TL_Str+='\n'+ch_tl.get('cauHoi')
+            list_CH_TL_Str+='\n'+ch_tl.get('traLoi')
+        file = open(locationFile, 'w+')
+        file.write(bytes(list_CH_TL_Str, encoding='utf8'))
+        file.close()
+
+    return jsonify({'result': 'Đã ghi dữ liệu!'})
+
 
 @app.route("/api/training-bot", methods=['GET'])
 def training_bot():

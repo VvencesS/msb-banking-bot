@@ -88,10 +88,13 @@ def writeDataToFile():
             tenFileCuaNhan = duLieu.get('tenFile')
         locationFile = directory + tenFileCuaNhan + '.txt'
 
-        for ch_tl in duLieu.get('dsCH_TL'):
-            list_CH_TL_Str+='\n'+ch_tl.get('cauHoi')
-            list_CH_TL_Str+='\n'+ch_tl.get('traLoi')
-        file = open(locationFile, 'w+')
+        if len(duLieu.get('dsCH_TL')) > 0:
+            for ch_tl in duLieu.get('dsCH_TL'):
+                list_CH_TL_Str+=ch_tl.get('cauHoi')
+                list_CH_TL_Str+='\n'+ch_tl.get('traLoi')+'\n\n'
+        else:
+            list_CH_TL_Str=' '
+        file = open(locationFile, 'wb')
         file.write(bytes(list_CH_TL_Str, encoding='utf8'))
         file.close()
 
@@ -101,7 +104,7 @@ def writeDataToFile():
 @app.route("/api/training-bot", methods=['GET'])
 def training_bot():
     # locate training folder
-    directory = './banking_data'
+    directory = './banking_data_test'
     for filename in os.listdir(directory):
         if filename.endswith(".txt"):  # only pick txt file for training
             print('\nĐang huấn luyện chatbot với file: ' +

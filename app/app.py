@@ -54,11 +54,9 @@ bot = ChatBot(
 app = Flask(__name__)
 app.static_folder = 'static'
 
-
 @app.route("/")
 def home():
     return render_template("index.html")
-
 
 @app.route("/api/get-response", methods=['GET'])
 def get_bot_response():
@@ -66,20 +64,18 @@ def get_bot_response():
     result = str(bot.get_response(userText))
     return jsonify({'result': result})
 
-
 @app.route("/api/delete-learned-data", methods=['GET'])
 def delete_learned_data():
     # delete learned data
     bot.storage.drop()
     return jsonify({'result': 'Đã xóa dữ liệu!'})
 
-
 @app.route("/api/write-data-to-file", methods=['POST'])
 def writeDataToFile():
     data = json.loads(request.data)
 
     for duLieu in data:
-        directory = './banking_data_test/'
+        directory = './banking_data/'
         tenFileCuaNhan = 'cauhoichung'
         locationFile = ''
         list_CH_TL_Str=''
@@ -98,11 +94,10 @@ def writeDataToFile():
 
     return jsonify({'result': 'Đã ghi dữ liệu!'})
 
-
 @app.route("/api/training-bot", methods=['GET'])
 def training_bot():
     # locate training folder
-    directory = './banking_data_test'
+    directory = './banking_data'
     for filename in os.listdir(directory):
         if filename.endswith(".txt"):  # only pick txt file for training
             print('\nĐang huấn luyện chatbot với file: ' +
@@ -114,7 +109,6 @@ def training_bot():
         else:
             continue
     return jsonify({'result': 'Đã huấn luyện xong!'})
-
 
 if __name__ == "__main__":
     app.run()

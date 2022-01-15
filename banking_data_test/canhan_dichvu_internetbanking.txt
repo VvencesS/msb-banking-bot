@@ -1,0 +1,12 @@
+Tôi có thể sử dụng dịch vụ MSB Bankplus bằng hình thức nào?
+MSB Bankplus cho phép Khách hàng lựa chọn 1 trong 2 hình thức sau để thực hiện giao dịch:n-- MSB Bankplus USSD: cho phép Khách hàng dễ dàng thực hiện các giao dịch ngân hàng thông qua ứng dụng USSD (bấm *123#). n-- MSB Bankplus Sim Tool Kit (STK): cho phép Khách hàng dễ dàng thực hiện các giao dịch ngân hàng thông qua ứng dụng được tích hợp sẵn trên SIM điện thoại Viettel.
+
+Hình thức để sử dụng dịch vụ MSB Bankplus ?
+MSB Bankplus cho phép Khách hàng lựa chọn 1 trong 2 hình thức sau để thực hiện giao dịch:n-- MSB Bankplus USSD: cho phép Khách hàng dễ dàng thực hiện các giao dịch ngân hàng thông qua ứng dụng USSD (bấm *123#). n-- MSB Bankplus Sim Tool Kit (STK): cho phép Khách hàng dễ dàng thực hiện các giao dịch ngân hàng thông qua ứng dụng được tích hợp sẵn trên SIM điện thoại Viettel.
+
+Hình thức để thực hiện giao dịch với MSB Bankplus ?
+MSB Bankplus cho phép Khách hàng lựa chọn 1 trong 2 hình thức sau để thực hiện giao dịch:n-- MSB Bankplus USSD: cho phép Khách hàng dễ dàng thực hiện các giao dịch ngân hàng thông qua ứng dụng USSD (bấm *123#). n-- MSB Bankplus Sim Tool Kit (STK): cho phép Khách hàng dễ dàng thực hiện các giao dịch ngân hàng thông qua ứng dụng được tích hợp sẵn trên SIM điện thoại Viettel.
+
+Các tính năng mà dịch vụ MSB Bankplus cung cấp cho Khách hàng?
+Sử dụng MSB Bankplus, Khách hàng hoàn toàn có thể: n-- Tra cứu tài khoản: tra cứu số dư và lịch sử giao dịch tài khoản; n-- Chuyển khoản nội ngân hàng: chuyển khoản theo số thuê bao hoặc theo số tài khoản; n-- Nạp tiền và thanh toán cước viễn thông Viettel: điện thoại di động trả trước/trả sau, Homephone, ADSL, PSTN…; n-- Kích hoạt dịch vụ; n-- Đổi PIN; n-- Hỗ trợ thông tin: tra cứu Danh mục Ngân hàng, Danh mục dịch vụ, Biểu phí và Hướng dẫn sử dụng.
+

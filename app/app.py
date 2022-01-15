@@ -92,11 +92,9 @@ def writeDataToFile():
             for ch_tl in duLieu.get('dsCH_TL'):
                 list_CH_TL_Str+=ch_tl.get('cauHoi')
                 list_CH_TL_Str+='\n'+ch_tl.get('traLoi')+'\n\n'
-        else:
-            list_CH_TL_Str=' '
-        file = open(locationFile, 'wb')
-        file.write(bytes(list_CH_TL_Str, encoding='utf8'))
-        file.close()
+            file = open(locationFile, 'wb')
+            file.write(bytes(list_CH_TL_Str, encoding='utf8'))
+            file.close()
 
     return jsonify({'result': 'Đã ghi dữ liệu!'})
 

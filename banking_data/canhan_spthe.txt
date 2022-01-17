@@ -10,32 +10,3 @@ Gọi ngay số (024) 39 44 55 66 hoặc 1800 59 9999 yêu cầu khóa thẻ và
 Tôi có thể đưa thẻ và PIN cho người thân/bạn bè sử dụng được không?
 Không. Để đảm bảo an toàn, Quý khách không nên đưa thẻ và PIN cho người khác sử dụng. Nếu nguời thân có nhu cầu sử dụng thẻ thì Quý khách có thể phát hành thẻ phụ cho người thân sử dụng.
 
-Tôi có nên đưa thẻ và PIN cho người thân/bạn bè không?
-Không. Để đảm bảo an toàn, Quý khách không nên đưa thẻ và PIN cho người khác sử dụng. Nếu nguời thân có nhu cầu sử dụng thẻ thì Quý khách có thể phát hành thẻ phụ cho người thân sử dụng.
-
-Nếu tôi  đưa thẻ và PIN cho người thân/bạn bè dùng thì có sao không?
-Không. Để đảm bảo an toàn, Quý khách không nên đưa thẻ và PIN cho người khác sử dụng. Nếu nguời thân có nhu cầu sử dụng thẻ thì Quý khách có thể phát hành thẻ phụ cho người thân sử dụng.
-
-Tôi nhận được tin nhắn của MSB báo trừ tiền thẻ/tài khoản nhưng tôi không thực hiện bât cứ giao dịch nào vào thời gian đó. Tôi cần phải làm gì?
-Quý khách phải ngay lập tức liên hệ MSB số: (024) 39 44 55 66 hoặc 1800 59 9999 để khóa thẻ kịp thời, tránh phát sinh thêm giao dịch khác. Nhân viên tổng đài sẽ hướng dẫn Quý khách kiểm tra lại thông tin giao dịch và hướng dẫn thủ tục tra soát hoặc thay thế thẻ (nếu cần). Trong trường hợp khiếu nại sai, Quý khách sẽ bị thu phí theo quy định của MSB.
-
-Khi nhận được tin nhắn của MSB báo trừ tiền thẻ/tài khoản nhưng tôi không thực hiện bất cứ giao dịch nào vào thời gian đó thì tôi phải làm gì?
-Quý khách phải ngay lập tức liên hệ MSB số: (024) 39 44 55 66 hoặc 1800 59 9999 để khóa thẻ kịp thời, tránh phát sinh thêm giao dịch khác. Nhân viên tổng đài sẽ hướng dẫn Quý khách kiểm tra lại thông tin giao dịch và hướng dẫn thủ tục tra soát hoặc thay thế thẻ (nếu cần). Trong trường hợp khiếu nại sai, Quý khách sẽ bị thu phí theo quy định của MSB.
-
-Nếu như tôi không thực hiện bất cứ giao dịch nào nhưng vẫn nhận được tin nhắn của MSB báo trừ tiền thẻ/tài khoản thì tôi phải làm gì?
-Quý khách phải ngay lập tức liên hệ MSB số: (024) 39 44 55 66 hoặc 1800 59 9999 để khóa thẻ kịp thời, tránh phát sinh thêm giao dịch khác. Nhân viên tổng đài sẽ hướng dẫn Quý khách kiểm tra lại thông tin giao dịch và hướng dẫn thủ tục tra soát hoặc thay thế thẻ (nếu cần). Trong trường hợp khiếu nại sai, Quý khách sẽ bị thu phí theo quy định của MSB.
-
-Nếu tôi nhận được email hoặc cuộc gọi từ một người đề nghị cung cấp thông tin thẻ, mã PIN, mã OTP hoặc số bảo mật CVC2 thì tôi phải làm gì?
-Quý khách tuyệt đối KHÔNG trả lời các email và cuộc gọi hỏi về thông tin bảo mật của Quý khách và thông báo ngay cho MSB vê hiện tượng này theo số (024) 39 44 55 66 hoặc 1800 59 9999 hoặc email msb@msb.com.vn hoặc qlrr_cardrisk@msb.com.vn để được tư vấn và hỗ trợ tốt nhất. n-Luôn ghi nhớ rằng: MSB và Tổ chức Thẻ quốc tế không bao giờ yêu cầu Quý khách cung cấp thông tin bảo mật như: mật khẩu, mã PIN thẻ ATM, mã bảo mật của Thẻ (CVC2) và OTP dưới bất kỳ hình thức nào. n-Nếu người gọi tự xưng là nhân viên MSB thì đây là hiện tượng lừa đảo, mạo danh Ngân hàng nhằm đánh cắp thông tin thông tin và tiền của Chủ thẻ.
-
-Mã OTP của MSB là gì? Sử dụng mã OTP cho giao dịch gì? ("trùng với file canhan-dichvu- giaodichantoan") 
-Mã OTP (One Time Password): Là mật khẩu sử dụng 1 lần, gồm các chữ số được MSB cung cấp một cách ngẫu nhiên và duy nhất. Mã OTP được MSB gửi mã OTP qua tin nhắn đến số điện thoại mà chủ thẻ đã đăng ký trước đó. Mã OTP được sử dụng cho các giao dịch: n-- Thanh toán trực tuyến/thực hiện giao dịch mua hàng qua mạng bằng thẻ ghi nợ nội địa.n-- Giao dịch tài chính khác liên quan đến Tài khoản của chủ thẻ trên Ngân hàng điện tử. n-Lưu ý: OTP cũng là mật khẩu mà Quý khách cần phải bảo mật. MSB sẽ KHÔNG BAO GIỜ yêu cầu Quý khách cung cấp mã OTP. Do vậy, Quý khách lưu ý không trả lời bất cứ yêu cầu nào liên quan đến mã OTP.
-
-Khi sử dụng thẻ tại các cửa hàng, quán ăn, tôi cần chú ý những gì?
-Quý khách cần lưu ý: n-- Luôn để thẻ trong tầm kiểm soát và quan sát kỹ thao tác của nhân viên thanh toán khi giao dịch tại các địa điểm công cộng, đặc biệt là: nhà hàng, siêu thị, … n-- Kiểm tra kỹ các thông tin trên hoá đơn mua hàng trước khi ký (loại hàng hóa, số lượng, giá trị thanh toán…) và kiểm tra thông tin giữa các liên của hóa đơn nhằm đảm bảo thông tin trùng khớp.
-
-Điều cần phải lưu ý khi sử dụng thẻ tại các cửa hàng, quán ăn?
-Quý khách cần lưu ý: n-- Luôn để thẻ trong tầm kiểm soát và quan sát kỹ thao tác của nhân viên thanh toán khi giao dịch tại các địa điểm công cộng, đặc biệt là: nhà hàng, siêu thị, … n-- Kiểm tra kỹ các thông tin trên hoá đơn mua hàng trước khi ký (loại hàng hóa, số lượng, giá trị thanh toán…) và kiểm tra thông tin giữa các liên của hóa đơn nhằm đảm bảo thông tin trùng khớp.
-
-Nếu sử dụng thẻ tại các cửa hàng, quán ăn thì cần phải lưu ý điều gì?
-Quý khách cần lưu ý: n-- Luôn để thẻ trong tầm kiểm soát và quan sát kỹ thao tác của nhân viên thanh toán khi giao dịch tại các địa điểm công cộng, đặc biệt là: nhà hàng, siêu thị, … n-- Kiểm tra kỹ các thông tin trên hoá đơn mua hàng trước khi ký (loại hàng hóa, số lượng, giá trị thanh toán…) và kiểm tra thông tin giữa các liên của hóa đơn nhằm đảm bảo thông tin trùng khớp.

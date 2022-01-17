@@ -1,8 +1,5 @@
-Các dịch vụ chuyển và nhận tiền dành cho cá nhân của MSB?
-Chuyển & Nhận tiền quốc tế: Nhận hoặc chuyển tiền nhanh chóng với các ngân hàng khác ở nước ngoài n--Chuyển & Nhận tiền trong nước: Nhận tiền mặt hay chuyển khoản từ các ngân hàng trong nước qua MSB
-
-MSB có các dịch vụ nào để chuyển và nhận tiền dành cho cá nhân?
-Chuyển & Nhận tiền quốc tế: Nhận hoặc chuyển tiền nhanh chóng với các ngân hàng khác ở nước ngoài n--Chuyển & Nhận tiền trong nước: Nhận tiền mặt hay chuyển khoản từ các ngân hàng trong nước qua MSB
+Nhận và chuyển tiền ra nước ngoài qua Western Union là như thế nào?
+n--Tiền được chuyển/nhận thành công chỉ trong vòng 15 phút. n--Khách hàng không cần có tài khoản tại MSB. n--An toàn và thuận tiện. n--Khách hàng có thể lựa chọn nhận bằng USD hoặc VNĐ. n--Khách hàng không phải trả bất kỳ khoản phí nào khi nhận tiền. n--Được phục vụ bởi mạng lưới giao dịch rộng khắp của MSB trên toàn quốc. n--Đối tượng: Cá nhân người Việt Nam có nhu cầu chuyển tiền ra nước ngoài theo các mục đích hợp pháp.
 
 Đối với phương thức Chuyển & Nhận tiền quốc tế thì có những dịch vụ chuyển và nhận tiền nào dành cho cá nhân ?
 n--Nhận và chuyển tiền Swift n--Nhận kiều hối vào tài khoản qua Western Union n--Nhận và chuyển tiền ra nước ngoài qua Western Union
@@ -81,3 +78,4 @@ n--Khách hàng không cần trực tiếp tới quầy giao dịch vẫn có th
 
 Chuyển tiền tại quầy là như nào?
 n--Mức phí cạnh tranh. Vui lòng tham khảo Biểu phí tại đây. n--Khách hàng có tài khoản hay không có tài khoản tại ngân hàng đều có thể nhận tiền chuyển đến. n--Không cần khai báo nguồn gốc tiền chuyển đến.
+

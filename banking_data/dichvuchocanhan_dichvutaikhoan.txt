@@ -1,6 +1,3 @@
-Các gói dịch vụ tài khoản dành cho cá nhân của MSB ?
-n--Gói giải pháp M-Business: Giải pháp tài chính dành riêng cho người chủ kinh doanh n--Gói giải pháp M-Business: Dành cho khách hàng nhà bán TIKI n--Gói tài khoản M1-Account: Gói tài khoản đa tiện ích – giải pháp thanh toán thông minh và tiện lợi cho mỗi khách hàng n--Gói tài khoản M-PRO: Siêu miễn phí – Hoàn tiền tới 3.6 triệu/năm n--Gói giải pháp M-Payroll: Miễn phí mỗi ngày – Tín dụng cấp ngay n--Gói tài khoản M-Money: Gói tài khoản không kỳ hạn đáp ứng nhu cầu tài chính đa dạng của khách hàng n--Gói giải pháp M-Business Fast n--Gói tài khoản M-Premier Plus: Gói tài khoản ưu việt dành riêng cho khách hàng cao cấp thuộc phân khúc Premier n--Thanh toán tự động cước viễn thông: Đăng ký 1 lần duy nhất tại quầy, thanh toán tự động hàng tháng
-
 MSB có các gói dịch vụ tài khoản dành cho cá nhân nào ?
 n--Gói giải pháp M-Business: Giải pháp tài chính dành riêng cho người chủ kinh doanh n--Gói giải pháp M-Business: Dành cho khách hàng nhà bán TIKI n--Gói tài khoản M1-Account: Gói tài khoản đa tiện ích – giải pháp thanh toán thông minh và tiện lợi cho mỗi khách hàng n--Gói tài khoản M-PRO: Siêu miễn phí – Hoàn tiền tới 3.6 triệu/năm n--Gói giải pháp M-Payroll: Miễn phí mỗi ngày – Tín dụng cấp ngay n--Gói tài khoản M-Money: Gói tài khoản không kỳ hạn đáp ứng nhu cầu tài chính đa dạng của khách hàng n--Gói giải pháp M-Business Fast n--Gói tài khoản M-Premier Plus: Gói tài khoản ưu việt dành riêng cho khách hàng cao cấp thuộc phân khúc Premier n--Thanh toán tự động cước viễn thông: Đăng ký 1 lần duy nhất tại quầy, thanh toán tự động hàng tháng
 
@@ -26,7 +23,6 @@ Thẻ tín dụng dành riêng cho chủ kinh doanh
 n--Đặc quyền phát hành thẻ ngay dành riêng cho Chủ doanh nghiệp, không cần chứng minh tài chính n--Cấp Hạn mức thẻ tín dụng dựa trên dòng tiền ghi có của khách hàng tại ngân hàng n--Hạn mức thẻ cao, lên tới 1 tỷ đồng n--Hoàn tiền 10% cho mọi chi tiêu, tối đa 14 triệu đồng/năm n--Giảm giá tới 30% tại hàng trăm đối tác liên kết trong Thế giới ưu đãi JOY
 
 Với Gói giải pháp M-Business dành riêng cho người chủ kinh doanh thì chính sách về thẻ tín dụng là gì?
-Thẻ tín dụng dành riêng cho chủ kinh doanh
 n--Đặc quyền phát hành thẻ ngay dành riêng cho Chủ doanh nghiệp, không cần chứng minh tài chính n--Cấp Hạn mức thẻ tín dụng dựa trên dòng tiền ghi có của khách hàng tại ngân hàng n--Hạn mức thẻ cao, lên tới 1 tỷ đồng n--Hoàn tiền 10% cho mọi chi tiêu, tối đa 14 triệu đồng/năm n--Giảm giá tới 30% tại hàng trăm đối tác liên kết trong Thế giới ưu đãi JOY
 
 Chính sách về hạn mức thấu chi của Gói giải pháp M-Business dành riêng cho người chủ kinh doanh?
@@ -101,7 +97,7 @@ n--Cộng thêm lên tới 0.5% lãi suất tiền gửi trực tuyến
 Những ưu đãi đặc quyền của gói giải pháp M-Business Dành cho khách hàng nhà bán TIKI như thế nào?
 n--Cộng thêm lên tới 0.5% lãi suất tiền gửi trực tuyến
 
-Dịch vụ tài khoản dành cho cá nhân: Gói tài khoản M1 - account
+Dịch vụ tài khoản dành cho cá nhân: Gói tài khoản M1 - account?
 Lợi ích: n-Gói tài khoản M1 Account bao gồm tất cả các dịch vụ cần thiết để đáp ứng nhu cầu thanh toán linh hoạt, đa dạng của Khách hàng, bao gồm: Tài khoản M1, Thẻ ghi nợ quốc tế Visa Debit Classic for Payroll (miễn phí phát hành), Internet Banking gói IB-đầy đủ, Mobile Banking gói MB-đầy đủ. n--Đăng ký nhanh chóng, đơn giản, chỉ mất 10 phút cho tất cả các dịch vụ mong muốn. n--Các dịch vụ đa dạng, đáp ứng nhu cầu giao dịch thường xuyên của khách hàng. n--Dễ sử dụng và thân thiện với việc tích hợp Internet Banking, SMS Banking, Mobile Banking, thẻ ghi nợ quốc tế Visa.
 
 Lợi ích của Gói tài khoản M1 - account là gì và lợi ích ?
@@ -159,10 +155,10 @@ Dịch vụ tài khoản dành cho cá nhân: Phí giao dịch Tài khoản M-Bu
 Siêu miễn phí, ứng vốn nhanh
 n--Miễn toàn bộ phí giao dịch qua các kênh điện tử (Internet, Mobile Banking, SMS Banking), n--Hạn mức chuyển tiền nội bộ MSB tới 10 tỷ đồng/ngày, liên ngân hàng tới 6 tỷ đồng/ngày n--Miễn phí rút tiền mặt tại ATM của MSB và miễn phí rút tiền 2 giao dịch đầu tiên trong tháng tại ATM ngân hàng khác, từ giao dịch thứ 3 phí rút tiền là 3.000VND/giao dịch n--Hoàn tiền 10% cho mọi chi tiêu quảng cáo trong 3 tháng đầu kể từ khi mở tài khoản, tối đa 300.000VND/tháng
 
-Dịch vụ tài khoản dành cho cá nhân: Chính sách thẻ tín dụng dành riêng cho chủ kinh doanh của Tài khoản M-Business Fast? 
+Dịch vụ tài khoản dành cho cá nhân: Chính sách thẻ tín dụng dành riêng cho chủ kinh doanh của Tài khoản M-Business Fast?
 n--Đặc quyền phát hành thẻ ngay dành riêng cho Chủ kinh doanh n--Cấp hạn mức thẻ tín dụng dựa trên dòng tiền kinh doanh n--Hạn mức thẻ lên tới 200 triệu đồng n--Ưu đãi tới 30% khi chi tiêu tại hàng trăm đối tác liên kết trong Thế giới ưu đãi JOY
 
-Dịch vụ tài khoản dành cho cá nhân: Chính sách về hạn mức tín chấp của Gói giải pháp M-Business Fast? 
+Dịch vụ tài khoản dành cho cá nhân: Chính sách về hạn mức tín chấp của Gói giải pháp M-Business Fast?
 Đặc quyền thấu chi và vay trả góp không tài sản bảo đảm
 n--Cấp ngay hạn mức tín chấp dựa trên dòng tiền kinh doanh của khách hàng n--Tổng hạn mức lên đến 1 tỷ đồng (Bao gồm hạn mức thẻ tín dụng, thấu chi, khoản vay tín chấp) n--Lãi suất cho vay chỉ từ 1.16%/tháng n-(*) Hồ sơ vay vốn, thấu chi: CMND, sổ hộ khẩu, giấy tờ chứng minh hoạt động kinh doanh (báo cáo kinh doanh, sổ ghi chép kế toán, hợp đồng thuê cửa hàng), sao kê tài khoản ngân hàng từ 3 tháng trở lên.
 
@@ -173,7 +169,7 @@ Dịch vụ tài khoản dành cho cá nhân:Các ưu đãi đặc quyền khác
 n--Cộng thêm lên tới 0.5% lãi suất tiền gửi trực tuyến
 
 Dịch vụ tài khoản dành cho cá nhân: Gói tài khoản M-Premier Plus là gì?
-Gói tài khoản M-Premier Plus gồm tất cả các dịch vụ cần thiết, đáp ứng dòng tiền lưu chuyển lớn của khách hàng kinh doanh với hạn mức cao, ưu tiên trong giao dịch, ưu tiên thu tiền tại chỗ, bao gồm: Tài khoản M-Premier Plus, Thẻ ghi nợ quốc tế MasterCard Platinum (miễn phí phát hành),  Internet Banking gói M-Premier, Mobile Banking gói M-Premier. n--Đăng ký nhanh chóng, đơn giản, chỉ mất 10 phút cho tất cả các dịch vụ mong muốn. n--Các dịch vụ đa dạng được đóng gói đầy đủ, đáp ứng giao dịch chuyển khoản và nộp/rút/chuyển tiền mặt nhiều, thường xuyên, giá trị giao dịch  lớn. n--Dễ sử dụng và thân thiện với việc tích hợp Internet Banking và SMS Banking, Mobile Banking (hạn chế rủi ro nhờ xác thực bằng token key), thẻ ghi nợ quốc tế MasterCard. n--Ưu đãi lãi suất gửi tiết kiệm. n-Bạn có thể xem chi tiết tại: https://www.msb.com.vn/Dich-vu-tai-khoan/1743/3/Goi-tai-khoan-M-Premier-Plus
+Gói tài khoản M-Premier Plus gồm tất cả các dịch vụ cần thiết, đáp ứng dòng tiền lưu chuyển lớn của khách hàng kinh doanh với hạn mức cao, ưu tiên trong giao dịch, ưu tiên thu tiền tại chỗ, bao gồm: Tài khoản M-Premier Plus, Thẻ ghi nợ quốc tế MasterCard Platinum (miễn phí phát hành),  Internet Banking gói M-Premier, Mobile Banking gói M-Premier. n--Đăng ký nhanh chóng, đơn giản, chỉ mất 10 phút cho tất cả các dịch vụ mong muốn. n--Các dịch vụ đa dạng được đóng gói đầy đủ, đáp ứng giao dịch chuyển khoản và nộp/rút/chuyển tiền mặt nhiều, thường xuyên, giá trị giao dịch  lớn. n--Dễ sử dụng và thân thiện với việc tích hợp Internet Banking và SMS Banking, Mobile Banking (hạn chế rủi ro nhờ xác thực bằng token key), thẻ ghi nợ quốc tế MasterCard. n--Ưu đãi lãi suất gửi tiết kiệm.
 
 Dịch vụ tài khoản dành cho cá nhân: Lợi ích của Gói tài khoản M-Premier Plus?
 Gói tài khoản M-Premier Plus gồm tất cả các dịch vụ cần thiết, đáp ứng dòng tiền lưu chuyển lớn của khách hàng kinh doanh với hạn mức cao, ưu tiên trong giao dịch, ưu tiên thu tiền tại chỗ, bao gồm: Tài khoản M-Premier Plus, Thẻ ghi nợ quốc tế MasterCard Platinum (miễn phí phát hành),  Internet Banking gói M-Premier, Mobile Banking gói M-Premier. n--Đăng ký nhanh chóng, đơn giản, chỉ mất 10 phút cho tất cả các dịch vụ mong muốn. n--Các dịch vụ đa dạng được đóng gói đầy đủ, đáp ứng giao dịch chuyển khoản và nộp/rút/chuyển tiền mặt nhiều, thường xuyên, giá trị giao dịch  lớn. n--Dễ sử dụng và thân thiện với việc tích hợp Internet Banking và SMS Banking, Mobile Banking (hạn chế rủi ro nhờ xác thực bằng token key), thẻ ghi nợ quốc tế MasterCard. n--Ưu đãi lãi suất gửi tiết kiệm.
@@ -188,15 +184,15 @@ Dịch vụ tài khoản dành cho cá nhân: Dịch vụ thanh toán tự độ
 Với dịch vụ thanh toán tự động cước viễn thông, chỉ cần đăng ký 1 lần duy nhất tại quầy giao dịch, bạn sẽ dễ dàng chi trả hóa đơn trả sau hay nạp tiền trả trước của các nhà mạng một cách đơn giản, nhanh chóng, tự động hàng tháng! n--Không lo trễ hạn thanh toán hóa đơn cước trả sau n--Tự động nạp tiền khi có khuyến mại trả trước của nhà mạng n--Đa dạng các nhà cung cấp viễn thông: Vinaphone, Mobifone, Viettel n--Đăng ký cùng lúc cho nhiều số thuê bao di động khác nhau n--Hoàn toàn miễn phí đăng ký n-Để được tư vấn thêm về dịch vụ Quý khách vui lòng liên hệ điểm giao dịch MSB gần nhất (chi tiết tại đây) hoặc liên hệ Call Center 24/7: 1800599999 (miễn phí) hoặc (024) 3944 5566. n- Bạn có thể xem chi tiết tại: https://www.msb.com.vn/Dich-vu-tai-khoan/1517/3/Thanh-toan-tu-dong-cuoc-vien-thong
 
 Dịch vụ tài khoản dành cho cá nhân: Tiện ích củaThanh toán tự động cước viễn thông?
-Với dịch vụ thanh toán tự động cước viễn thông, chỉ cần đăng ký 1 lần duy nhất tại quầy giao dịch, bạn sẽ dễ dàng chi trả hóa đơn trả sau hay nạp tiền trả trước của các nhà mạng một cách đơn giản, nhanh chóng, tự động hàng tháng! n--Không lo trễ hạn thanh toán hóa đơn cước trả sau n--Tự động nạp tiền khi có khuyến mại trả trước của nhà mạng n--Đa dạng các nhà cung cấp viễn thông: Vinaphone, Mobifone, Viettel n--Đăng ký cùng lúc cho nhiều số thuê bao di động khác nhau n--Hoàn toàn miễn phí đăng ký n-Để được tư vấn thêm về dịch vụ Quý khách vui lòng liên hệ điểm giao dịch MSB gần nhất (chi tiết tại đây) hoặc liên hệ Call Center 24/7: 1800599999 (miễn phí) hoặc (024) 3944 5566.
+Với dịch vụ thanh toán tự động cước viễn thông, chỉ cần đăng ký 1 lần duy nhất tại quầy giao dịch, bạn sẽ dễ dàng chi trả hóa đơn trả sau hay nạp tiền trả trước của các nhà mạng một cách đơn giản, nhanh chóng, tự động hàng tháng! n--Không lo trễ hạn thanh toán hóa đơn cước trả sau n--Tự động nạp tiền khi có khuyến mại trả trước của nhà mạng n--Đa dạng các nhà cung cấp viễn thông: Vinaphone, Mobifone, Viettel n--Đăng ký cùng lúc cho nhiều số thuê bao di động khác nhau n--Hoàn toàn miễn phí đăng ký n-Để được tư vấn thêm về dịch vụ Quý khách vui lòng liên hệ điểm giao dịch MSB gần nhất (chi tiết tại đây) hoặc liên hệ Call Center 24/7: 1800599999 (miễn phí) hoặc (024) 3944 5566. n- Bạn có thể xem chi tiết tại: https://www.msb.com.vn/Dich-vu-tai-khoan/1517/3/Thanh-toan-tu-dong-cuoc-vien-thong
 
 Dịch vụ tài khoản dành cho cá nhân: Lợi ích của dịch vụ Thanh toán tự động cước viễn thông?
-Với dịch vụ thanh toán tự động cước viễn thông, chỉ cần đăng ký 1 lần duy nhất tại quầy giao dịch, bạn sẽ dễ dàng chi trả hóa đơn trả sau hay nạp tiền trả trước của các nhà mạng một cách đơn giản, nhanh chóng, tự động hàng tháng! n--Không lo trễ hạn thanh toán hóa đơn cước trả sau n--Tự động nạp tiền khi có khuyến mại trả trước của nhà mạng n--Đa dạng các nhà cung cấp viễn thông: Vinaphone, Mobifone, Viettel n--Đăng ký cùng lúc cho nhiều số thuê bao di động khác nhau n--Hoàn toàn miễn phí đăng ký n-Để được tư vấn thêm về dịch vụ Quý khách vui lòng liên hệ điểm giao dịch MSB gần nhất (chi tiết tại đây) hoặc liên hệ Call Center 24/7: 1800599999 (miễn phí) hoặc (024) 3944 5566.
+Với dịch vụ thanh toán tự động cước viễn thông, chỉ cần đăng ký 1 lần duy nhất tại quầy giao dịch, bạn sẽ dễ dàng chi trả hóa đơn trả sau hay nạp tiền trả trước của các nhà mạng một cách đơn giản, nhanh chóng, tự động hàng tháng! n--Không lo trễ hạn thanh toán hóa đơn cước trả sau n--Tự động nạp tiền khi có khuyến mại trả trước của nhà mạng n--Đa dạng các nhà cung cấp viễn thông: Vinaphone, Mobifone, Viettel n--Đăng ký cùng lúc cho nhiều số thuê bao di động khác nhau n--Hoàn toàn miễn phí đăng ký n-Để được tư vấn thêm về dịch vụ Quý khách vui lòng liên hệ điểm giao dịch MSB gần nhất (chi tiết tại đây) hoặc liên hệ Call Center 24/7: 1800599999 (miễn phí) hoặc (024) 3944 5566. n- Bạn có thể xem chi tiết tại: https://www.msb.com.vn/Dich-vu-tai-khoan/1517/3/Thanh-toan-tu-dong-cuoc-vien-thong
 
 Dịch vụ tài khoản dành cho cá nhân: Điều kiện Thanh toán tự động cước viễn thông?
 Khách hàng cá nhân là người Việt Nam sử dụng các dịch vụ viễn thông trả sau hoặc trả trước của các nhà mạng sau: n--VinaPhone n--Mobifone n--Viettel n-Khách hàng có tài khoản hoạt động tại MSB n-Số dư của khách hàng phải có đủ số tài khoản để thanh toán hóa đơn hoặc bằng mệnh giá đăng ký trả trước khi có khuyến mại
 
-Dịch vụ tài khoản dành cho cá nhân: Để thanh toán tự động cước viễn thông thì cần những điều kiện nào?
+Dịch vụ tài khoản dành cho cá nhân: Để thanh toán tự động cước viễn thông thì cần những điều kiện nào?'
 Khách hàng cá nhân là người Việt Nam sử dụng các dịch vụ viễn thông trả sau hoặc trả trước của các nhà mạng sau: n--VinaPhone n--Mobifone n--Viettel n-Khách hàng có tài khoản hoạt động tại MSB n-Số dư của khách hàng phải có đủ số tài khoản để thanh toán hóa đơn hoặc bằng mệnh giá đăng ký trả trước khi có khuyến mại
 
 Dịch vụ tài khoản dành cho cá nhân: Thủ tục của Thanh toán tự động cước viễn thông?
@@ -207,3 +203,4 @@ Khách hàng mang theo Chứng minh thư hoặc hộ chiếu đến quầy giao 
 
 Dịch vụ tài khoản dành cho cá nhân: So sánh các loại tài khoản dành cho khách hàng cá nhân?
 Bạn có thể xem chi tiết tại đây: https://www.msb.com.vn/Dich-vu-tai-khoan/386/3/So-sanh-cac-loai-tai-khoan-danh-cho-khach-hang-ca-nhan
+
